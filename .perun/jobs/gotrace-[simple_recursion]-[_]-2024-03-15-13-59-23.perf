@@ -1,0 +1,474 @@
+{
+  "resources": {
+    "main.recursiveFunction#0": {
+      "amount": [
+        4
+      ]
+    },
+    "main.recursiveFunction#1": {
+      "amount": [
+        9.61311698276558e-08
+      ]
+    },
+    "main.recursiveFunction#2": {
+      "amount": [
+        41.609813
+      ]
+    },
+    "main.recursiveFunction#3": {
+      "amount": [
+        6.920475820184246e-06
+      ]
+    },
+    "main.recursiveFunction#4": {
+      "amount": [
+        23.62526
+      ]
+    },
+    "main.recursiveFunction#5": {
+      "amount": [
+        3.929314476264674e-06
+      ]
+    },
+    "main.recursiveFunction#6": {
+      "amount": [
+        13.869937666666665
+      ]
+    },
+    "main.recursiveFunction#7": {
+      "amount": [
+        7.875086666666667
+      ]
+    },
+    "main.recursiveFunction#8": {
+      "amount": [
+        673088
+      ]
+    },
+    "main.recursiveFunction#9": {
+      "amount": [
+        673088
+      ]
+    },
+    "main.recursiveFunction#10": {
+      "amount": [
+        36741076
+      ]
+    },
+    "main.recursiveFunction#11": {
+      "amount": [
+        20270299
+      ]
+    },
+    "main.getGoroutineID#0": {
+      "amount": [
+        0
+      ]
+    },
+    "main.getGoroutineID#1": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.getGoroutineID#2": {
+      "amount": [
+        13.115816
+      ]
+    },
+    "main.getGoroutineID#3": {
+      "amount": [
+        2.18140099524085e-06
+      ]
+    },
+    "main.getGoroutineID#4": {
+      "amount": [
+        13.115816
+      ]
+    },
+    "main.getGoroutineID#5": {
+      "amount": [
+        2.18140099524085e-06
+      ]
+    },
+    "main.getGoroutineID#6": {
+      "amount": [
+        6.557908
+      ]
+    },
+    "main.getGoroutineID#7": {
+      "amount": [
+        6.557908
+      ]
+    },
+    "main.getGoroutineID#8": {
+      "amount": [
+        840688
+      ]
+    },
+    "main.getGoroutineID#9": {
+      "amount": [
+        840688
+      ]
+    },
+    "main.getGoroutineID#10": {
+      "amount": [
+        12275128
+      ]
+    },
+    "main.getGoroutineID#11": {
+      "amount": [
+        12275128
+      ]
+    },
+    "main.main#0": {
+      "amount": [
+        1
+      ]
+    },
+    "main.main#1": {
+      "amount": [
+        2.3161506761631314e-08
+      ]
+    },
+    "main.main#2": {
+      "amount": [
+        43.175084
+      ]
+    },
+    "main.main#3": {
+      "amount": [
+        7.18080912443475e-06
+      ]
+    },
+    "main.main#4": {
+      "amount": [
+        6.434008
+      ]
+    },
+    "main.main#5": {
+      "amount": [
+        1.070093652929226e-06
+      ]
+    },
+    "main.main#6": {
+      "amount": [
+        43.175084
+      ]
+    },
+    "main.main#7": {
+      "amount": [
+        6.434008
+      ]
+    },
+    "main.main#8": {
+      "amount": [
+        43175084
+      ]
+    },
+    "main.main#9": {
+      "amount": [
+        6434008
+      ]
+    },
+    "main.main#10": {
+      "amount": [
+        43175084
+      ]
+    },
+    "main.main#11": {
+      "amount": [
+        6434008
+      ]
+    }
+  },
+  "resource_type_map": {
+    "main.recursiveFunction#0": {
+      "ncalls": 3,
+      "subtype": "Callees [#]",
+      "time": 6012565332378,
+      "type": "time",
+      "uid": "main.recursiveFunction"
+    },
+    "main.recursiveFunction#1": {
+      "ncalls": 3,
+      "subtype": "Callees Mean [#]",
+      "time": 6012565332378,
+      "type": "time",
+      "uid": "main.recursiveFunction"
+    },
+    "main.recursiveFunction#2": {
+      "ncalls": 3,
+      "subtype": "Total Inclusive T [ms]",
+      "time": 6012565332378,
+      "type": "time",
+      "uid": "main.recursiveFunction"
+    },
+    "main.recursiveFunction#3": {
+      "ncalls": 3,
+      "subtype": "Total Inclusive T [%]",
+      "time": 6012565332378,
+      "type": "time",
+      "uid": "main.recursiveFunction"
+    },
+    "main.recursiveFunction#4": {
+      "ncalls": 3,
+      "subtype": "Total Exclusive T [ms]",
+      "time": 6012565332378,
+      "type": "time",
+      "uid": "main.recursiveFunction"
+    },
+    "main.recursiveFunction#5": {
+      "ncalls": 3,
+      "subtype": "Total Exclusive T [%]",
+      "time": 6012565332378,
+      "type": "time",
+      "uid": "main.recursiveFunction"
+    },
+    "main.recursiveFunction#6": {
+      "ncalls": 3,
+      "subtype": "I Mean",
+      "time": 6012565332378,
+      "type": "time",
+      "uid": "main.recursiveFunction"
+    },
+    "main.recursiveFunction#7": {
+      "ncalls": 3,
+      "subtype": "E Mean",
+      "time": 6012565332378,
+      "type": "time",
+      "uid": "main.recursiveFunction"
+    },
+    "main.recursiveFunction#8": {
+      "ncalls": 3,
+      "subtype": "I Min",
+      "time": 6012565332378,
+      "type": "time",
+      "uid": "main.recursiveFunction"
+    },
+    "main.recursiveFunction#9": {
+      "ncalls": 3,
+      "subtype": "E Min",
+      "time": 6012565332378,
+      "type": "time",
+      "uid": "main.recursiveFunction"
+    },
+    "main.recursiveFunction#10": {
+      "ncalls": 3,
+      "subtype": "I Max",
+      "time": 6012565332378,
+      "type": "time",
+      "uid": "main.recursiveFunction"
+    },
+    "main.recursiveFunction#11": {
+      "ncalls": 3,
+      "subtype": "E Max",
+      "time": 6012565332378,
+      "type": "time",
+      "uid": "main.recursiveFunction"
+    },
+    "main.getGoroutineID#0": {
+      "ncalls": 2,
+      "subtype": "Callees [#]",
+      "time": 6012565332378,
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#1": {
+      "ncalls": 2,
+      "subtype": "Callees Mean [#]",
+      "time": 6012565332378,
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#2": {
+      "ncalls": 2,
+      "subtype": "Total Inclusive T [ms]",
+      "time": 6012565332378,
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#3": {
+      "ncalls": 2,
+      "subtype": "Total Inclusive T [%]",
+      "time": 6012565332378,
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#4": {
+      "ncalls": 2,
+      "subtype": "Total Exclusive T [ms]",
+      "time": 6012565332378,
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#5": {
+      "ncalls": 2,
+      "subtype": "Total Exclusive T [%]",
+      "time": 6012565332378,
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#6": {
+      "ncalls": 2,
+      "subtype": "I Mean",
+      "time": 6012565332378,
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#7": {
+      "ncalls": 2,
+      "subtype": "E Mean",
+      "time": 6012565332378,
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#8": {
+      "ncalls": 2,
+      "subtype": "I Min",
+      "time": 6012565332378,
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#9": {
+      "ncalls": 2,
+      "subtype": "E Min",
+      "time": 6012565332378,
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#10": {
+      "ncalls": 2,
+      "subtype": "I Max",
+      "time": 6012565332378,
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#11": {
+      "ncalls": 2,
+      "subtype": "E Max",
+      "time": 6012565332378,
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.main#0": {
+      "ncalls": 1,
+      "subtype": "Callees [#]",
+      "time": 6012565332378,
+      "type": "time",
+      "uid": "main.main"
+    },
+    "main.main#1": {
+      "ncalls": 1,
+      "subtype": "Callees Mean [#]",
+      "time": 6012565332378,
+      "type": "time",
+      "uid": "main.main"
+    },
+    "main.main#2": {
+      "ncalls": 1,
+      "subtype": "Total Inclusive T [ms]",
+      "time": 6012565332378,
+      "type": "time",
+      "uid": "main.main"
+    },
+    "main.main#3": {
+      "ncalls": 1,
+      "subtype": "Total Inclusive T [%]",
+      "time": 6012565332378,
+      "type": "time",
+      "uid": "main.main"
+    },
+    "main.main#4": {
+      "ncalls": 1,
+      "subtype": "Total Exclusive T [ms]",
+      "time": 6012565332378,
+      "type": "time",
+      "uid": "main.main"
+    },
+    "main.main#5": {
+      "ncalls": 1,
+      "subtype": "Total Exclusive T [%]",
+      "time": 6012565332378,
+      "type": "time",
+      "uid": "main.main"
+    },
+    "main.main#6": {
+      "ncalls": 1,
+      "subtype": "I Mean",
+      "time": 6012565332378,
+      "type": "time",
+      "uid": "main.main"
+    },
+    "main.main#7": {
+      "ncalls": 1,
+      "subtype": "E Mean",
+      "time": 6012565332378,
+      "type": "time",
+      "uid": "main.main"
+    },
+    "main.main#8": {
+      "ncalls": 1,
+      "subtype": "I Min",
+      "time": 6012565332378,
+      "type": "time",
+      "uid": "main.main"
+    },
+    "main.main#9": {
+      "ncalls": 1,
+      "subtype": "E Min",
+      "time": 6012565332378,
+      "type": "time",
+      "uid": "main.main"
+    },
+    "main.main#10": {
+      "ncalls": 1,
+      "subtype": "I Max",
+      "time": 6012565332378,
+      "type": "time",
+      "uid": "main.main"
+    },
+    "main.main#11": {
+      "ncalls": 1,
+      "subtype": "E Max",
+      "time": 6012565332378,
+      "type": "time",
+      "uid": "main.main"
+    }
+  },
+  "models": [],
+  "origin": "6ccc51a201912e62d4ac82633d7b7f99c69630eb",
+  "header": {
+    "type": "mixed",
+    "cmd": "./simple_recursion",
+    "workload": "",
+    "units": {
+      "mixed(time delta)": "us"
+    }
+  },
+  "machine": {
+    "architecture": "x86_64",
+    "system": "Linux",
+    "release": "6.5.0-25-generic",
+    "host": "Ubuntu22",
+    "cpu": {
+      "physical": 4,
+      "total": 4,
+      "frequency": "3400.06Mhz"
+    },
+    "memory": {
+      "total_ram": "7.7 GiB",
+      "swap": "2.6 GiB"
+    }
+  },
+  "collector_info": {
+    "name": "gotrace",
+    "params": {
+      "with_sudo": false,
+      "bpfring_size": 167772160,
+      "output_profile_type": "flat",
+      "save_intermediate_to_csv": false,
+      "workload": ""
+    }
+  },
+  "postprocessors": []
+}

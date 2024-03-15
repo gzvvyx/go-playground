@@ -1,0 +1,1375 @@
+Environment Info
+----------------
+
+  * Perun 0.21.8
+  * Python:  3.10.12 (main, Nov 20 2023, 15:14:05) [GCC 11.4.0]
+  * Installed Python packages:
+  
+    * holoviews (1.18.3)
+    * GitPython (3.1.42)
+    * bokeh (3.3.4)
+    * networkx (3.2.1)
+    * scikit-learn (1.4.1.post1)
+    * pytest-cov (4.1.0)
+    * click (8.1.7)
+    * Faker (23.3.0)
+    * ninja (1.11.1.1)
+    * pandas (2.2.1)
+    * progressbar2 (4.4.1)
+    * matplotlib (3.8.3)
+    * ruamel.yaml (0.18.6)
+    * black (24.2.0)
+    * meson-python (0.15.0)
+    * numpy (1.26.4)
+    * gitdb (4.0.11)
+    * meson (1.3.2)
+    * tox (4.13.0)
+    * termcolor (2.4.0)
+    * sphinx-click (5.1.0)
+    * python-magic (0.4.27)
+    * pytest (8.1.0)
+    * Jinja2 (3.1.3)
+    * pandas-stubs (2.2.0.240218)
+    * mypy-extensions (1.0.0)
+    * tabulate (0.9.0)
+    * pylint (3.1.0)
+    * statsmodels (0.14.1)
+    * types-tabulate (0.9.0.20240106)
+    * kiwisolver (1.4.4)
+    * angr (9.2.92)
+    * Sphinx (7.2.6)
+    * mypy (1.8.0)
+    * nptyping (2.5.0)
+    * scipy (1.12.0)
+  * OS: ???, Linux-6.5.0-25-generic-x86_64-with-glibc2.35 (???)
+
+Command Line Commands
+---------------------
+
+  .. code-block:: bash
+  
+    $ perun collect -c ./greet gotrace
+
+Standard and Error Output
+-------------------------
+
+  * Raised exception and trace:
+  
+  .. code-block:: bash
+  
+    git.exc.GitCommandError: Cmd('git') failed due to: exit code(1)
+  cmdline: git stash pop
+  stdout: 'On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   .perun/jobs/.index
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.perun/dump-2024-03-15-13-59-14.rst
+	.perun/dump-2024-03-15-14-00-29.rst
+	.perun/jobs/gotrace-[greet]-[_]-2024-03-15-14-07-25.perf
+	.perun/jobs/gotrace-[simple_recursion]-[_]-2024-03-15-12-47-34.perf
+	.perun/jobs/gotrace-[simple_recursion]-[_]-2024-03-15-12-49-45.perf
+	.perun/jobs/gotrace-[simple_recursion]-[_]-2024-03-15-12-50-37.perf
+	.perun/jobs/gotrace-[simple_recursion]-[_]-2024-03-15-12-51-50.perf
+	.perun/jobs/gotrace-[simple_recursion]-[_]-2024-03-15-12-54-09.perf
+	.perun/jobs/gotrace-[simple_recursion]-[_]-2024-03-15-12-59-13.perf
+	.perun/jobs/gotrace-[simple_recursion]-[_]-2024-03-15-13-00-29.perf
+	.perun/jobs/gotrace-[simple_recursion]-[_]-2024-03-15-13-59-23.perf
+	simple_recursion/simple_recursion.asm
+
+no changes added to commit (use "git add" and/or "git commit -a")
+The stash entry is kept in case you need it again.'
+  stderr: 'error: Your local changes to the following files would be overwritten by merge:
+	.perun/jobs/.index
+Please commit your changes or stash them before you merge.
+Aborting'
+      File "/home/gzvv/Desktop/perun--forked/perun/cli.py", line 1220, in launch_cli_safely
+        cli()
+      File "/home/gzvv/Desktop/perun--forked/venv/lib/python3.10/site-packages/click/core.py", line 1157, in __call__
+        return self.main(*args, **kwargs)
+      File "/home/gzvv/Desktop/perun--forked/venv/lib/python3.10/site-packages/click/core.py", line 1078, in main
+        rv = self.invoke(ctx)
+      File "/home/gzvv/Desktop/perun--forked/venv/lib/python3.10/site-packages/click/core.py", line 1688, in invoke
+        return _process_result(sub_ctx.command.invoke(sub_ctx))
+      File "/home/gzvv/Desktop/perun--forked/venv/lib/python3.10/site-packages/click/core.py", line 1688, in invoke
+        return _process_result(sub_ctx.command.invoke(sub_ctx))
+      File "/home/gzvv/Desktop/perun--forked/venv/lib/python3.10/site-packages/click/core.py", line 1434, in invoke
+        return ctx.invoke(self.callback, **ctx.params)
+      File "/home/gzvv/Desktop/perun--forked/venv/lib/python3.10/site-packages/click/core.py", line 783, in invoke
+        return __callback(*args, **kwargs)
+      File "/home/gzvv/Desktop/perun--forked/venv/lib/python3.10/site-packages/click/decorators.py", line 33, in new_func
+        return f(get_current_context(), *args, **kwargs)
+      File "/home/gzvv/Desktop/perun--forked/perun/collect/gotrace/run.py", line 192, in gotrace
+        runner.run_collector_from_cli_context(ctx, "gotrace", kwargs)
+      File "/home/gzvv/Desktop/perun--forked/perun/logic/runner.py", line 379, in run_collector_from_cli_context
+        collect_status = run_single_job(
+      File "/home/gzvv/Desktop/perun--forked/perun/logic/runner.py", line 669, in run_single_job
+        for status, prof, job in generator_function(minor_version_list, job_matrix, number_of_jobs):
+      File "/home/gzvv/Desktop/perun--forked/perun/logic/runner.py", line 586, in generate_jobs
+        with vcs_kit.CleanState():
+      File "/home/gzvv/Desktop/perun--forked/perun/vcs/vcs_kit.py", line 72, in __exit__
+        pcs.vcs().restore_state(self.saved_state, self.last_head)
+      File "/home/gzvv/Desktop/perun--forked/perun/vcs/git_repository.py", line 257, in restore_state
+        self.git_repo.git.stash("pop")
+      File "/home/gzvv/Desktop/perun--forked/venv/lib/python3.10/site-packages/git/cmd.py", line 800, in <lambda>
+        return lambda *args, **kwargs: self._call_process(name, *args, **kwargs)
+      File "/home/gzvv/Desktop/perun--forked/venv/lib/python3.10/site-packages/git/cmd.py", line 1386, in _call_process
+        return self.execute(call, **exec_kwargs)
+      File "/home/gzvv/Desktop/perun--forked/venv/lib/python3.10/site-packages/git/cmd.py", line 1183, in execute
+        raise GitCommandError(redacted_command, status, stderr_value, stdout_value)
+    
+  
+  * Captured stdout:
+
+  .. code-block:: 
+
+    
+    [Running From Single Job]
+    
+     - Loading workload generator specifications...
+     - Workload generators - loaded
+    
+    [Running Jobs]
+    
+    
+      [Job 1 Overview]
+    
+       - Command - `./greet`
+       - Workload - 
+       - Collector - gotrace
+    
+      [Creating The Profiling Program]
+    
+       - Discovering available and attachable symbols.
+       - Generating the source of the ebpf program - succeeded
+       - Building the ebpf program - succeeded
+    
+      [Collecting Performance Data]
+    
+       - Waiting for gotrace to start..
+       - gotrace - running
+       - Running the workload - finished
+       - Waiting for gotrace to finish profiling ./greet..
+       - Collecting data for ./greet - succeeded
+    
+      [Creating Performance Profile]
+    
+       - Generating profile - succeeded
+       - Collecting by gotrace from `./greet` - succeeded
+       - Elapsed time - 21.32s
+       - Stored generated profile - ../.perun/jobs/gotrace-[greet]-[_]-2024-03-15-14-07-25.perf
+
+    
+  * Captured stderr:
+  
+  .. code-block:: 
+
+    [ERROR] unexpected error: git.exc.GitCommandError: Cmd('git') failed due to: exit code(1)
+      cmdline: git stash pop
+      stdout: 'On branch master
+    Your branch is up to date with 'origin/master'.
+    
+    Changes not staged for commit:
+      (use "git add <file>..." to update what will be committed)
+      (use "git restore <file>..." to discard changes in working directory)
+    	modified:   .perun/jobs/.index
+    
+    Untracked files:
+      (use "git add <file>..." to include in what will be committed)
+    	.perun/dump-2024-03-15-13-59-14.rst
+    	.perun/dump-2024-03-15-14-00-29.rst
+    	.perun/jobs/gotrace-[greet]-[_]-2024-03-15-14-07-25.perf
+    	.perun/jobs/gotrace-[simple_recursion]-[_]-2024-03-15-12-47-34.perf
+    	.perun/jobs/gotrace-[simple_recursion]-[_]-2024-03-15-12-49-45.perf
+    	.perun/jobs/gotrace-[simple_recursion]-[_]-2024-03-15-12-50-37.perf
+    	.perun/jobs/gotrace-[simple_recursion]-[_]-2024-03-15-12-51-50.perf
+    	.perun/jobs/gotrace-[simple_recursion]-[_]-2024-03-15-12-54-09.perf
+    	.perun/jobs/gotrace-[simple_recursion]-[_]-2024-03-15-12-59-13.perf
+    	.perun/jobs/gotrace-[simple_recursion]-[_]-2024-03-15-13-00-29.perf
+    	.perun/jobs/gotrace-[simple_recursion]-[_]-2024-03-15-13-59-23.perf
+    	simple_recursion/simple_recursion.asm
+    
+    no changes added to commit (use "git add" and/or "git commit -a")
+    The stash entry is kept in case you need it again.'
+      stderr: 'error: Your local changes to the following files would be overwritten by merge:
+    	.perun/jobs/.index
+    Please commit your changes or stash them before you merge.
+    Aborting'
+
+
+Context
+-------
+ * Runtime Config
+ 
+ .. code-block:: yaml
+ 
+    output_filename_queue: []
+    input_filename_queue: []
+    context:
+      profiles: []
+      workload: {}
+
+   
+ * Local Config
+ 
+ .. code-block:: yaml
+ 
+    vcs:
+      type: git
+      url: /home/gzvv/Desktop/bp
+    
+    ## The following sets the executables (binaries / scripts).
+    ## These will be profiled by selected collectors.
+    ## Uncomment and edit the following region:
+    # cmds:
+    #   - echo
+    
+    ## The following sets the profiling workload for given commands
+    ## Uncomment and edit the following region:
+    # workloads:
+    #   - hello
+    #   - world
+    
+    ## The following contains the set of collectors (profilers) that will collect performance data.
+    ## Uncomment and edit the following region:
+    # collectors:
+    #   - name: time
+    ## Try '$ perun collect --help' to obtain list of supported collectors!
+    
+    ## The following contains the ordered list of postprocess phases that are executed after collection.
+    ## Uncomment and edit the following region (!order matters!):
+    # postprocessors:
+    #   - name: regression_analysis
+    #     params:
+    #       method: full
+    #   - name: filter
+    ## Try '$ perun postprocessby --help' to obtain list of supported collectors!
+    
+    ## The following option automatically registers newly collected profiles for current minor version
+    ## Uncomment the following to enable this behaviour:
+    # profiles:
+    #   register_after_run: true
+    
+    ## Be default, we sort the profiles by time
+    format:
+      sort_profiles_by: time
+    
+    ## The following options control the degradation checks in repository
+    # degradation:
+    ## Setting the following combination of option to true will make Perun collect new profiles,
+    ## before checking for degradations and store them in logs at directory .perun/logs/
+    #   collect_before_check: true
+    #   log_collect: true
+    ## Setting this to first (resp. all) will apply the first (resp. all) found check methods
+    ## for corresponding configurations
+    #   apply: first
+    ## Specification of list of rules for applying degradation checks
+    #   strategy:
+    #     - method: average_amount_threshold
+    
+    ## To run your custom steps before any collection (un)comment the following region:
+    # execute:
+    #   pre_run:
+    #     - make
+
+   
+ * Global Config
+ 
+ .. code-block:: yaml
+ 
+    general:
+      editor: vim
+      paging: only-log
+    
+    format:
+      status: ┃ %type% ┃ %collector%  ┃ (%time%) ┃ %source% ┃
+      shortlog: '%checksum:6% (%stats%) %desc% %changes%'
+      output_profile_template: '%collector%-%cmd%-%workload%-%date%'
+      output_show_template: '%collector%-%cmd%-%workload%-%date%'
+      sort_profiles_by: time
+    
+    degradation:
+      apply: all
+      strategies:
+      - method: average_amount_threshold
+    
+    generators:
+      workload:
+      - id: basic_strings
+        type: string
+        min_len: 8
+        max_len: 128
+        step: 8
+      - id: basic_integers
+        type: integer
+        min_range: 100
+        max_range: 10000
+        step: 200
+      - id: basic_files
+        type: textfile
+        min_lines: 10
+        max_lines: 10000
+        step: 1000
+    testkey: '692829'
+
+
+ * Manipulated profiles
+ 
+ .. code-block:: json
+   
+    {
+      "collector_info": {
+        "name": "gotrace",
+        "params": {
+          "bpfring_size": 167772160,
+          "output_profile_type": "flat",
+          "save_intermediate_to_csv": false,
+          "with_sudo": false,
+          "workload": ""
+        }
+      },
+      "header": {
+        "cmd": "./greet",
+        "type": "mixed",
+        "units": {
+          "mixed(time delta)": "us"
+        },
+        "workload": ""
+      },
+      "machine": {
+        "architecture": "x86_64",
+        "cpu": {
+          "frequency": "3400.06Mhz",
+          "physical": 4,
+          "total": 4
+        },
+        "host": "Ubuntu22",
+        "memory": {
+          "swap": "2.6 GiB",
+          "total_ram": "7.7 GiB"
+        },
+        "release": "6.5.0-25-generic",
+        "system": "Linux"
+      },
+      "models": [],
+      "origin": "6ccc51a201912e62d4ac82633d7b7f99c69630eb",
+      "postprocessors": [],
+      "resource_type_map": {
+        "main.Greet#0": {
+          "ncalls": 14,
+          "subtype": "Callees [#]",
+          "time": 6494937153250,
+          "type": "time",
+          "uid": "main.Greet"
+        },
+        "main.Greet#1": {
+          "ncalls": 14,
+          "subtype": "Callees Mean [#]",
+          "time": 6494937153250,
+          "type": "time",
+          "uid": "main.Greet"
+        },
+        "main.Greet#10": {
+          "ncalls": 14,
+          "subtype": "I Max",
+          "time": 6494937153250,
+          "type": "time",
+          "uid": "main.Greet"
+        },
+        "main.Greet#11": {
+          "ncalls": 14,
+          "subtype": "E Max",
+          "time": 6494937153250,
+          "type": "time",
+          "uid": "main.Greet"
+        },
+        "main.Greet#2": {
+          "ncalls": 14,
+          "subtype": "Total Inclusive T [ms]",
+          "time": 6494937153250,
+          "type": "time",
+          "uid": "main.Greet"
+        },
+        "main.Greet#3": {
+          "ncalls": 14,
+          "subtype": "Total Inclusive T [%]",
+          "time": 6494937153250,
+          "type": "time",
+          "uid": "main.Greet"
+        },
+        "main.Greet#4": {
+          "ncalls": 14,
+          "subtype": "Total Exclusive T [ms]",
+          "time": 6494937153250,
+          "type": "time",
+          "uid": "main.Greet"
+        },
+        "main.Greet#5": {
+          "ncalls": 14,
+          "subtype": "Total Exclusive T [%]",
+          "time": 6494937153250,
+          "type": "time",
+          "uid": "main.Greet"
+        },
+        "main.Greet#6": {
+          "ncalls": 14,
+          "subtype": "I Mean",
+          "time": 6494937153250,
+          "type": "time",
+          "uid": "main.Greet"
+        },
+        "main.Greet#7": {
+          "ncalls": 14,
+          "subtype": "E Mean",
+          "time": 6494937153250,
+          "type": "time",
+          "uid": "main.Greet"
+        },
+        "main.Greet#8": {
+          "ncalls": 14,
+          "subtype": "I Min",
+          "time": 6494937153250,
+          "type": "time",
+          "uid": "main.Greet"
+        },
+        "main.Greet#9": {
+          "ncalls": 14,
+          "subtype": "E Min",
+          "time": 6494937153250,
+          "type": "time",
+          "uid": "main.Greet"
+        },
+        "main.add#0": {
+          "ncalls": 12,
+          "subtype": "Callees [#]",
+          "time": 6494937153250,
+          "type": "time",
+          "uid": "main.add"
+        },
+        "main.add#1": {
+          "ncalls": 12,
+          "subtype": "Callees Mean [#]",
+          "time": 6494937153250,
+          "type": "time",
+          "uid": "main.add"
+        },
+        "main.add#10": {
+          "ncalls": 12,
+          "subtype": "I Max",
+          "time": 6494937153250,
+          "type": "time",
+          "uid": "main.add"
+        },
+        "main.add#11": {
+          "ncalls": 12,
+          "subtype": "E Max",
+          "time": 6494937153250,
+          "type": "time",
+          "uid": "main.add"
+        },
+        "main.add#2": {
+          "ncalls": 12,
+          "subtype": "Total Inclusive T [ms]",
+          "time": 6494937153250,
+          "type": "time",
+          "uid": "main.add"
+        },
+        "main.add#3": {
+          "ncalls": 12,
+          "subtype": "Total Inclusive T [%]",
+          "time": 6494937153250,
+          "type": "time",
+          "uid": "main.add"
+        },
+        "main.add#4": {
+          "ncalls": 12,
+          "subtype": "Total Exclusive T [ms]",
+          "time": 6494937153250,
+          "type": "time",
+          "uid": "main.add"
+        },
+        "main.add#5": {
+          "ncalls": 12,
+          "subtype": "Total Exclusive T [%]",
+          "time": 6494937153250,
+          "type": "time",
+          "uid": "main.add"
+        },
+        "main.add#6": {
+          "ncalls": 12,
+          "subtype": "I Mean",
+          "time": 6494937153250,
+          "type": "time",
+          "uid": "main.add"
+        },
+        "main.add#7": {
+          "ncalls": 12,
+          "subtype": "E Mean",
+          "time": 6494937153250,
+          "type": "time",
+          "uid": "main.add"
+        },
+        "main.add#8": {
+          "ncalls": 12,
+          "subtype": "I Min",
+          "time": 6494937153250,
+          "type": "time",
+          "uid": "main.add"
+        },
+        "main.add#9": {
+          "ncalls": 12,
+          "subtype": "E Min",
+          "time": 6494937153250,
+          "type": "time",
+          "uid": "main.add"
+        },
+        "main.getCurrentCPUID#0": {
+          "ncalls": 1,
+          "subtype": "Callees [#]",
+          "time": 6494937153250,
+          "type": "time",
+          "uid": "main.getCurrentCPUID"
+        },
+        "main.getCurrentCPUID#1": {
+          "ncalls": 1,
+          "subtype": "Callees Mean [#]",
+          "time": 6494937153250,
+          "type": "time",
+          "uid": "main.getCurrentCPUID"
+        },
+        "main.getCurrentCPUID#10": {
+          "ncalls": 1,
+          "subtype": "I Max",
+          "time": 6494937153250,
+          "type": "time",
+          "uid": "main.getCurrentCPUID"
+        },
+        "main.getCurrentCPUID#11": {
+          "ncalls": 1,
+          "subtype": "E Max",
+          "time": 6494937153250,
+          "type": "time",
+          "uid": "main.getCurrentCPUID"
+        },
+        "main.getCurrentCPUID#2": {
+          "ncalls": 1,
+          "subtype": "Total Inclusive T [ms]",
+          "time": 6494937153250,
+          "type": "time",
+          "uid": "main.getCurrentCPUID"
+        },
+        "main.getCurrentCPUID#3": {
+          "ncalls": 1,
+          "subtype": "Total Inclusive T [%]",
+          "time": 6494937153250,
+          "type": "time",
+          "uid": "main.getCurrentCPUID"
+        },
+        "main.getCurrentCPUID#4": {
+          "ncalls": 1,
+          "subtype": "Total Exclusive T [ms]",
+          "time": 6494937153250,
+          "type": "time",
+          "uid": "main.getCurrentCPUID"
+        },
+        "main.getCurrentCPUID#5": {
+          "ncalls": 1,
+          "subtype": "Total Exclusive T [%]",
+          "time": 6494937153250,
+          "type": "time",
+          "uid": "main.getCurrentCPUID"
+        },
+        "main.getCurrentCPUID#6": {
+          "ncalls": 1,
+          "subtype": "I Mean",
+          "time": 6494937153250,
+          "type": "time",
+          "uid": "main.getCurrentCPUID"
+        },
+        "main.getCurrentCPUID#7": {
+          "ncalls": 1,
+          "subtype": "E Mean",
+          "time": 6494937153250,
+          "type": "time",
+          "uid": "main.getCurrentCPUID"
+        },
+        "main.getCurrentCPUID#8": {
+          "ncalls": 1,
+          "subtype": "I Min",
+          "time": 6494937153250,
+          "type": "time",
+          "uid": "main.getCurrentCPUID"
+        },
+        "main.getCurrentCPUID#9": {
+          "ncalls": 1,
+          "subtype": "E Min",
+          "time": 6494937153250,
+          "type": "time",
+          "uid": "main.getCurrentCPUID"
+        },
+        "main.getGoroutineID#0": {
+          "ncalls": 1,
+          "subtype": "Callees [#]",
+          "time": 6494937153250,
+          "type": "time",
+          "uid": "main.getGoroutineID"
+        },
+        "main.getGoroutineID#1": {
+          "ncalls": 1,
+          "subtype": "Callees Mean [#]",
+          "time": 6494937153250,
+          "type": "time",
+          "uid": "main.getGoroutineID"
+        },
+        "main.getGoroutineID#10": {
+          "ncalls": 1,
+          "subtype": "I Max",
+          "time": 6494937153250,
+          "type": "time",
+          "uid": "main.getGoroutineID"
+        },
+        "main.getGoroutineID#11": {
+          "ncalls": 1,
+          "subtype": "E Max",
+          "time": 6494937153250,
+          "type": "time",
+          "uid": "main.getGoroutineID"
+        },
+        "main.getGoroutineID#2": {
+          "ncalls": 1,
+          "subtype": "Total Inclusive T [ms]",
+          "time": 6494937153250,
+          "type": "time",
+          "uid": "main.getGoroutineID"
+        },
+        "main.getGoroutineID#3": {
+          "ncalls": 1,
+          "subtype": "Total Inclusive T [%]",
+          "time": 6494937153250,
+          "type": "time",
+          "uid": "main.getGoroutineID"
+        },
+        "main.getGoroutineID#4": {
+          "ncalls": 1,
+          "subtype": "Total Exclusive T [ms]",
+          "time": 6494937153250,
+          "type": "time",
+          "uid": "main.getGoroutineID"
+        },
+        "main.getGoroutineID#5": {
+          "ncalls": 1,
+          "subtype": "Total Exclusive T [%]",
+          "time": 6494937153250,
+          "type": "time",
+          "uid": "main.getGoroutineID"
+        },
+        "main.getGoroutineID#6": {
+          "ncalls": 1,
+          "subtype": "I Mean",
+          "time": 6494937153250,
+          "type": "time",
+          "uid": "main.getGoroutineID"
+        },
+        "main.getGoroutineID#7": {
+          "ncalls": 1,
+          "subtype": "E Mean",
+          "time": 6494937153250,
+          "type": "time",
+          "uid": "main.getGoroutineID"
+        },
+        "main.getGoroutineID#8": {
+          "ncalls": 1,
+          "subtype": "I Min",
+          "time": 6494937153250,
+          "type": "time",
+          "uid": "main.getGoroutineID"
+        },
+        "main.getGoroutineID#9": {
+          "ncalls": 1,
+          "subtype": "E Min",
+          "time": 6494937153250,
+          "type": "time",
+          "uid": "main.getGoroutineID"
+        },
+        "main.getThreadID#0": {
+          "ncalls": 1,
+          "subtype": "Callees [#]",
+          "time": 6494937153250,
+          "type": "time",
+          "uid": "main.getThreadID"
+        },
+        "main.getThreadID#1": {
+          "ncalls": 1,
+          "subtype": "Callees Mean [#]",
+          "time": 6494937153250,
+          "type": "time",
+          "uid": "main.getThreadID"
+        },
+        "main.getThreadID#10": {
+          "ncalls": 1,
+          "subtype": "I Max",
+          "time": 6494937153250,
+          "type": "time",
+          "uid": "main.getThreadID"
+        },
+        "main.getThreadID#11": {
+          "ncalls": 1,
+          "subtype": "E Max",
+          "time": 6494937153250,
+          "type": "time",
+          "uid": "main.getThreadID"
+        },
+        "main.getThreadID#2": {
+          "ncalls": 1,
+          "subtype": "Total Inclusive T [ms]",
+          "time": 6494937153250,
+          "type": "time",
+          "uid": "main.getThreadID"
+        },
+        "main.getThreadID#3": {
+          "ncalls": 1,
+          "subtype": "Total Inclusive T [%]",
+          "time": 6494937153250,
+          "type": "time",
+          "uid": "main.getThreadID"
+        },
+        "main.getThreadID#4": {
+          "ncalls": 1,
+          "subtype": "Total Exclusive T [ms]",
+          "time": 6494937153250,
+          "type": "time",
+          "uid": "main.getThreadID"
+        },
+        "main.getThreadID#5": {
+          "ncalls": 1,
+          "subtype": "Total Exclusive T [%]",
+          "time": 6494937153250,
+          "type": "time",
+          "uid": "main.getThreadID"
+        },
+        "main.getThreadID#6": {
+          "ncalls": 1,
+          "subtype": "I Mean",
+          "time": 6494937153250,
+          "type": "time",
+          "uid": "main.getThreadID"
+        },
+        "main.getThreadID#7": {
+          "ncalls": 1,
+          "subtype": "E Mean",
+          "time": 6494937153250,
+          "type": "time",
+          "uid": "main.getThreadID"
+        },
+        "main.getThreadID#8": {
+          "ncalls": 1,
+          "subtype": "I Min",
+          "time": 6494937153250,
+          "type": "time",
+          "uid": "main.getThreadID"
+        },
+        "main.getThreadID#9": {
+          "ncalls": 1,
+          "subtype": "E Min",
+          "time": 6494937153250,
+          "type": "time",
+          "uid": "main.getThreadID"
+        },
+        "main.main#0": {
+          "ncalls": 1,
+          "subtype": "Callees [#]",
+          "time": 6494937153250,
+          "type": "time",
+          "uid": "main.main"
+        },
+        "main.main#1": {
+          "ncalls": 1,
+          "subtype": "Callees Mean [#]",
+          "time": 6494937153250,
+          "type": "time",
+          "uid": "main.main"
+        },
+        "main.main#10": {
+          "ncalls": 1,
+          "subtype": "I Max",
+          "time": 6494937153250,
+          "type": "time",
+          "uid": "main.main"
+        },
+        "main.main#11": {
+          "ncalls": 1,
+          "subtype": "E Max",
+          "time": 6494937153250,
+          "type": "time",
+          "uid": "main.main"
+        },
+        "main.main#2": {
+          "ncalls": 1,
+          "subtype": "Total Inclusive T [ms]",
+          "time": 6494937153250,
+          "type": "time",
+          "uid": "main.main"
+        },
+        "main.main#3": {
+          "ncalls": 1,
+          "subtype": "Total Inclusive T [%]",
+          "time": 6494937153250,
+          "type": "time",
+          "uid": "main.main"
+        },
+        "main.main#4": {
+          "ncalls": 1,
+          "subtype": "Total Exclusive T [ms]",
+          "time": 6494937153250,
+          "type": "time",
+          "uid": "main.main"
+        },
+        "main.main#5": {
+          "ncalls": 1,
+          "subtype": "Total Exclusive T [%]",
+          "time": 6494937153250,
+          "type": "time",
+          "uid": "main.main"
+        },
+        "main.main#6": {
+          "ncalls": 1,
+          "subtype": "I Mean",
+          "time": 6494937153250,
+          "type": "time",
+          "uid": "main.main"
+        },
+        "main.main#7": {
+          "ncalls": 1,
+          "subtype": "E Mean",
+          "time": 6494937153250,
+          "type": "time",
+          "uid": "main.main"
+        },
+        "main.main#8": {
+          "ncalls": 1,
+          "subtype": "I Min",
+          "time": 6494937153250,
+          "type": "time",
+          "uid": "main.main"
+        },
+        "main.main#9": {
+          "ncalls": 1,
+          "subtype": "E Min",
+          "time": 6494937153250,
+          "type": "time",
+          "uid": "main.main"
+        },
+        "main.main.func1#0": {
+          "ncalls": 1,
+          "subtype": "Callees [#]",
+          "time": 6494937153250,
+          "type": "time",
+          "uid": "main.main.func1"
+        },
+        "main.main.func1#1": {
+          "ncalls": 1,
+          "subtype": "Callees Mean [#]",
+          "time": 6494937153250,
+          "type": "time",
+          "uid": "main.main.func1"
+        },
+        "main.main.func1#10": {
+          "ncalls": 1,
+          "subtype": "I Max",
+          "time": 6494937153250,
+          "type": "time",
+          "uid": "main.main.func1"
+        },
+        "main.main.func1#11": {
+          "ncalls": 1,
+          "subtype": "E Max",
+          "time": 6494937153250,
+          "type": "time",
+          "uid": "main.main.func1"
+        },
+        "main.main.func1#2": {
+          "ncalls": 1,
+          "subtype": "Total Inclusive T [ms]",
+          "time": 6494937153250,
+          "type": "time",
+          "uid": "main.main.func1"
+        },
+        "main.main.func1#3": {
+          "ncalls": 1,
+          "subtype": "Total Inclusive T [%]",
+          "time": 6494937153250,
+          "type": "time",
+          "uid": "main.main.func1"
+        },
+        "main.main.func1#4": {
+          "ncalls": 1,
+          "subtype": "Total Exclusive T [ms]",
+          "time": 6494937153250,
+          "type": "time",
+          "uid": "main.main.func1"
+        },
+        "main.main.func1#5": {
+          "ncalls": 1,
+          "subtype": "Total Exclusive T [%]",
+          "time": 6494937153250,
+          "type": "time",
+          "uid": "main.main.func1"
+        },
+        "main.main.func1#6": {
+          "ncalls": 1,
+          "subtype": "I Mean",
+          "time": 6494937153250,
+          "type": "time",
+          "uid": "main.main.func1"
+        },
+        "main.main.func1#7": {
+          "ncalls": 1,
+          "subtype": "E Mean",
+          "time": 6494937153250,
+          "type": "time",
+          "uid": "main.main.func1"
+        },
+        "main.main.func1#8": {
+          "ncalls": 1,
+          "subtype": "I Min",
+          "time": 6494937153250,
+          "type": "time",
+          "uid": "main.main.func1"
+        },
+        "main.main.func1#9": {
+          "ncalls": 1,
+          "subtype": "E Min",
+          "time": 6494937153250,
+          "type": "time",
+          "uid": "main.main.func1"
+        }
+      },
+      "resources": {
+        "main.Greet#0": {
+          "amount": [
+            11
+          ]
+        },
+        "main.Greet#1": {
+          "amount": [
+            2.1140528434029962e-07
+          ]
+        },
+        "main.Greet#10": {
+          "amount": [
+            7481512
+          ]
+        },
+        "main.Greet#11": {
+          "amount": [
+            6702392
+          ]
+        },
+        "main.Greet#2": {
+          "amount": [
+            52.032758
+          ]
+        },
+        "main.Greet#3": {
+          "amount": [
+            8.011279674040163e-06
+          ]
+        },
+        "main.Greet#4": {
+          "amount": [
+            40.671302
+          ]
+        },
+        "main.Greet#5": {
+          "amount": [
+            6.262000853949526e-06
+          ]
+        },
+        "main.Greet#6": {
+          "amount": [
+            3.716625571428571
+          ]
+        },
+        "main.Greet#7": {
+          "amount": [
+            2.905093
+          ]
+        },
+        "main.Greet#8": {
+          "amount": [
+            976096
+          ]
+        },
+        "main.Greet#9": {
+          "amount": [
+            976096
+          ]
+        },
+        "main.add#0": {
+          "amount": [
+            0
+          ]
+        },
+        "main.add#1": {
+          "amount": [
+            0.0
+          ]
+        },
+        "main.add#10": {
+          "amount": [
+            1962550
+          ]
+        },
+        "main.add#11": {
+          "amount": [
+            1962550
+          ]
+        },
+        "main.add#2": {
+          "amount": [
+            11.988211
+          ]
+        },
+        "main.add#3": {
+          "amount": [
+            1.8457778292744869e-06
+          ]
+        },
+        "main.add#4": {
+          "amount": [
+            11.988211
+          ]
+        },
+        "main.add#5": {
+          "amount": [
+            1.8457778292744869e-06
+          ]
+        },
+        "main.add#6": {
+          "amount": [
+            0.9990175833333333
+          ]
+        },
+        "main.add#7": {
+          "amount": [
+            0.9990175833333333
+          ]
+        },
+        "main.add#8": {
+          "amount": [
+            536204
+          ]
+        },
+        "main.add#9": {
+          "amount": [
+            536204
+          ]
+        },
+        "main.getCurrentCPUID#0": {
+          "amount": [
+            0
+          ]
+        },
+        "main.getCurrentCPUID#1": {
+          "amount": [
+            0.0
+          ]
+        },
+        "main.getCurrentCPUID#10": {
+          "amount": [
+            784824
+          ]
+        },
+        "main.getCurrentCPUID#11": {
+          "amount": [
+            784824
+          ]
+        },
+        "main.getCurrentCPUID#2": {
+          "amount": [
+            0.784824
+          ]
+        },
+        "main.getCurrentCPUID#3": {
+          "amount": [
+            1.2083627315889917e-07
+          ]
+        },
+        "main.getCurrentCPUID#4": {
+          "amount": [
+            0.784824
+          ]
+        },
+        "main.getCurrentCPUID#5": {
+          "amount": [
+            1.2083627315889917e-07
+          ]
+        },
+        "main.getCurrentCPUID#6": {
+          "amount": [
+            0.784824
+          ]
+        },
+        "main.getCurrentCPUID#7": {
+          "amount": [
+            0.784824
+          ]
+        },
+        "main.getCurrentCPUID#8": {
+          "amount": [
+            784824
+          ]
+        },
+        "main.getCurrentCPUID#9": {
+          "amount": [
+            784824
+          ]
+        },
+        "main.getGoroutineID#0": {
+          "amount": [
+            0
+          ]
+        },
+        "main.getGoroutineID#1": {
+          "amount": [
+            0.0
+          ]
+        },
+        "main.getGoroutineID#10": {
+          "amount": [
+            1339212
+          ]
+        },
+        "main.getGoroutineID#11": {
+          "amount": [
+            1339212
+          ]
+        },
+        "main.getGoroutineID#2": {
+          "amount": [
+            1.339212
+          ]
+        },
+        "main.getGoroutineID#3": {
+          "amount": [
+            2.0619321917993804e-07
+          ]
+        },
+        "main.getGoroutineID#4": {
+          "amount": [
+            1.339212
+          ]
+        },
+        "main.getGoroutineID#5": {
+          "amount": [
+            2.0619321917993804e-07
+          ]
+        },
+        "main.getGoroutineID#6": {
+          "amount": [
+            1.339212
+          ]
+        },
+        "main.getGoroutineID#7": {
+          "amount": [
+            1.339212
+          ]
+        },
+        "main.getGoroutineID#8": {
+          "amount": [
+            1339212
+          ]
+        },
+        "main.getGoroutineID#9": {
+          "amount": [
+            1339212
+          ]
+        },
+        "main.getThreadID#0": {
+          "amount": [
+            0
+          ]
+        },
+        "main.getThreadID#1": {
+          "amount": [
+            0.0
+          ]
+        },
+        "main.getThreadID#10": {
+          "amount": [
+            570283
+          ]
+        },
+        "main.getThreadID#11": {
+          "amount": [
+            570283
+          ]
+        },
+        "main.getThreadID#2": {
+          "amount": [
+            0.570283
+          ]
+        },
+        "main.getThreadID#3": {
+          "amount": [
+            8.780423683001093e-08
+          ]
+        },
+        "main.getThreadID#4": {
+          "amount": [
+            0.570283
+          ]
+        },
+        "main.getThreadID#5": {
+          "amount": [
+            8.780423683001093e-08
+          ]
+        },
+        "main.getThreadID#6": {
+          "amount": [
+            0.570283
+          ]
+        },
+        "main.getThreadID#7": {
+          "amount": [
+            0.570283
+          ]
+        },
+        "main.getThreadID#8": {
+          "amount": [
+            570283
+          ]
+        },
+        "main.getThreadID#9": {
+          "amount": [
+            570283
+          ]
+        },
+        "main.main#0": {
+          "amount": [
+            5
+          ]
+        },
+        "main.main#1": {
+          "amount": [
+            4.940123255350011e-10
+          ]
+        },
+        "main.main#10": {
+          "amount": [
+            10121204961
+          ]
+        },
+        "main.main#11": {
+          "amount": [
+            7179024
+          ]
+        },
+        "main.main#2": {
+          "amount": [
+            10121.204961
+          ]
+        },
+        "main.main#3": {
+          "amount": [
+            0.001558322231945763
+          ]
+        },
+        "main.main#4": {
+          "amount": [
+            7.179024
+          ]
+        },
+        "main.main#5": {
+          "amount": [
+            1.1053261687694222e-06
+          ]
+        },
+        "main.main#6": {
+          "amount": [
+            10121.204961
+          ]
+        },
+        "main.main#7": {
+          "amount": [
+            7.179024
+          ]
+        },
+        "main.main#8": {
+          "amount": [
+            10121204961
+          ]
+        },
+        "main.main#9": {
+          "amount": [
+            7179024
+          ]
+        },
+        "main.main.func1#0": {
+          "amount": [
+            14
+          ]
+        },
+        "main.main.func1#1": {
+          "amount": [
+            1.38467101846013e-09
+          ]
+        },
+        "main.main.func1#10": {
+          "amount": [
+            10110704863
+          ]
+        },
+        "main.main.func1#11": {
+          "amount": [
+            10058672105
+          ]
+        },
+        "main.main.func1#2": {
+          "amount": [
+            10110.704863
+          ]
+        },
+        "main.main.func1#3": {
+          "amount": [
+            0.0015567055730386409
+          ]
+        },
+        "main.main.func1#4": {
+          "amount": [
+            10058.672105
+          ]
+        },
+        "main.main.func1#5": {
+          "amount": [
+            0.0015486942933646006
+          ]
+        },
+        "main.main.func1#6": {
+          "amount": [
+            10110.704863
+          ]
+        },
+        "main.main.func1#7": {
+          "amount": [
+            10058.672105
+          ]
+        },
+        "main.main.func1#8": {
+          "amount": [
+            10110704863
+          ]
+        },
+        "main.main.func1#9": {
+          "amount": [
+            10058672105
+          ]
+        }
+      }
+    } 
+
