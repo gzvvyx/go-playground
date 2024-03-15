@@ -1,0 +1,40 @@
+{
+  "resources": {},
+  "resource_type_map": {},
+  "models": [],
+  "origin": "5696b3695bb7becc99e592e03d88c20c5f2c55a8",
+  "header": {
+    "type": "mixed",
+    "cmd": "./server",
+    "workload": "",
+    "units": {
+      "mixed(time delta)": "us"
+    }
+  },
+  "machine": {
+    "architecture": "x86_64",
+    "system": "Linux",
+    "release": "6.5.0-25-generic",
+    "host": "Ubuntu22",
+    "cpu": {
+      "physical": 4,
+      "total": 4,
+      "frequency": "3400.06Mhz"
+    },
+    "memory": {
+      "total_ram": "7.7 GiB",
+      "swap": "2.6 GiB"
+    }
+  },
+  "collector_info": {
+    "name": "gotrace",
+    "params": {
+      "with_sudo": false,
+      "bpfring_size": 167772160,
+      "output_profile_type": "flat",
+      "save_intermediate_to_csv": false,
+      "workload": ""
+    }
+  },
+  "postprocessors": []
+}

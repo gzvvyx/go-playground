@@ -1,0 +1,57 @@
+vcs:
+  type: git
+  url: /home/gzvv/Desktop/bp
+
+## The following sets the executables (binaries / scripts).
+## These will be profiled by selected collectors.
+## Uncomment and edit the following region:
+# cmds:
+#   - echo
+
+## The following sets the profiling workload for given commands
+## Uncomment and edit the following region:
+# workloads:
+#   - hello
+#   - world
+
+## The following contains the set of collectors (profilers) that will collect performance data.
+## Uncomment and edit the following region:
+# collectors:
+#   - name: time
+## Try '$ perun collect --help' to obtain list of supported collectors!
+
+## The following contains the ordered list of postprocess phases that are executed after collection.
+## Uncomment and edit the following region (!order matters!):
+# postprocessors:
+#   - name: regression_analysis
+#     params:
+#       method: full
+#   - name: filter
+## Try '$ perun postprocessby --help' to obtain list of supported collectors!
+
+## The following option automatically registers newly collected profiles for current minor version
+## Uncomment the following to enable this behaviour:
+# profiles:
+#   register_after_run: true
+
+## Be default, we sort the profiles by time
+format:
+  sort_profiles_by: time
+
+## The following options control the degradation checks in repository
+# degradation:
+## Setting the following combination of option to true will make Perun collect new profiles,
+## before checking for degradations and store them in logs at directory .perun/logs/
+#   collect_before_check: true
+#   log_collect: true
+## Setting this to first (resp. all) will apply the first (resp. all) found check methods
+## for corresponding configurations
+#   apply: first
+## Specification of list of rules for applying degradation checks
+#   strategy:
+#     - method: average_amount_threshold
+
+## To run your custom steps before any collection (un)comment the following region:
+# execute:
+#   pre_run:
+#     - make

@@ -1,0 +1,291 @@
+Environment Info
+----------------
+
+  * Perun 0.21.8
+  * Python:  3.10.12 (main, Nov 20 2023, 15:14:05) [GCC 11.4.0]
+  * Installed Python packages:
+  
+    * holoviews (1.18.3)
+    * GitPython (3.1.42)
+    * bokeh (3.3.4)
+    * networkx (3.2.1)
+    * scikit-learn (1.4.1.post1)
+    * pytest-cov (4.1.0)
+    * click (8.1.7)
+    * Faker (23.3.0)
+    * ninja (1.11.1.1)
+    * pandas (2.2.1)
+    * progressbar2 (4.4.1)
+    * matplotlib (3.8.3)
+    * ruamel.yaml (0.18.6)
+    * black (24.2.0)
+    * meson-python (0.15.0)
+    * numpy (1.26.4)
+    * gitdb (4.0.11)
+    * meson (1.3.2)
+    * tox (4.13.0)
+    * termcolor (2.4.0)
+    * sphinx-click (5.1.0)
+    * python-magic (0.4.27)
+    * pytest (8.1.0)
+    * Jinja2 (3.1.3)
+    * pandas-stubs (2.2.0.240218)
+    * mypy-extensions (1.0.0)
+    * tabulate (0.9.0)
+    * pylint (3.1.0)
+    * statsmodels (0.14.1)
+    * types-tabulate (0.9.0.20240106)
+    * kiwisolver (1.4.4)
+    * angr (9.2.92)
+    * Sphinx (7.2.6)
+    * mypy (1.8.0)
+    * nptyping (2.5.0)
+    * scipy (1.12.0)
+  * OS: ???, Linux-6.5.0-25-generic-x86_64-with-glibc2.35 (???)
+
+Command Line Commands
+---------------------
+
+  .. code-block:: bash
+  
+    $ perun collect -c ./server gotrace
+
+Standard and Error Output
+-------------------------
+
+  * Raised exception and trace:
+  
+  .. code-block:: bash
+  
+    git.exc.GitCommandError: Cmd('git') failed due to: exit code(1)
+  cmdline: git stash pop
+  stdout: 'On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   10hello/server
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.perun/
+
+no changes added to commit (use "git add" and/or "git commit -a")
+The stash entry is kept in case you need it again.'
+  stderr: 'error: Your local changes to the following files would be overwritten by merge:
+	10hello/server
+Please commit your changes or stash them before you merge.
+Aborting'
+      File "/home/gzvv/Desktop/perun--forked/perun/cli.py", line 1220, in launch_cli_safely
+        cli()
+      File "/home/gzvv/Desktop/perun--forked/venv/lib/python3.10/site-packages/click/core.py", line 1157, in __call__
+        return self.main(*args, **kwargs)
+      File "/home/gzvv/Desktop/perun--forked/venv/lib/python3.10/site-packages/click/core.py", line 1078, in main
+        rv = self.invoke(ctx)
+      File "/home/gzvv/Desktop/perun--forked/venv/lib/python3.10/site-packages/click/core.py", line 1688, in invoke
+        return _process_result(sub_ctx.command.invoke(sub_ctx))
+      File "/home/gzvv/Desktop/perun--forked/venv/lib/python3.10/site-packages/click/core.py", line 1688, in invoke
+        return _process_result(sub_ctx.command.invoke(sub_ctx))
+      File "/home/gzvv/Desktop/perun--forked/venv/lib/python3.10/site-packages/click/core.py", line 1434, in invoke
+        return ctx.invoke(self.callback, **ctx.params)
+      File "/home/gzvv/Desktop/perun--forked/venv/lib/python3.10/site-packages/click/core.py", line 783, in invoke
+        return __callback(*args, **kwargs)
+      File "/home/gzvv/Desktop/perun--forked/venv/lib/python3.10/site-packages/click/decorators.py", line 33, in new_func
+        return f(get_current_context(), *args, **kwargs)
+      File "/home/gzvv/Desktop/perun--forked/perun/collect/gotrace/run.py", line 185, in gotrace
+        runner.run_collector_from_cli_context(ctx, "gotrace", kwargs)
+      File "/home/gzvv/Desktop/perun--forked/perun/logic/runner.py", line 379, in run_collector_from_cli_context
+        collect_status = run_single_job(
+      File "/home/gzvv/Desktop/perun--forked/perun/logic/runner.py", line 669, in run_single_job
+        for status, prof, job in generator_function(minor_version_list, job_matrix, number_of_jobs):
+      File "/home/gzvv/Desktop/perun--forked/perun/logic/runner.py", line 586, in generate_jobs
+        with vcs_kit.CleanState():
+      File "/home/gzvv/Desktop/perun--forked/perun/vcs/vcs_kit.py", line 72, in __exit__
+        pcs.vcs().restore_state(self.saved_state, self.last_head)
+      File "/home/gzvv/Desktop/perun--forked/perun/vcs/git_repository.py", line 257, in restore_state
+        self.git_repo.git.stash("pop")
+      File "/home/gzvv/Desktop/perun--forked/venv/lib/python3.10/site-packages/git/cmd.py", line 800, in <lambda>
+        return lambda *args, **kwargs: self._call_process(name, *args, **kwargs)
+      File "/home/gzvv/Desktop/perun--forked/venv/lib/python3.10/site-packages/git/cmd.py", line 1386, in _call_process
+        return self.execute(call, **exec_kwargs)
+      File "/home/gzvv/Desktop/perun--forked/venv/lib/python3.10/site-packages/git/cmd.py", line 1183, in execute
+        raise GitCommandError(redacted_command, status, stderr_value, stdout_value)
+    
+  
+  * Captured stdout:
+
+  .. code-block:: 
+
+    
+    [Running From Single Job]
+    
+     - Loading workload generator specifications...
+     - Workload generators - loaded
+    
+    [Running Jobs]
+    
+    
+      [Job 1 Overview]
+    
+       - Command - `./server`
+       - Workload - 
+       - Collector - gotrace
+    
+      [Creating The Profiling Program]
+    
+       - Discovering available and attachable symbols.
+       - Generating the source of the ebpf program - succeeded
+       - Building the ebpf program - succeeded
+    
+      [Collecting Performance Data]
+    
+       - Waiting for gotrace to start..
+       - gotrace - running
+       - Collecting from `./server` - failed
+       - Elapsed time - 5.91s
+
+    
+  * Captured stderr:
+  
+  .. code-block:: 
+
+    [ERROR] while collecting by gotrace: error while collect phase: name 're' is not defined
+    [ERROR] unexpected error: git.exc.GitCommandError: Cmd('git') failed due to: exit code(1)
+      cmdline: git stash pop
+      stdout: 'On branch master
+    Your branch is up to date with 'origin/master'.
+    
+    Changes not staged for commit:
+      (use "git add <file>..." to update what will be committed)
+      (use "git restore <file>..." to discard changes in working directory)
+    	modified:   10hello/server
+    
+    Untracked files:
+      (use "git add <file>..." to include in what will be committed)
+    	.perun/
+    
+    no changes added to commit (use "git add" and/or "git commit -a")
+    The stash entry is kept in case you need it again.'
+      stderr: 'error: Your local changes to the following files would be overwritten by merge:
+    	10hello/server
+    Please commit your changes or stash them before you merge.
+    Aborting'
+
+
+Context
+-------
+ * Runtime Config
+ 
+ .. code-block:: yaml
+ 
+    output_filename_queue: []
+    input_filename_queue: []
+    context:
+      profiles: []
+      workload: {}
+
+   
+ * Local Config
+ 
+ .. code-block:: yaml
+ 
+    vcs:
+      type: git
+      url: /home/gzvv/Desktop/bp
+    
+    ## The following sets the executables (binaries / scripts).
+    ## These will be profiled by selected collectors.
+    ## Uncomment and edit the following region:
+    # cmds:
+    #   - echo
+    
+    ## The following sets the profiling workload for given commands
+    ## Uncomment and edit the following region:
+    # workloads:
+    #   - hello
+    #   - world
+    
+    ## The following contains the set of collectors (profilers) that will collect performance data.
+    ## Uncomment and edit the following region:
+    # collectors:
+    #   - name: time
+    ## Try '$ perun collect --help' to obtain list of supported collectors!
+    
+    ## The following contains the ordered list of postprocess phases that are executed after collection.
+    ## Uncomment and edit the following region (!order matters!):
+    # postprocessors:
+    #   - name: regression_analysis
+    #     params:
+    #       method: full
+    #   - name: filter
+    ## Try '$ perun postprocessby --help' to obtain list of supported collectors!
+    
+    ## The following option automatically registers newly collected profiles for current minor version
+    ## Uncomment the following to enable this behaviour:
+    # profiles:
+    #   register_after_run: true
+    
+    ## Be default, we sort the profiles by time
+    format:
+      sort_profiles_by: time
+    
+    ## The following options control the degradation checks in repository
+    # degradation:
+    ## Setting the following combination of option to true will make Perun collect new profiles,
+    ## before checking for degradations and store them in logs at directory .perun/logs/
+    #   collect_before_check: true
+    #   log_collect: true
+    ## Setting this to first (resp. all) will apply the first (resp. all) found check methods
+    ## for corresponding configurations
+    #   apply: first
+    ## Specification of list of rules for applying degradation checks
+    #   strategy:
+    #     - method: average_amount_threshold
+    
+    ## To run your custom steps before any collection (un)comment the following region:
+    # execute:
+    #   pre_run:
+    #     - make
+
+   
+ * Global Config
+ 
+ .. code-block:: yaml
+ 
+    general:
+      editor: vim
+      paging: only-log
+    
+    format:
+      status: ┃ %type% ┃ %collector%  ┃ (%time%) ┃ %source% ┃
+      shortlog: '%checksum:6% (%stats%) %desc% %changes%'
+      output_profile_template: '%collector%-%cmd%-%workload%-%date%'
+      output_show_template: '%collector%-%cmd%-%workload%-%date%'
+      sort_profiles_by: time
+    
+    degradation:
+      apply: all
+      strategies:
+      - method: average_amount_threshold
+    
+    generators:
+      workload:
+      - id: basic_strings
+        type: string
+        min_len: 8
+        max_len: 128
+        step: 8
+      - id: basic_integers
+        type: integer
+        min_range: 100
+        max_range: 10000
+        step: 200
+      - id: basic_files
+        type: textfile
+        min_lines: 10
+        max_lines: 10000
+        step: 1000
+    testkey: '692829'
+
+
