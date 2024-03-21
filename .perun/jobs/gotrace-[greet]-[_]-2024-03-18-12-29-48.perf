@@ -1,0 +1,433 @@
+{
+  "resources": {
+    "main.Greet#0": {
+      "amount": [
+        9
+      ]
+    },
+    "main.Greet#1": {
+      "amount": [
+        3.1401787299016787e-07
+      ]
+    },
+    "main.Greet#2": {
+      "amount": [
+        28.660789
+      ]
+    },
+    "main.Greet#3": {
+      "amount": [
+        5.181653965955407e-06
+      ]
+    },
+    "main.Greet#4": {
+      "amount": [
+        21.904399
+      ]
+    },
+    "main.Greet#5": {
+      "amount": [
+        3.960149734545677e-06
+      ]
+    },
+    "main.Greet#6": {
+      "amount": [
+        1.9107192666666666
+      ]
+    },
+    "main.Greet#7": {
+      "amount": [
+        1.4602932666666666
+      ]
+    },
+    "main.Greet#8": {
+      "amount": [
+        359336
+      ]
+    },
+    "main.Greet#9": {
+      "amount": [
+        359336
+      ]
+    },
+    "main.Greet#10": {
+      "amount": [
+        4638321
+      ]
+    },
+    "main.Greet#11": {
+      "amount": [
+        4638321
+      ]
+    },
+    "main.Greet#12": {
+      "amount": [
+        0
+      ]
+    },
+    "main.add#0": {
+      "amount": [
+        0
+      ]
+    },
+    "main.add#1": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.add#2": {
+      "amount": [
+        6.75639
+      ]
+    },
+    "main.add#3": {
+      "amount": [
+        1.2215042314097305e-06
+      ]
+    },
+    "main.add#4": {
+      "amount": [
+        6.75639
+      ]
+    },
+    "main.add#5": {
+      "amount": [
+        1.2215042314097305e-06
+      ]
+    },
+    "main.add#6": {
+      "amount": [
+        0.75071
+      ]
+    },
+    "main.add#7": {
+      "amount": [
+        0.75071
+      ]
+    },
+    "main.add#8": {
+      "amount": [
+        387124
+      ]
+    },
+    "main.add#9": {
+      "amount": [
+        387124
+      ]
+    },
+    "main.add#10": {
+      "amount": [
+        1433081
+      ]
+    },
+    "main.add#11": {
+      "amount": [
+        1433081
+      ]
+    },
+    "main.add#12": {
+      "amount": [
+        0
+      ]
+    }
+  },
+  "resource_type_map": {
+    "main.Greet#0": {
+      "ncalls": 15,
+      "subtype": "Callees [#]",
+      "time": 5531204744336,
+      "trace": [],
+      "type": "time",
+      "uid": "main.Greet"
+    },
+    "main.Greet#1": {
+      "ncalls": 15,
+      "subtype": "Callees Mean [#]",
+      "time": 5531204744336,
+      "trace": [],
+      "type": "time",
+      "uid": "main.Greet"
+    },
+    "main.Greet#2": {
+      "ncalls": 15,
+      "subtype": "Total Inclusive T [ms]",
+      "time": 5531204744336,
+      "trace": [],
+      "type": "time",
+      "uid": "main.Greet"
+    },
+    "main.Greet#3": {
+      "ncalls": 15,
+      "subtype": "Total Inclusive T [%]",
+      "time": 5531204744336,
+      "trace": [],
+      "type": "time",
+      "uid": "main.Greet"
+    },
+    "main.Greet#4": {
+      "ncalls": 15,
+      "subtype": "Total Exclusive T [ms]",
+      "time": 5531204744336,
+      "trace": [],
+      "type": "time",
+      "uid": "main.Greet"
+    },
+    "main.Greet#5": {
+      "ncalls": 15,
+      "subtype": "Total Exclusive T [%]",
+      "time": 5531204744336,
+      "trace": [],
+      "type": "time",
+      "uid": "main.Greet"
+    },
+    "main.Greet#6": {
+      "ncalls": 15,
+      "subtype": "I Mean",
+      "time": 5531204744336,
+      "trace": [],
+      "type": "time",
+      "uid": "main.Greet"
+    },
+    "main.Greet#7": {
+      "ncalls": 15,
+      "subtype": "E Mean",
+      "time": 5531204744336,
+      "trace": [],
+      "type": "time",
+      "uid": "main.Greet"
+    },
+    "main.Greet#8": {
+      "ncalls": 15,
+      "subtype": "I Min",
+      "time": 5531204744336,
+      "trace": [],
+      "type": "time",
+      "uid": "main.Greet"
+    },
+    "main.Greet#9": {
+      "ncalls": 15,
+      "subtype": "E Min",
+      "time": 5531204744336,
+      "trace": [],
+      "type": "time",
+      "uid": "main.Greet"
+    },
+    "main.Greet#10": {
+      "ncalls": 15,
+      "subtype": "I Max",
+      "time": 5531204744336,
+      "trace": [],
+      "type": "time",
+      "uid": "main.Greet"
+    },
+    "main.Greet#11": {
+      "ncalls": 15,
+      "subtype": "E Max",
+      "time": 5531204744336,
+      "trace": [],
+      "type": "time",
+      "uid": "main.Greet"
+    },
+    "main.Greet#12": {
+      "ncalls": 15,
+      "subtype": "Morestack T [ms]",
+      "time": 5531204744336,
+      "trace": [],
+      "type": "time",
+      "uid": "main.Greet"
+    },
+    "main.add#0": {
+      "ncalls": 9,
+      "subtype": "Callees [#]",
+      "time": 5531204744336,
+      "trace": [
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.add"
+    },
+    "main.add#1": {
+      "ncalls": 9,
+      "subtype": "Callees Mean [#]",
+      "time": 5531204744336,
+      "trace": [
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.add"
+    },
+    "main.add#2": {
+      "ncalls": 9,
+      "subtype": "Total Inclusive T [ms]",
+      "time": 5531204744336,
+      "trace": [
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.add"
+    },
+    "main.add#3": {
+      "ncalls": 9,
+      "subtype": "Total Inclusive T [%]",
+      "time": 5531204744336,
+      "trace": [
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.add"
+    },
+    "main.add#4": {
+      "ncalls": 9,
+      "subtype": "Total Exclusive T [ms]",
+      "time": 5531204744336,
+      "trace": [
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.add"
+    },
+    "main.add#5": {
+      "ncalls": 9,
+      "subtype": "Total Exclusive T [%]",
+      "time": 5531204744336,
+      "trace": [
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.add"
+    },
+    "main.add#6": {
+      "ncalls": 9,
+      "subtype": "I Mean",
+      "time": 5531204744336,
+      "trace": [
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.add"
+    },
+    "main.add#7": {
+      "ncalls": 9,
+      "subtype": "E Mean",
+      "time": 5531204744336,
+      "trace": [
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.add"
+    },
+    "main.add#8": {
+      "ncalls": 9,
+      "subtype": "I Min",
+      "time": 5531204744336,
+      "trace": [
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.add"
+    },
+    "main.add#9": {
+      "ncalls": 9,
+      "subtype": "E Min",
+      "time": 5531204744336,
+      "trace": [
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.add"
+    },
+    "main.add#10": {
+      "ncalls": 9,
+      "subtype": "I Max",
+      "time": 5531204744336,
+      "trace": [
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.add"
+    },
+    "main.add#11": {
+      "ncalls": 9,
+      "subtype": "E Max",
+      "time": 5531204744336,
+      "trace": [
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.add"
+    },
+    "main.add#12": {
+      "ncalls": 9,
+      "subtype": "Morestack T [ms]",
+      "time": 5531204744336,
+      "trace": [
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.add"
+    }
+  },
+  "models": [],
+  "origin": "d6e90958c44e80958c592bcc599ac7fa44c9bc4b",
+  "header": {
+    "type": "mixed",
+    "cmd": "./greet",
+    "workload": "",
+    "units": {
+      "mixed(time delta)": "us"
+    }
+  },
+  "machine": {
+    "architecture": "x86_64",
+    "system": "Linux",
+    "release": "6.5.0-25-generic",
+    "host": "Ubuntu22",
+    "cpu": {
+      "physical": 4,
+      "total": 4,
+      "frequency": "3400.06Mhz"
+    },
+    "memory": {
+      "total_ram": "7.7 GiB",
+      "swap": "2.6 GiB"
+    }
+  },
+  "collector_info": {
+    "name": "gotrace",
+    "params": {
+      "packages": [],
+      "with_sudo": false,
+      "bpfring_size": 167772160,
+      "output_profile_type": "flat",
+      "save_intermediate_to_csv": false,
+      "workload": ""
+    }
+  },
+  "postprocessors": []
+}

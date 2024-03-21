@@ -53,13 +53,10 @@ func handler(w http.ResponseWriter, r *http.Request) {
 }
 
 //go:noinline
-func Greet(name string, i, a, b int) {
-	// pid := os.Getpid()
-	// cpuid := getCurrentCPUID()
-	// goid := getGoroutineID()
-	// tgid := getThreadID()
-	// fmt.Printf("GREET \tPID: %d, TGID: %d, GOID: %d, CPU ID: %d\n", pid, tgid, goid, cpuid)
-	fmt.Printf("Greet\n")
+func Greet(name string, i, a int) {
+	cpuid := getCurrentCPUID()
+	goid := getGoroutineID()
+	fmt.Printf("GREET %d\tGOID: %d, CPU ID: %d\n", a, goid, cpuid)
 
 	_ = add(22, 33, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10)
 
@@ -72,12 +69,9 @@ func getThreadID() int {
 
 //go:noinline
 func add(i, j, k, l, m, n, o, p, q, r, s, t int) int {
-	// pid := os.Getpid()
-	// cpuid := getCurrentCPUID()
-	// goid := getGoroutineID()
-	// tgid := getThreadID()
-	// fmt.Printf("ADD \tPID: %d, TGID: %d, GOID: %d, CPU ID: %d\n", pid, tgid, goid, cpuid)
-	fmt.Printf("Add\n")
+	cpuid := getCurrentCPUID()
+	goid := getGoroutineID()
+	fmt.Printf("ADD \tGOID: %d, CPU ID: %d\n", goid, cpuid)
 
 	k = i + j
 	if k > 60 {
@@ -108,7 +102,17 @@ func main() {
 	wg.Add(1)
 	go func() {
 		for cnt := 0; cnt < 10; cnt++ {
-			Greet(names[rand.Intn(len(names))], cnt, 1, 2)
+			Greet(names[rand.Intn(len(names))], cnt, 1)
+			time.Sleep(time.Second)
+		}
+
+		wg.Done()
+	}()
+
+	wg.Add(1)
+	go func() {
+		for cnt := 0; cnt < 5; cnt++ {
+			Greet(names[rand.Intn(len(names))], cnt, 2)
 			time.Sleep(time.Second)
 		}
 
