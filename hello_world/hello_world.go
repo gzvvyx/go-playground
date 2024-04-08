@@ -5,13 +5,15 @@ import (
 	"time"
 )
 
-func hello(str string) int {
+func Hello(str string) string {
 	time.Sleep(2 * time.Second)
-	fmt.Println("Hello, World!")
-	return 5
+	fmt.Println(str, "World!")
+	return str
 }
 
 func main() {
 	fmt.Println("Start")
-	hello("Hello")
+	var idk string
+	idk = Hello("Hello")
+	fmt.Println(idk, "back")
 }
