@@ -1,0 +1,295 @@
+trace,time,uid,subtype,type,amount,ncalls,snapshots
+,10202068672,main.main,Callees [#],time,4.0,1,0
+,10202068672,main.main,Callees Mean [#],time,3.9207734515433775e-10,1,0
+,10202068672,main.main,Total Inclusive T [ms],time,10202.068672,1,0
+,10202068672,main.main,Total Inclusive T [%],time,1.0,1,0
+,10202068672,main.main,Total Exclusive T [ms],time,10151.289739,1,0
+,10202068672,main.main,Total Exclusive T [%],time,0.9950226826898975,1,0
+,10202068672,main.main,Total Morestack T [ms],time,0.0,1,0
+,10202068672,main.main,Total Morestack T [%],time,0.0,1,0
+,10202068672,main.main,I Mean,time,10202.068672,1,0
+,10202068672,main.main,E Mean,time,10151.289739,1,0
+,10202068672,main.main,I Min,time,10202068672.0,1,0
+,10202068672,main.main,E Min,time,10151289739.0,1,0
+,10202068672,main.main,I Max,time,10202068672.0,1,0
+,10202068672,main.main,E Max,time,10151289739.0,1,0
+,10202068672,main.main.func1,Callees [#],time,10.0,1,0
+,10202068672,main.main.func1,Callees Mean [#],time,9.808137446502022e-10,1,0
+,10202068672,main.main.func1,Total Inclusive T [ms],time,10195.615686,1,0
+,10202068672,main.main.func1,Total Inclusive T [%],time,0.9993674825952005,1,0
+,10202068672,main.main.func1,Total Exclusive T [ms],time,10035.24963,1,0
+,10202068672,main.main.func1,Total Exclusive T [%],time,0.9836485082228625,1,0
+,10202068672,main.main.func1,Total Morestack T [ms],time,0.0,1,0
+,10202068672,main.main.func1,Total Morestack T [%],time,0.0,1,0
+,10202068672,main.main.func1,I Mean,time,10195.615686,1,0
+,10202068672,main.main.func1,E Mean,time,10035.24963,1,0
+,10202068672,main.main.func1,I Min,time,10195615686.0,1,0
+,10202068672,main.main.func1,E Min,time,10035249630.0,1,0
+,10202068672,main.main.func1,I Max,time,10195615686.0,1,0
+,10202068672,main.main.func1,E Max,time,10035249630.0,1,0
+,10202068672,main.main.func2,Callees [#],time,5.0,1,0
+,10202068672,main.main.func2,Callees Mean [#],time,9.751896487733304e-10,1,0
+,10202068672,main.main.func2,Total Inclusive T [ms],time,5127.207827,1,0
+,10202068672,main.main.func2,Total Inclusive T [%],time,0.5025655082161752,1,0
+,10202068672,main.main.func2,Total Exclusive T [ms],time,5019.843554,1,0
+,10202068672,main.main.func2,Total Exclusive T [%],time,0.49204173343560886,1,0
+,10202068672,main.main.func2,Total Morestack T [ms],time,0.0,1,0
+,10202068672,main.main.func2,Total Morestack T [%],time,0.0,1,0
+,10202068672,main.main.func2,I Mean,time,5127.207827,1,0
+,10202068672,main.main.func2,E Mean,time,5019.843554,1,0
+,10202068672,main.main.func2,I Min,time,5127207827.0,1,0
+,10202068672,main.main.func2,E Min,time,5019843554.0,1,0
+,10202068672,main.main.func2,I Max,time,5127207827.0,1,0
+,10202068672,main.main.func2,E Max,time,5019843554.0,1,0
+main.main.func2,10202068672,main.Greet,Callees [#],time,15.0,5,0
+main.main.func2,10202068672,main.Greet,Callees Mean [#],time,1.3971127993387522e-07,5,0
+main.main.func2,10202068672,main.Greet,Total Inclusive T [ms],time,107.364273,5,0
+main.main.func2,10202068672,main.Greet,Total Inclusive T [%],time,0.010523774780566385,5,0
+main.main.func2,10202068672,main.Greet,Total Exclusive T [ms],time,59.28282,5,0
+main.main.func2,10202068672,main.Greet,Total Exclusive T [%],time,0.005810862669715619,5,0
+main.main.func2,10202068672,main.Greet,Total Morestack T [ms],time,0.0,5,0
+main.main.func2,10202068672,main.Greet,Total Morestack T [%],time,0.0,5,0
+main.main.func2,10202068672,main.Greet,I Mean,time,21.4728546,5,0
+main.main.func2,10202068672,main.Greet,E Mean,time,11.856564,5,0
+main.main.func2,10202068672,main.Greet,I Min,time,7477724.0,5,0
+main.main.func2,10202068672,main.Greet,E Min,time,4637347.0,5,0
+main.main.func2,10202068672,main.Greet,I Max,time,54914569.0,5,0
+main.main.func2,10202068672,main.Greet,E Max,time,33276796.0,5,0
+"main.main.func1,main.Greet,main.add",10202068672,main.getGoroutineID,Callees [#],time,0.0,10,0
+"main.main.func1,main.Greet,main.add",10202068672,main.getGoroutineID,Callees Mean [#],time,0.0,10,0
+"main.main.func1,main.Greet,main.add",10202068672,main.getGoroutineID,Total Inclusive T [ms],time,45.121858,10,0
+"main.main.func1,main.Greet,main.add",10202068672,main.getGoroutineID,Total Inclusive T [%],time,0.004422814573267754,10,0
+"main.main.func1,main.Greet,main.add",10202068672,main.getGoroutineID,Total Exclusive T [ms],time,45.121858,10,0
+"main.main.func1,main.Greet,main.add",10202068672,main.getGoroutineID,Total Exclusive T [%],time,0.004422814573267754,10,0
+"main.main.func1,main.Greet,main.add",10202068672,main.getGoroutineID,Total Morestack T [ms],time,2.936986,10,0
+"main.main.func1,main.Greet,main.add",10202068672,main.getGoroutineID,Total Morestack T [%],time,0.00028788141840886444,10,0
+"main.main.func1,main.Greet,main.add",10202068672,main.getGoroutineID,I Mean,time,4.5121858,10,0
+"main.main.func1,main.Greet,main.add",10202068672,main.getGoroutineID,E Mean,time,4.5121858,10,0
+"main.main.func1,main.Greet,main.add",10202068672,main.getGoroutineID,I Min,time,436950.0,10,0
+"main.main.func1,main.Greet,main.add",10202068672,main.getGoroutineID,E Min,time,436950.0,10,0
+"main.main.func1,main.Greet,main.add",10202068672,main.getGoroutineID,I Max,time,24225560.0,10,0
+"main.main.func1,main.Greet,main.add",10202068672,main.getGoroutineID,E Max,time,24225560.0,10,0
+main.main.func1,10202068672,main.Greet,Callees [#],time,30.0,10,0
+main.main.func1,10202068672,main.Greet,Callees Mean [#],time,1.870720073080802e-07,10,0
+main.main.func1,10202068672,main.Greet,Total Inclusive T [ms],time,160.366056,10,0
+main.main.func1,10202068672,main.Greet,Total Inclusive T [%],time,0.015718974372337963,10,0
+main.main.func1,10202068672,main.Greet,Total Exclusive T [ms],time,43.740396,10,0
+main.main.func1,10202068672,main.Greet,Total Exclusive T [%],time,0.004287404584919854,10,0
+main.main.func1,10202068672,main.Greet,Total Morestack T [ms],time,0.0,10,0
+main.main.func1,10202068672,main.Greet,Total Morestack T [%],time,0.0,10,0
+main.main.func1,10202068672,main.Greet,I Mean,time,16.036605599999998,10,0
+main.main.func1,10202068672,main.Greet,E Mean,time,4.3740396,10,0
+main.main.func1,10202068672,main.Greet,I Min,time,3249079.0,10,0
+main.main.func1,10202068672,main.Greet,E Min,time,1406379.0,10,0
+main.main.func1,10202068672,main.Greet,I Max,time,50391000.0,10,0
+main.main.func1,10202068672,main.Greet,E Max,time,8123811.0,10,0
+"main.main.func1,main.Greet",10202068672,main.add,Callees [#],time,20.0,10,0
+"main.main.func1,main.Greet",10202068672,main.add,Callees Mean [#],time,2.1356931888793173e-07,10,0
+"main.main.func1,main.Greet",10202068672,main.add,Total Inclusive T [ms],time,93.64641,10,0
+"main.main.func1,main.Greet",10202068672,main.add,Total Inclusive T [%],time,0.009179158954008657,10,0
+"main.main.func1,main.Greet",10202068672,main.add,Total Exclusive T [ms],time,43.020711,10,0
+"main.main.func1,main.Greet",10202068672,main.add,Total Exclusive T [%],time,0.004216861538883004,10,0
+"main.main.func1,main.Greet",10202068672,main.add,Total Morestack T [ms],time,0.0,10,0
+"main.main.func1,main.Greet",10202068672,main.add,Total Morestack T [%],time,0.0,10,0
+"main.main.func1,main.Greet",10202068672,main.add,I Mean,time,9.364641,10,0
+"main.main.func1,main.Greet",10202068672,main.add,E Mean,time,4.3020711,10,0
+"main.main.func1,main.Greet",10202068672,main.add,I Min,time,1455440.0,10,0
+"main.main.func1,main.Greet",10202068672,main.add,E Min,time,891122.0,10,0
+"main.main.func1,main.Greet",10202068672,main.add,I Max,time,37089443.0,10,0
+"main.main.func1,main.Greet",10202068672,main.add,E Max,time,12710153.0,10,0
+main.main,10202068672,main.add,Callees [#],time,2.0,1,0
+main.main,10202068672,main.add,Callees Mean [#],time,4.163638573771421e-08,1,0
+main.main,10202068672,main.add,Total Inclusive T [ms],time,48.034909,1,0
+main.main,10202068672,main.add,Total Inclusive T [%],time,0.004708349898862551,1,0
+main.main,10202068672,main.add,Total Exclusive T [ms],time,34.910651,1,0
+main.main,10202068672,main.add,Total Exclusive T [%],time,0.0034219188404224065,1,0
+main.main,10202068672,main.add,Total Morestack T [ms],time,0.0,1,0
+main.main,10202068672,main.add,Total Morestack T [%],time,0.0,1,0
+main.main,10202068672,main.add,I Mean,time,48.034909,1,0
+main.main,10202068672,main.add,E Mean,time,34.910651,1,0
+main.main,10202068672,main.add,I Min,time,48034909.0,1,0
+main.main,10202068672,main.add,E Min,time,34910651.0,1,0
+main.main,10202068672,main.add,I Max,time,48034909.0,1,0
+main.main,10202068672,main.add,E Max,time,34910651.0,1,0
+"main.main.func2,main.Greet",10202068672,main.add,Callees [#],time,10.0,5,0
+"main.main.func2,main.Greet",10202068672,main.add,Callees Mean [#],time,4.049409764106898e-07,5,0
+"main.main.func2,main.Greet",10202068672,main.add,Total Inclusive T [ms],time,24.694957,5,0
+"main.main.func2,main.Greet",10202068672,main.add,Total Inclusive T [%],time,0.002420583294815132,5,0
+"main.main.func2,main.Greet",10202068672,main.add,Total Exclusive T [ms],time,17.548867,5,0
+"main.main.func2,main.Greet",10202068672,main.add,Total Exclusive T [%],time,0.0017201282959566418,5,0
+"main.main.func2,main.Greet",10202068672,main.add,Total Morestack T [ms],time,0.0,5,0
+"main.main.func2,main.Greet",10202068672,main.add,Total Morestack T [%],time,0.0,5,0
+"main.main.func2,main.Greet",10202068672,main.add,I Mean,time,4.938991400000001,5,0
+"main.main.func2,main.Greet",10202068672,main.add,E Mean,time,3.5097734,5,0
+"main.main.func2,main.Greet",10202068672,main.add,I Min,time,2179188.0,5,0
+"main.main.func2,main.Greet",10202068672,main.add,E Min,time,1121818.0,5,0
+"main.main.func2,main.Greet",10202068672,main.add,I Max,time,8312416.0,5,0
+"main.main.func2,main.Greet",10202068672,main.add,E Max,time,7405767.0,5,0
+"main.main.func2,main.Greet",10202068672,main.getGoroutineID,Callees [#],time,0.0,5,0
+"main.main.func2,main.Greet",10202068672,main.getGoroutineID,Callees Mean [#],time,0.0,5,0
+"main.main.func2,main.Greet",10202068672,main.getGoroutineID,Total Inclusive T [ms],time,17.367434,5,0
+"main.main.func2,main.Greet",10202068672,main.getGoroutineID,Total Inclusive T [%],time,0.001702344353715795,5,0
+"main.main.func2,main.Greet",10202068672,main.getGoroutineID,Total Exclusive T [ms],time,17.367434,5,0
+"main.main.func2,main.Greet",10202068672,main.getGoroutineID,Total Exclusive T [%],time,0.001702344353715795,5,0
+"main.main.func2,main.Greet",10202068672,main.getGoroutineID,Total Morestack T [ms],time,2.287423,5,0
+"main.main.func2,main.Greet",10202068672,main.getGoroutineID,Total Morestack T [%],time,0.00022421168427124268,5,0
+"main.main.func2,main.Greet",10202068672,main.getGoroutineID,I Mean,time,3.4734868,5,0
+"main.main.func2,main.Greet",10202068672,main.getGoroutineID,E Mean,time,3.4734868,5,0
+"main.main.func2,main.Greet",10202068672,main.getGoroutineID,I Min,time,535009.0,5,0
+"main.main.func2,main.Greet",10202068672,main.getGoroutineID,E Min,time,535009.0,5,0
+"main.main.func2,main.Greet",10202068672,main.getGoroutineID,I Max,time,10711471.0,5,0
+"main.main.func2,main.Greet",10202068672,main.getGoroutineID,E Max,time,10711471.0,5,0
+"main.main.func1,main.Greet",10202068672,main.getGoroutineID,Callees [#],time,0.0,10,0
+"main.main.func1,main.Greet",10202068672,main.getGoroutineID,Callees Mean [#],time,0.0,10,0
+"main.main.func1,main.Greet",10202068672,main.getGoroutineID,Total Inclusive T [ms],time,14.078389,10,0
+"main.main.func1,main.Greet",10202068672,main.getGoroutineID,Total Inclusive T [%],time,0.001379954345792508,10,0
+"main.main.func1,main.Greet",10202068672,main.getGoroutineID,Total Exclusive T [ms],time,14.078389,10,0
+"main.main.func1,main.Greet",10202068672,main.getGoroutineID,Total Exclusive T [%],time,0.001379954345792508,10,0
+"main.main.func1,main.Greet",10202068672,main.getGoroutineID,Total Morestack T [ms],time,0.0,10,0
+"main.main.func1,main.Greet",10202068672,main.getGoroutineID,Total Morestack T [%],time,0.0,10,0
+"main.main.func1,main.Greet",10202068672,main.getGoroutineID,I Mean,time,1.4078389,10,0
+"main.main.func1,main.Greet",10202068672,main.getGoroutineID,E Mean,time,1.4078389,10,0
+"main.main.func1,main.Greet",10202068672,main.getGoroutineID,I Min,time,257960.0,10,0
+"main.main.func1,main.Greet",10202068672,main.getGoroutineID,E Min,time,257960.0,10,0
+"main.main.func1,main.Greet",10202068672,main.getGoroutineID,I Max,time,3531068.0,10,0
+"main.main.func1,main.Greet",10202068672,main.getGoroutineID,E Max,time,3531068.0,10,0
+"main.main,main.add",10202068672,main.getGoroutineID,Callees [#],time,0.0,1,0
+"main.main,main.add",10202068672,main.getGoroutineID,Callees Mean [#],time,0.0,1,0
+"main.main,main.add",10202068672,main.getGoroutineID,Total Inclusive T [ms],time,9.697744,1,0
+"main.main,main.add",10202068672,main.getGoroutineID,Total Inclusive T [%],time,0.000950566430376602,1,0
+"main.main,main.add",10202068672,main.getGoroutineID,Total Exclusive T [ms],time,9.697744,1,0
+"main.main,main.add",10202068672,main.getGoroutineID,Total Exclusive T [%],time,0.000950566430376602,1,0
+"main.main,main.add",10202068672,main.getGoroutineID,Total Morestack T [ms],time,28.801052,1,0
+"main.main,main.add",10202068672,main.getGoroutineID,Total Morestack T [%],time,0.0028230600014530075,1,0
+"main.main,main.add",10202068672,main.getGoroutineID,I Mean,time,9.697744,1,0
+"main.main,main.add",10202068672,main.getGoroutineID,E Mean,time,9.697744,1,0
+"main.main,main.add",10202068672,main.getGoroutineID,I Min,time,9697744.0,1,0
+"main.main,main.add",10202068672,main.getGoroutineID,E Min,time,9697744.0,1,0
+"main.main,main.add",10202068672,main.getGoroutineID,I Max,time,9697744.0,1,0
+"main.main,main.add",10202068672,main.getGoroutineID,E Max,time,9697744.0,1,0
+"main.main.func1,main.Greet",10202068672,main.getCurrentCPUID,Callees [#],time,0.0,10,0
+"main.main.func1,main.Greet",10202068672,main.getCurrentCPUID,Callees Mean [#],time,0.0,10,0
+"main.main.func1,main.Greet",10202068672,main.getCurrentCPUID,Total Inclusive T [ms],time,8.900861,10,0
+"main.main.func1,main.Greet",10202068672,main.getCurrentCPUID,Total Inclusive T [%],time,0.0008724564876169459,10,0
+"main.main.func1,main.Greet",10202068672,main.getCurrentCPUID,Total Exclusive T [ms],time,8.900861,10,0
+"main.main.func1,main.Greet",10202068672,main.getCurrentCPUID,Total Exclusive T [%],time,0.0008724564876169459,10,0
+"main.main.func1,main.Greet",10202068672,main.getCurrentCPUID,Total Morestack T [ms],time,0.0,10,0
+"main.main.func1,main.Greet",10202068672,main.getCurrentCPUID,Total Morestack T [%],time,0.0,10,0
+"main.main.func1,main.Greet",10202068672,main.getCurrentCPUID,I Mean,time,0.8900861,10,0
+"main.main.func1,main.Greet",10202068672,main.getCurrentCPUID,E Mean,time,0.8900861,10,0
+"main.main.func1,main.Greet",10202068672,main.getCurrentCPUID,I Min,time,124889.0,10,0
+"main.main.func1,main.Greet",10202068672,main.getCurrentCPUID,E Min,time,124889.0,10,0
+"main.main.func1,main.Greet",10202068672,main.getCurrentCPUID,I Max,time,2997278.0,10,0
+"main.main.func1,main.Greet",10202068672,main.getCurrentCPUID,E Max,time,2997278.0,10,0
+"main.main.func2,main.Greet",10202068672,main.getCurrentCPUID,Callees [#],time,0.0,5,0
+"main.main.func2,main.Greet",10202068672,main.getCurrentCPUID,Callees Mean [#],time,0.0,5,0
+"main.main.func2,main.Greet",10202068672,main.getCurrentCPUID,Total Inclusive T [ms],time,6.019062,5,0
+"main.main.func2,main.Greet",10202068672,main.getCurrentCPUID,Total Inclusive T [%],time,0.0005899844623198396,5,0
+"main.main.func2,main.Greet",10202068672,main.getCurrentCPUID,Total Exclusive T [ms],time,6.019062,5,0
+"main.main.func2,main.Greet",10202068672,main.getCurrentCPUID,Total Exclusive T [%],time,0.0005899844623198396,5,0
+"main.main.func2,main.Greet",10202068672,main.getCurrentCPUID,Total Morestack T [ms],time,2.204062,5,0
+"main.main.func2,main.Greet",10202068672,main.getCurrentCPUID,Total Morestack T [%],time,0.00021604069437888997,5,0
+"main.main.func2,main.Greet",10202068672,main.getCurrentCPUID,I Mean,time,1.2038124,5,0
+"main.main.func2,main.Greet",10202068672,main.getCurrentCPUID,E Mean,time,1.2038124,5,0
+"main.main.func2,main.Greet",10202068672,main.getCurrentCPUID,I Min,time,126180.0,5,0
+"main.main.func2,main.Greet",10202068672,main.getCurrentCPUID,E Min,time,126180.0,5,0
+"main.main.func2,main.Greet",10202068672,main.getCurrentCPUID,I Max,time,2817407.0,5,0
+"main.main.func2,main.Greet",10202068672,main.getCurrentCPUID,E Max,time,2817407.0,5,0
+"main.main.func1,main.Greet,main.add",10202068672,main.getCurrentCPUID,Callees [#],time,0.0,10,0
+"main.main.func1,main.Greet,main.add",10202068672,main.getCurrentCPUID,Callees Mean [#],time,0.0,10,0
+"main.main.func1,main.Greet,main.add",10202068672,main.getCurrentCPUID,Total Inclusive T [ms],time,5.503841,10,0
+"main.main.func1,main.Greet,main.add",10202068672,main.getCurrentCPUID,Total Inclusive T [%],time,0.0005394828418578988,10,0
+"main.main.func1,main.Greet,main.add",10202068672,main.getCurrentCPUID,Total Exclusive T [ms],time,5.503841,10,0
+"main.main.func1,main.Greet,main.add",10202068672,main.getCurrentCPUID,Total Exclusive T [%],time,0.0005394828418578988,10,0
+"main.main.func1,main.Greet,main.add",10202068672,main.getCurrentCPUID,Total Morestack T [ms],time,0.0,10,0
+"main.main.func1,main.Greet,main.add",10202068672,main.getCurrentCPUID,Total Morestack T [%],time,0.0,10,0
+"main.main.func1,main.Greet,main.add",10202068672,main.getCurrentCPUID,I Mean,time,0.5503840999999999,10,0
+"main.main.func1,main.Greet,main.add",10202068672,main.getCurrentCPUID,E Mean,time,0.5503840999999999,10,0
+"main.main.func1,main.Greet,main.add",10202068672,main.getCurrentCPUID,I Min,time,123199.0,10,0
+"main.main.func1,main.Greet,main.add",10202068672,main.getCurrentCPUID,E Min,time,123199.0,10,0
+"main.main.func1,main.Greet,main.add",10202068672,main.getCurrentCPUID,I Max,time,1547430.0,10,0
+"main.main.func1,main.Greet,main.add",10202068672,main.getCurrentCPUID,E Max,time,1547430.0,10,0
+"main.main.func2,main.Greet,main.add",10202068672,main.getGoroutineID,Callees [#],time,0.0,5,0
+"main.main.func2,main.Greet,main.add",10202068672,main.getGoroutineID,Callees Mean [#],time,0.0,5,0
+"main.main.func2,main.Greet,main.add",10202068672,main.getGoroutineID,Total Inclusive T [ms],time,5.284276,5,0
+"main.main.func2,main.Greet,main.add",10202068672,main.getGoroutineID,Total Inclusive T [%],time,0.0005179612262856957,5,0
+"main.main.func2,main.Greet,main.add",10202068672,main.getGoroutineID,Total Exclusive T [ms],time,5.284276,5,0
+"main.main.func2,main.Greet,main.add",10202068672,main.getGoroutineID,Total Exclusive T [%],time,0.0005179612262856957,5,0
+"main.main.func2,main.Greet,main.add",10202068672,main.getGoroutineID,Total Morestack T [ms],time,1.437322,5,0
+"main.main.func2,main.Greet,main.add",10202068672,main.getGoroutineID,Total Morestack T [%],time,0.00014088534847298077,5,0
+"main.main.func2,main.Greet,main.add",10202068672,main.getGoroutineID,I Mean,time,1.0568552,5,0
+"main.main.func2,main.Greet,main.add",10202068672,main.getGoroutineID,E Mean,time,1.0568552,5,0
+"main.main.func2,main.Greet,main.add",10202068672,main.getGoroutineID,I Min,time,543259.0,5,0
+"main.main.func2,main.Greet,main.add",10202068672,main.getGoroutineID,E Min,time,543259.0,5,0
+"main.main.func2,main.Greet,main.add",10202068672,main.getGoroutineID,I Max,time,1899634.0,5,0
+"main.main.func2,main.Greet,main.add",10202068672,main.getGoroutineID,E Max,time,1899634.0,5,0
+"main.main,main.add",10202068672,main.getCurrentCPUID,Callees [#],time,0.0,1,0
+"main.main,main.add",10202068672,main.getCurrentCPUID,Callees Mean [#],time,0.0,1,0
+"main.main,main.add",10202068672,main.getCurrentCPUID,Total Inclusive T [ms],time,3.426514,1,0
+"main.main,main.add",10202068672,main.getCurrentCPUID,Total Inclusive T [%],time,0.0003358646280635426,1,0
+"main.main,main.add",10202068672,main.getCurrentCPUID,Total Exclusive T [ms],time,3.426514,1,0
+"main.main,main.add",10202068672,main.getCurrentCPUID,Total Exclusive T [%],time,0.0003358646280635426,1,0
+"main.main,main.add",10202068672,main.getCurrentCPUID,Total Morestack T [ms],time,0.0,1,0
+"main.main,main.add",10202068672,main.getCurrentCPUID,Total Morestack T [%],time,0.0,1,0
+"main.main,main.add",10202068672,main.getCurrentCPUID,I Mean,time,3.426514,1,0
+"main.main,main.add",10202068672,main.getCurrentCPUID,E Mean,time,3.426514,1,0
+"main.main,main.add",10202068672,main.getCurrentCPUID,I Min,time,3426514.0,1,0
+"main.main,main.add",10202068672,main.getCurrentCPUID,E Min,time,3426514.0,1,0
+"main.main,main.add",10202068672,main.getCurrentCPUID,I Max,time,3426514.0,1,0
+"main.main,main.add",10202068672,main.getCurrentCPUID,E Max,time,3426514.0,1,0
+main.main,10202068672,main.getGoroutineID,Callees [#],time,0.0,1,0
+main.main,10202068672,main.getGoroutineID,Callees Mean [#],time,0.0,1,0
+main.main,10202068672,main.getGoroutineID,Total Inclusive T [ms],time,2.008616,1,0
+main.main,10202068672,main.getGoroutineID,Total Inclusive T [%],time,0.0001968832071786313,1,0
+main.main,10202068672,main.getGoroutineID,Total Exclusive T [ms],time,2.008616,1,0
+main.main,10202068672,main.getGoroutineID,Total Exclusive T [%],time,0.0001968832071786313,1,0
+main.main,10202068672,main.getGoroutineID,Total Morestack T [ms],time,0.0,1,0
+main.main,10202068672,main.getGoroutineID,Total Morestack T [%],time,0.0,1,0
+main.main,10202068672,main.getGoroutineID,I Mean,time,2.008616,1,0
+main.main,10202068672,main.getGoroutineID,E Mean,time,2.008616,1,0
+main.main,10202068672,main.getGoroutineID,I Min,time,2008616.0,1,0
+main.main,10202068672,main.getGoroutineID,E Min,time,2008616.0,1,0
+main.main,10202068672,main.getGoroutineID,I Max,time,2008616.0,1,0
+main.main,10202068672,main.getGoroutineID,E Max,time,2008616.0,1,0
+"main.main.func2,main.Greet,main.add",10202068672,main.getCurrentCPUID,Callees [#],time,0.0,5,0
+"main.main.func2,main.Greet,main.add",10202068672,main.getCurrentCPUID,Callees Mean [#],time,0.0,5,0
+"main.main.func2,main.Greet,main.add",10202068672,main.getCurrentCPUID,Total Inclusive T [ms],time,1.861814,5,0
+"main.main.func2,main.Greet,main.add",10202068672,main.getCurrentCPUID,Total Inclusive T [%],time,0.00018249377257279455,5,0
+"main.main.func2,main.Greet,main.add",10202068672,main.getCurrentCPUID,Total Exclusive T [ms],time,1.861814,5,0
+"main.main.func2,main.Greet,main.add",10202068672,main.getCurrentCPUID,Total Exclusive T [%],time,0.00018249377257279455,5,0
+"main.main.func2,main.Greet,main.add",10202068672,main.getCurrentCPUID,Total Morestack T [ms],time,3.411604,5,0
+"main.main.func2,main.Greet,main.add",10202068672,main.getCurrentCPUID,Total Morestack T [%],time,0.00033440315975947983,5,0
+"main.main.func2,main.Greet,main.add",10202068672,main.getCurrentCPUID,I Mean,time,0.3723628,5,0
+"main.main.func2,main.Greet,main.add",10202068672,main.getCurrentCPUID,E Mean,time,0.3723628,5,0
+"main.main.func2,main.Greet,main.add",10202068672,main.getCurrentCPUID,I Min,time,134319.0,5,0
+"main.main.func2,main.Greet,main.add",10202068672,main.getCurrentCPUID,E Min,time,134319.0,5,0
+"main.main.func2,main.Greet,main.add",10202068672,main.getCurrentCPUID,I Max,time,648695.0,5,0
+"main.main.func2,main.Greet,main.add",10202068672,main.getCurrentCPUID,E Max,time,648695.0,5,0
+main.main,10202068672,main.getThreadID,Callees [#],time,0.0,1,0
+main.main,10202068672,main.getThreadID,Callees Mean [#],time,0.0,1,0
+main.main,10202068672,main.getThreadID,Total Inclusive T [ms],time,0.392759,1,0
+main.main,10202068672,main.getThreadID,Total Inclusive T [%],time,3.8497976501368137e-05,1,0
+main.main,10202068672,main.getThreadID,Total Exclusive T [ms],time,0.392759,1,0
+main.main,10202068672,main.getThreadID,Total Exclusive T [%],time,3.8497976501368137e-05,1,0
+main.main,10202068672,main.getThreadID,Total Morestack T [ms],time,0.0,1,0
+main.main,10202068672,main.getThreadID,Total Morestack T [%],time,0.0,1,0
+main.main,10202068672,main.getThreadID,I Mean,time,0.392759,1,0
+main.main,10202068672,main.getThreadID,E Mean,time,0.392759,1,0
+main.main,10202068672,main.getThreadID,I Min,time,392759.0,1,0
+main.main,10202068672,main.getThreadID,E Min,time,392759.0,1,0
+main.main,10202068672,main.getThreadID,I Max,time,392759.0,1,0
+main.main,10202068672,main.getThreadID,E Max,time,392759.0,1,0
+main.main,10202068672,main.getCurrentCPUID,Callees [#],time,0.0,1,0
+main.main,10202068672,main.getCurrentCPUID,Callees Mean [#],time,0.0,1,0
+main.main,10202068672,main.getCurrentCPUID,Total Inclusive T [ms],time,0.342649,1,0
+main.main,10202068672,main.getCurrentCPUID,Total Inclusive T [%],time,3.358622755994717e-05,1,0
+main.main,10202068672,main.getCurrentCPUID,Total Exclusive T [ms],time,0.342649,1,0
+main.main,10202068672,main.getCurrentCPUID,Total Exclusive T [%],time,3.358622755994717e-05,1,0
+main.main,10202068672,main.getCurrentCPUID,Total Morestack T [ms],time,0.0,1,0
+main.main,10202068672,main.getCurrentCPUID,Total Morestack T [%],time,0.0,1,0
+main.main,10202068672,main.getCurrentCPUID,I Mean,time,0.342649,1,0
+main.main,10202068672,main.getCurrentCPUID,E Mean,time,0.342649,1,0
+main.main,10202068672,main.getCurrentCPUID,I Min,time,342649.0,1,0
+main.main,10202068672,main.getCurrentCPUID,E Min,time,342649.0,1,0
+main.main,10202068672,main.getCurrentCPUID,I Max,time,342649.0,1,0
+main.main,10202068672,main.getCurrentCPUID,E Max,time,342649.0,1,0

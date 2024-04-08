@@ -1,0 +1,225 @@
+{
+  "resources": {
+    "main.main#0": {
+      "amount": [
+        0
+      ]
+    },
+    "main.main#1": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.main#2": {
+      "amount": [
+        0.732252
+      ]
+    },
+    "main.main#3": {
+      "amount": [
+        1.0
+      ]
+    },
+    "main.main#4": {
+      "amount": [
+        0.732252
+      ]
+    },
+    "main.main#5": {
+      "amount": [
+        1.0
+      ]
+    },
+    "main.main#6": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.main#7": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.main#8": {
+      "amount": [
+        0.732252
+      ]
+    },
+    "main.main#9": {
+      "amount": [
+        0.732252
+      ]
+    },
+    "main.main#10": {
+      "amount": [
+        732252
+      ]
+    },
+    "main.main#11": {
+      "amount": [
+        732252
+      ]
+    },
+    "main.main#12": {
+      "amount": [
+        732252
+      ]
+    },
+    "main.main#13": {
+      "amount": [
+        732252
+      ]
+    }
+  },
+  "resource_type_map": {
+    "main.main#0": {
+      "ncalls": 1,
+      "subtype": "Callees [#]",
+      "time": 732252,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main"
+    },
+    "main.main#1": {
+      "ncalls": 1,
+      "subtype": "Callees Mean [#]",
+      "time": 732252,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main"
+    },
+    "main.main#2": {
+      "ncalls": 1,
+      "subtype": "Total Inclusive T [ms]",
+      "time": 732252,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main"
+    },
+    "main.main#3": {
+      "ncalls": 1,
+      "subtype": "Total Inclusive T [%]",
+      "time": 732252,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main"
+    },
+    "main.main#4": {
+      "ncalls": 1,
+      "subtype": "Total Exclusive T [ms]",
+      "time": 732252,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main"
+    },
+    "main.main#5": {
+      "ncalls": 1,
+      "subtype": "Total Exclusive T [%]",
+      "time": 732252,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main"
+    },
+    "main.main#6": {
+      "ncalls": 1,
+      "subtype": "Total Morestack T [ms]",
+      "time": 732252,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main"
+    },
+    "main.main#7": {
+      "ncalls": 1,
+      "subtype": "Total Morestack T [%]",
+      "time": 732252,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main"
+    },
+    "main.main#8": {
+      "ncalls": 1,
+      "subtype": "I Mean",
+      "time": 732252,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main"
+    },
+    "main.main#9": {
+      "ncalls": 1,
+      "subtype": "E Mean",
+      "time": 732252,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main"
+    },
+    "main.main#10": {
+      "ncalls": 1,
+      "subtype": "I Min",
+      "time": 732252,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main"
+    },
+    "main.main#11": {
+      "ncalls": 1,
+      "subtype": "E Min",
+      "time": 732252,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main"
+    },
+    "main.main#12": {
+      "ncalls": 1,
+      "subtype": "I Max",
+      "time": 732252,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main"
+    },
+    "main.main#13": {
+      "ncalls": 1,
+      "subtype": "E Max",
+      "time": 732252,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main"
+    }
+  },
+  "models": [],
+  "origin": "742fa8fede0221ea024fe590a61186b2f6fdddf7",
+  "header": {
+    "type": "mixed",
+    "cmd": "./hello_world",
+    "workload": "",
+    "units": {
+      "mixed(time delta)": "us"
+    }
+  },
+  "machine": {
+    "architecture": "x86_64",
+    "system": "Linux",
+    "release": "6.5.0-26-generic",
+    "host": "Ubuntu22",
+    "cpu": {
+      "physical": 4,
+      "total": 4,
+      "frequency": "3400.07Mhz"
+    },
+    "memory": {
+      "total_ram": "7.7 GiB",
+      "swap": "2.6 GiB"
+    }
+  },
+  "collector_info": {
+    "name": "gotrace",
+    "params": {
+      "save_intermediate_to_csv": true,
+      "packages": [],
+      "with_sudo": false,
+      "bpfring_size": 167772160,
+      "output_profile_type": "flat",
+      "workload": ""
+    }
+  },
+  "postprocessors": []
+}
