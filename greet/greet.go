@@ -103,7 +103,7 @@ func main() {
 	go func() {
 		for cnt := 0; cnt < 10; cnt++ {
 			Greet(names[rand.Intn(len(names))], cnt, 1)
-			time.Sleep(time.Second)
+			time.Sleep(time.Millisecond)
 		}
 
 		wg.Done()
@@ -113,7 +113,7 @@ func main() {
 	go func() {
 		for cnt := 0; cnt < 5; cnt++ {
 			Greet(names[rand.Intn(len(names))], cnt, 2)
-			time.Sleep(time.Second)
+			time.Sleep(time.Millisecond)
 		}
 
 		wg.Done()

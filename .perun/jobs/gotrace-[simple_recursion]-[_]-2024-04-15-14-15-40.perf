@@ -1,0 +1,1877 @@
+{
+  "resources": {
+    "main.recursiveFunction#0": {
+      "amount": [
+        2
+      ]
+    },
+    "main.recursiveFunction#1": {
+      "amount": [
+        2.644385077999443e-07
+      ]
+    },
+    "main.recursiveFunction#2": {
+      "amount": [
+        7.563195
+      ]
+    },
+    "main.recursiveFunction#3": {
+      "amount": [
+        0.686976503883865
+      ]
+    },
+    "main.recursiveFunction#4": {
+      "amount": [
+        2.893288
+      ]
+    },
+    "main.recursiveFunction#5": {
+      "amount": [
+        0.26280174912442955
+      ]
+    },
+    "main.recursiveFunction#6": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.recursiveFunction#7": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.recursiveFunction#8": {
+      "amount": [
+        7.563195
+      ]
+    },
+    "main.recursiveFunction#9": {
+      "amount": [
+        2.893288
+      ]
+    },
+    "main.recursiveFunction#10": {
+      "amount": [
+        7563195
+      ]
+    },
+    "main.recursiveFunction#11": {
+      "amount": [
+        2893288
+      ]
+    },
+    "main.recursiveFunction#12": {
+      "amount": [
+        7563195
+      ]
+    },
+    "main.recursiveFunction#13": {
+      "amount": [
+        2893288
+      ]
+    },
+    "main.recursiveFunction#14": {
+      "amount": [
+        0
+      ]
+    },
+    "main.recursiveFunction#15": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.recursiveFunction#16": {
+      "amount": [
+        2.067025
+      ]
+    },
+    "main.recursiveFunction#17": {
+      "amount": [
+        0.1877510242616442
+      ]
+    },
+    "main.recursiveFunction#18": {
+      "amount": [
+        2.067025
+      ]
+    },
+    "main.recursiveFunction#19": {
+      "amount": [
+        0.1877510242616442
+      ]
+    },
+    "main.recursiveFunction#20": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.recursiveFunction#21": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.recursiveFunction#22": {
+      "amount": [
+        2.067025
+      ]
+    },
+    "main.recursiveFunction#23": {
+      "amount": [
+        2.067025
+      ]
+    },
+    "main.recursiveFunction#24": {
+      "amount": [
+        2067025
+      ]
+    },
+    "main.recursiveFunction#25": {
+      "amount": [
+        2067025
+      ]
+    },
+    "main.recursiveFunction#26": {
+      "amount": [
+        2067025
+      ]
+    },
+    "main.recursiveFunction#27": {
+      "amount": [
+        2067025
+      ]
+    },
+    "main.recursiveFunction#28": {
+      "amount": [
+        2
+      ]
+    },
+    "main.recursiveFunction#29": {
+      "amount": [
+        4.834798559326725e-07
+      ]
+    },
+    "main.recursiveFunction#30": {
+      "amount": [
+        4.136677
+      ]
+    },
+    "main.recursiveFunction#31": {
+      "amount": [
+        0.3757406629284046
+      ]
+    },
+    "main.recursiveFunction#32": {
+      "amount": [
+        1.290885
+      ]
+    },
+    "main.recursiveFunction#33": {
+      "amount": [
+        0.11725304771543284
+      ]
+    },
+    "main.recursiveFunction#34": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.recursiveFunction#35": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.recursiveFunction#36": {
+      "amount": [
+        4.136677
+      ]
+    },
+    "main.recursiveFunction#37": {
+      "amount": [
+        1.290885
+      ]
+    },
+    "main.recursiveFunction#38": {
+      "amount": [
+        4136677
+      ]
+    },
+    "main.recursiveFunction#39": {
+      "amount": [
+        1290885
+      ]
+    },
+    "main.recursiveFunction#40": {
+      "amount": [
+        4136677
+      ]
+    },
+    "main.recursiveFunction#41": {
+      "amount": [
+        1290885
+      ]
+    },
+    "main.main#0": {
+      "amount": [
+        1
+      ]
+    },
+    "main.main#1": {
+      "amount": [
+        1.1550418442784136e-07
+      ]
+    },
+    "main.main#2": {
+      "amount": [
+        8.657695
+      ]
+    },
+    "main.main#3": {
+      "amount": [
+        0.7863916033888877
+      ]
+    },
+    "main.main#4": {
+      "amount": [
+        1.0945
+      ]
+    },
+    "main.main#5": {
+      "amount": [
+        0.09941509950502271
+      ]
+    },
+    "main.main#6": {
+      "amount": [
+        2.351699
+      ]
+    },
+    "main.main#7": {
+      "amount": [
+        0.2136083966111123
+      ]
+    },
+    "main.main#8": {
+      "amount": [
+        8.657695
+      ]
+    },
+    "main.main#9": {
+      "amount": [
+        1.0945
+      ]
+    },
+    "main.main#10": {
+      "amount": [
+        8657695
+      ]
+    },
+    "main.main#11": {
+      "amount": [
+        1094500
+      ]
+    },
+    "main.main#12": {
+      "amount": [
+        8657695
+      ]
+    },
+    "main.main#13": {
+      "amount": [
+        1094500
+      ]
+    },
+    "main.getGoroutineID#0": {
+      "amount": [
+        0
+      ]
+    },
+    "main.getGoroutineID#1": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.getGoroutineID#2": {
+      "amount": [
+        0.778767
+      ]
+    },
+    "main.getGoroutineID#3": {
+      "amount": [
+        0.07073659095132756
+      ]
+    },
+    "main.getGoroutineID#4": {
+      "amount": [
+        0.778767
+      ]
+    },
+    "main.getGoroutineID#5": {
+      "amount": [
+        0.07073659095132756
+      ]
+    },
+    "main.getGoroutineID#6": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.getGoroutineID#7": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.getGoroutineID#8": {
+      "amount": [
+        0.778767
+      ]
+    },
+    "main.getGoroutineID#9": {
+      "amount": [
+        0.778767
+      ]
+    },
+    "main.getGoroutineID#10": {
+      "amount": [
+        778767
+      ]
+    },
+    "main.getGoroutineID#11": {
+      "amount": [
+        778767
+      ]
+    },
+    "main.getGoroutineID#12": {
+      "amount": [
+        778767
+      ]
+    },
+    "main.getGoroutineID#13": {
+      "amount": [
+        778767
+      ]
+    },
+    "main.getGoroutineID#14": {
+      "amount": [
+        0
+      ]
+    },
+    "main.getGoroutineID#15": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.getGoroutineID#16": {
+      "amount": [
+        0.53323
+      ]
+    },
+    "main.getGoroutineID#17": {
+      "amount": [
+        0.04843409183103085
+      ]
+    },
+    "main.getGoroutineID#18": {
+      "amount": [
+        0.53323
+      ]
+    },
+    "main.getGoroutineID#19": {
+      "amount": [
+        0.04843409183103085
+      ]
+    },
+    "main.getGoroutineID#20": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.getGoroutineID#21": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.getGoroutineID#22": {
+      "amount": [
+        0.53323
+      ]
+    },
+    "main.getGoroutineID#23": {
+      "amount": [
+        0.53323
+      ]
+    },
+    "main.getGoroutineID#24": {
+      "amount": [
+        533230
+      ]
+    },
+    "main.getGoroutineID#25": {
+      "amount": [
+        533230
+      ]
+    },
+    "main.getGoroutineID#26": {
+      "amount": [
+        533230
+      ]
+    },
+    "main.getGoroutineID#27": {
+      "amount": [
+        533230
+      ]
+    }
+  },
+  "resource_type_map": {
+    "main.recursiveFunction#0": {
+      "ncalls": 1,
+      "subtype": "Callees [#]",
+      "time": 11009394,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.recursiveFunction"
+    },
+    "main.recursiveFunction#1": {
+      "ncalls": 1,
+      "subtype": "Callees Mean [#]",
+      "time": 11009394,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.recursiveFunction"
+    },
+    "main.recursiveFunction#2": {
+      "ncalls": 1,
+      "subtype": "Total Inclusive T [ms]",
+      "time": 11009394,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.recursiveFunction"
+    },
+    "main.recursiveFunction#3": {
+      "ncalls": 1,
+      "subtype": "Total Inclusive T [%]",
+      "time": 11009394,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.recursiveFunction"
+    },
+    "main.recursiveFunction#4": {
+      "ncalls": 1,
+      "subtype": "Total Exclusive T [ms]",
+      "time": 11009394,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.recursiveFunction"
+    },
+    "main.recursiveFunction#5": {
+      "ncalls": 1,
+      "subtype": "Total Exclusive T [%]",
+      "time": 11009394,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.recursiveFunction"
+    },
+    "main.recursiveFunction#6": {
+      "ncalls": 1,
+      "subtype": "Total Morestack T [ms]",
+      "time": 11009394,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.recursiveFunction"
+    },
+    "main.recursiveFunction#7": {
+      "ncalls": 1,
+      "subtype": "Total Morestack T [%]",
+      "time": 11009394,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.recursiveFunction"
+    },
+    "main.recursiveFunction#8": {
+      "ncalls": 1,
+      "subtype": "I Mean",
+      "time": 11009394,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.recursiveFunction"
+    },
+    "main.recursiveFunction#9": {
+      "ncalls": 1,
+      "subtype": "E Mean",
+      "time": 11009394,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.recursiveFunction"
+    },
+    "main.recursiveFunction#10": {
+      "ncalls": 1,
+      "subtype": "I Min",
+      "time": 11009394,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.recursiveFunction"
+    },
+    "main.recursiveFunction#11": {
+      "ncalls": 1,
+      "subtype": "E Min",
+      "time": 11009394,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.recursiveFunction"
+    },
+    "main.recursiveFunction#12": {
+      "ncalls": 1,
+      "subtype": "I Max",
+      "time": 11009394,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.recursiveFunction"
+    },
+    "main.recursiveFunction#13": {
+      "ncalls": 1,
+      "subtype": "E Max",
+      "time": 11009394,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.recursiveFunction"
+    },
+    "main.recursiveFunction#14": {
+      "ncalls": 1,
+      "subtype": "Callees [#]",
+      "time": 11009394,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.recursiveFunction"
+        },
+        {
+          "func": "main.recursiveFunction"
+        }
+      ],
+      "type": "time",
+      "uid": "main.recursiveFunction"
+    },
+    "main.recursiveFunction#15": {
+      "ncalls": 1,
+      "subtype": "Callees Mean [#]",
+      "time": 11009394,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.recursiveFunction"
+        },
+        {
+          "func": "main.recursiveFunction"
+        }
+      ],
+      "type": "time",
+      "uid": "main.recursiveFunction"
+    },
+    "main.recursiveFunction#16": {
+      "ncalls": 1,
+      "subtype": "Total Inclusive T [ms]",
+      "time": 11009394,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.recursiveFunction"
+        },
+        {
+          "func": "main.recursiveFunction"
+        }
+      ],
+      "type": "time",
+      "uid": "main.recursiveFunction"
+    },
+    "main.recursiveFunction#17": {
+      "ncalls": 1,
+      "subtype": "Total Inclusive T [%]",
+      "time": 11009394,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.recursiveFunction"
+        },
+        {
+          "func": "main.recursiveFunction"
+        }
+      ],
+      "type": "time",
+      "uid": "main.recursiveFunction"
+    },
+    "main.recursiveFunction#18": {
+      "ncalls": 1,
+      "subtype": "Total Exclusive T [ms]",
+      "time": 11009394,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.recursiveFunction"
+        },
+        {
+          "func": "main.recursiveFunction"
+        }
+      ],
+      "type": "time",
+      "uid": "main.recursiveFunction"
+    },
+    "main.recursiveFunction#19": {
+      "ncalls": 1,
+      "subtype": "Total Exclusive T [%]",
+      "time": 11009394,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.recursiveFunction"
+        },
+        {
+          "func": "main.recursiveFunction"
+        }
+      ],
+      "type": "time",
+      "uid": "main.recursiveFunction"
+    },
+    "main.recursiveFunction#20": {
+      "ncalls": 1,
+      "subtype": "Total Morestack T [ms]",
+      "time": 11009394,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.recursiveFunction"
+        },
+        {
+          "func": "main.recursiveFunction"
+        }
+      ],
+      "type": "time",
+      "uid": "main.recursiveFunction"
+    },
+    "main.recursiveFunction#21": {
+      "ncalls": 1,
+      "subtype": "Total Morestack T [%]",
+      "time": 11009394,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.recursiveFunction"
+        },
+        {
+          "func": "main.recursiveFunction"
+        }
+      ],
+      "type": "time",
+      "uid": "main.recursiveFunction"
+    },
+    "main.recursiveFunction#22": {
+      "ncalls": 1,
+      "subtype": "I Mean",
+      "time": 11009394,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.recursiveFunction"
+        },
+        {
+          "func": "main.recursiveFunction"
+        }
+      ],
+      "type": "time",
+      "uid": "main.recursiveFunction"
+    },
+    "main.recursiveFunction#23": {
+      "ncalls": 1,
+      "subtype": "E Mean",
+      "time": 11009394,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.recursiveFunction"
+        },
+        {
+          "func": "main.recursiveFunction"
+        }
+      ],
+      "type": "time",
+      "uid": "main.recursiveFunction"
+    },
+    "main.recursiveFunction#24": {
+      "ncalls": 1,
+      "subtype": "I Min",
+      "time": 11009394,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.recursiveFunction"
+        },
+        {
+          "func": "main.recursiveFunction"
+        }
+      ],
+      "type": "time",
+      "uid": "main.recursiveFunction"
+    },
+    "main.recursiveFunction#25": {
+      "ncalls": 1,
+      "subtype": "E Min",
+      "time": 11009394,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.recursiveFunction"
+        },
+        {
+          "func": "main.recursiveFunction"
+        }
+      ],
+      "type": "time",
+      "uid": "main.recursiveFunction"
+    },
+    "main.recursiveFunction#26": {
+      "ncalls": 1,
+      "subtype": "I Max",
+      "time": 11009394,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.recursiveFunction"
+        },
+        {
+          "func": "main.recursiveFunction"
+        }
+      ],
+      "type": "time",
+      "uid": "main.recursiveFunction"
+    },
+    "main.recursiveFunction#27": {
+      "ncalls": 1,
+      "subtype": "E Max",
+      "time": 11009394,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.recursiveFunction"
+        },
+        {
+          "func": "main.recursiveFunction"
+        }
+      ],
+      "type": "time",
+      "uid": "main.recursiveFunction"
+    },
+    "main.recursiveFunction#28": {
+      "ncalls": 1,
+      "subtype": "Callees [#]",
+      "time": 11009394,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.recursiveFunction"
+        }
+      ],
+      "type": "time",
+      "uid": "main.recursiveFunction"
+    },
+    "main.recursiveFunction#29": {
+      "ncalls": 1,
+      "subtype": "Callees Mean [#]",
+      "time": 11009394,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.recursiveFunction"
+        }
+      ],
+      "type": "time",
+      "uid": "main.recursiveFunction"
+    },
+    "main.recursiveFunction#30": {
+      "ncalls": 1,
+      "subtype": "Total Inclusive T [ms]",
+      "time": 11009394,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.recursiveFunction"
+        }
+      ],
+      "type": "time",
+      "uid": "main.recursiveFunction"
+    },
+    "main.recursiveFunction#31": {
+      "ncalls": 1,
+      "subtype": "Total Inclusive T [%]",
+      "time": 11009394,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.recursiveFunction"
+        }
+      ],
+      "type": "time",
+      "uid": "main.recursiveFunction"
+    },
+    "main.recursiveFunction#32": {
+      "ncalls": 1,
+      "subtype": "Total Exclusive T [ms]",
+      "time": 11009394,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.recursiveFunction"
+        }
+      ],
+      "type": "time",
+      "uid": "main.recursiveFunction"
+    },
+    "main.recursiveFunction#33": {
+      "ncalls": 1,
+      "subtype": "Total Exclusive T [%]",
+      "time": 11009394,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.recursiveFunction"
+        }
+      ],
+      "type": "time",
+      "uid": "main.recursiveFunction"
+    },
+    "main.recursiveFunction#34": {
+      "ncalls": 1,
+      "subtype": "Total Morestack T [ms]",
+      "time": 11009394,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.recursiveFunction"
+        }
+      ],
+      "type": "time",
+      "uid": "main.recursiveFunction"
+    },
+    "main.recursiveFunction#35": {
+      "ncalls": 1,
+      "subtype": "Total Morestack T [%]",
+      "time": 11009394,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.recursiveFunction"
+        }
+      ],
+      "type": "time",
+      "uid": "main.recursiveFunction"
+    },
+    "main.recursiveFunction#36": {
+      "ncalls": 1,
+      "subtype": "I Mean",
+      "time": 11009394,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.recursiveFunction"
+        }
+      ],
+      "type": "time",
+      "uid": "main.recursiveFunction"
+    },
+    "main.recursiveFunction#37": {
+      "ncalls": 1,
+      "subtype": "E Mean",
+      "time": 11009394,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.recursiveFunction"
+        }
+      ],
+      "type": "time",
+      "uid": "main.recursiveFunction"
+    },
+    "main.recursiveFunction#38": {
+      "ncalls": 1,
+      "subtype": "I Min",
+      "time": 11009394,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.recursiveFunction"
+        }
+      ],
+      "type": "time",
+      "uid": "main.recursiveFunction"
+    },
+    "main.recursiveFunction#39": {
+      "ncalls": 1,
+      "subtype": "E Min",
+      "time": 11009394,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.recursiveFunction"
+        }
+      ],
+      "type": "time",
+      "uid": "main.recursiveFunction"
+    },
+    "main.recursiveFunction#40": {
+      "ncalls": 1,
+      "subtype": "I Max",
+      "time": 11009394,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.recursiveFunction"
+        }
+      ],
+      "type": "time",
+      "uid": "main.recursiveFunction"
+    },
+    "main.recursiveFunction#41": {
+      "ncalls": 1,
+      "subtype": "E Max",
+      "time": 11009394,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.recursiveFunction"
+        }
+      ],
+      "type": "time",
+      "uid": "main.recursiveFunction"
+    },
+    "main.main#0": {
+      "ncalls": 1,
+      "subtype": "Callees [#]",
+      "time": 11009394,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main"
+    },
+    "main.main#1": {
+      "ncalls": 1,
+      "subtype": "Callees Mean [#]",
+      "time": 11009394,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main"
+    },
+    "main.main#2": {
+      "ncalls": 1,
+      "subtype": "Total Inclusive T [ms]",
+      "time": 11009394,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main"
+    },
+    "main.main#3": {
+      "ncalls": 1,
+      "subtype": "Total Inclusive T [%]",
+      "time": 11009394,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main"
+    },
+    "main.main#4": {
+      "ncalls": 1,
+      "subtype": "Total Exclusive T [ms]",
+      "time": 11009394,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main"
+    },
+    "main.main#5": {
+      "ncalls": 1,
+      "subtype": "Total Exclusive T [%]",
+      "time": 11009394,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main"
+    },
+    "main.main#6": {
+      "ncalls": 1,
+      "subtype": "Total Morestack T [ms]",
+      "time": 11009394,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main"
+    },
+    "main.main#7": {
+      "ncalls": 1,
+      "subtype": "Total Morestack T [%]",
+      "time": 11009394,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main"
+    },
+    "main.main#8": {
+      "ncalls": 1,
+      "subtype": "I Mean",
+      "time": 11009394,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main"
+    },
+    "main.main#9": {
+      "ncalls": 1,
+      "subtype": "E Mean",
+      "time": 11009394,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main"
+    },
+    "main.main#10": {
+      "ncalls": 1,
+      "subtype": "I Min",
+      "time": 11009394,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main"
+    },
+    "main.main#11": {
+      "ncalls": 1,
+      "subtype": "E Min",
+      "time": 11009394,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main"
+    },
+    "main.main#12": {
+      "ncalls": 1,
+      "subtype": "I Max",
+      "time": 11009394,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main"
+    },
+    "main.main#13": {
+      "ncalls": 1,
+      "subtype": "E Max",
+      "time": 11009394,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main"
+    },
+    "main.getGoroutineID#0": {
+      "ncalls": 1,
+      "subtype": "Callees [#]",
+      "time": 11009394,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.recursiveFunction"
+        },
+        {
+          "func": "main.recursiveFunction"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#1": {
+      "ncalls": 1,
+      "subtype": "Callees Mean [#]",
+      "time": 11009394,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.recursiveFunction"
+        },
+        {
+          "func": "main.recursiveFunction"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#2": {
+      "ncalls": 1,
+      "subtype": "Total Inclusive T [ms]",
+      "time": 11009394,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.recursiveFunction"
+        },
+        {
+          "func": "main.recursiveFunction"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#3": {
+      "ncalls": 1,
+      "subtype": "Total Inclusive T [%]",
+      "time": 11009394,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.recursiveFunction"
+        },
+        {
+          "func": "main.recursiveFunction"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#4": {
+      "ncalls": 1,
+      "subtype": "Total Exclusive T [ms]",
+      "time": 11009394,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.recursiveFunction"
+        },
+        {
+          "func": "main.recursiveFunction"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#5": {
+      "ncalls": 1,
+      "subtype": "Total Exclusive T [%]",
+      "time": 11009394,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.recursiveFunction"
+        },
+        {
+          "func": "main.recursiveFunction"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#6": {
+      "ncalls": 1,
+      "subtype": "Total Morestack T [ms]",
+      "time": 11009394,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.recursiveFunction"
+        },
+        {
+          "func": "main.recursiveFunction"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#7": {
+      "ncalls": 1,
+      "subtype": "Total Morestack T [%]",
+      "time": 11009394,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.recursiveFunction"
+        },
+        {
+          "func": "main.recursiveFunction"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#8": {
+      "ncalls": 1,
+      "subtype": "I Mean",
+      "time": 11009394,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.recursiveFunction"
+        },
+        {
+          "func": "main.recursiveFunction"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#9": {
+      "ncalls": 1,
+      "subtype": "E Mean",
+      "time": 11009394,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.recursiveFunction"
+        },
+        {
+          "func": "main.recursiveFunction"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#10": {
+      "ncalls": 1,
+      "subtype": "I Min",
+      "time": 11009394,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.recursiveFunction"
+        },
+        {
+          "func": "main.recursiveFunction"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#11": {
+      "ncalls": 1,
+      "subtype": "E Min",
+      "time": 11009394,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.recursiveFunction"
+        },
+        {
+          "func": "main.recursiveFunction"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#12": {
+      "ncalls": 1,
+      "subtype": "I Max",
+      "time": 11009394,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.recursiveFunction"
+        },
+        {
+          "func": "main.recursiveFunction"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#13": {
+      "ncalls": 1,
+      "subtype": "E Max",
+      "time": 11009394,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.recursiveFunction"
+        },
+        {
+          "func": "main.recursiveFunction"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#14": {
+      "ncalls": 1,
+      "subtype": "Callees [#]",
+      "time": 11009394,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.recursiveFunction"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#15": {
+      "ncalls": 1,
+      "subtype": "Callees Mean [#]",
+      "time": 11009394,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.recursiveFunction"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#16": {
+      "ncalls": 1,
+      "subtype": "Total Inclusive T [ms]",
+      "time": 11009394,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.recursiveFunction"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#17": {
+      "ncalls": 1,
+      "subtype": "Total Inclusive T [%]",
+      "time": 11009394,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.recursiveFunction"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#18": {
+      "ncalls": 1,
+      "subtype": "Total Exclusive T [ms]",
+      "time": 11009394,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.recursiveFunction"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#19": {
+      "ncalls": 1,
+      "subtype": "Total Exclusive T [%]",
+      "time": 11009394,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.recursiveFunction"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#20": {
+      "ncalls": 1,
+      "subtype": "Total Morestack T [ms]",
+      "time": 11009394,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.recursiveFunction"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#21": {
+      "ncalls": 1,
+      "subtype": "Total Morestack T [%]",
+      "time": 11009394,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.recursiveFunction"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#22": {
+      "ncalls": 1,
+      "subtype": "I Mean",
+      "time": 11009394,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.recursiveFunction"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#23": {
+      "ncalls": 1,
+      "subtype": "E Mean",
+      "time": 11009394,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.recursiveFunction"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#24": {
+      "ncalls": 1,
+      "subtype": "I Min",
+      "time": 11009394,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.recursiveFunction"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#25": {
+      "ncalls": 1,
+      "subtype": "E Min",
+      "time": 11009394,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.recursiveFunction"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#26": {
+      "ncalls": 1,
+      "subtype": "I Max",
+      "time": 11009394,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.recursiveFunction"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#27": {
+      "ncalls": 1,
+      "subtype": "E Max",
+      "time": 11009394,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.recursiveFunction"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    }
+  },
+  "models": [],
+  "origin": "40b8473c72f53f5b86afe79556ca6517968bb726",
+  "header": {
+    "type": "mixed",
+    "cmd": "./simple_recursion",
+    "workload": "",
+    "units": {
+      "mixed(time delta)": "us"
+    }
+  },
+  "machine": {
+    "architecture": "x86_64",
+    "system": "Linux",
+    "release": "6.5.0-26-generic",
+    "host": "Ubuntu22",
+    "cpu": {
+      "physical": 4,
+      "total": 4,
+      "frequency": "3400.07Mhz"
+    },
+    "memory": {
+      "total_ram": "7.7 GiB",
+      "swap": "2.6 GiB"
+    }
+  },
+  "collector_info": {
+    "name": "gotrace",
+    "params": {
+      "packages": [],
+      "with_sudo": false,
+      "bpfring_size": 167772160,
+      "output_profile_type": "flat",
+      "save_intermediate_to_csv": false,
+      "workload": ""
+    }
+  },
+  "postprocessors": []
+}
