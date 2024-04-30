@@ -10,7 +10,6 @@ func Hello(str string) string {
 }
 
 func main() {
-	fmt.Println("Start")
 	var idk string
 	idk = Hello("Hello")
 	fmt.Println(idk, "back")
