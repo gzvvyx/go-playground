@@ -1,0 +1,7001 @@
+{
+  "resources": {
+    "main.main#0": {
+      "amount": [
+        4
+      ]
+    },
+    "main.main#1": {
+      "amount": [
+        1.601738879762648e-08
+      ]
+    },
+    "main.main#2": {
+      "amount": [
+        249.728595
+      ]
+    },
+    "main.main#3": {
+      "amount": [
+        1.0
+      ]
+    },
+    "main.main#4": {
+      "amount": [
+        181.06024
+      ]
+    },
+    "main.main#5": {
+      "amount": [
+        0.7250280649678904
+      ]
+    },
+    "main.main#6": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.main#7": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.main#8": {
+      "amount": [
+        249.728595
+      ]
+    },
+    "main.main#9": {
+      "amount": [
+        181.06024
+      ]
+    },
+    "main.main#10": {
+      "amount": [
+        249728595
+      ]
+    },
+    "main.main#11": {
+      "amount": [
+        181060240
+      ]
+    },
+    "main.main#12": {
+      "amount": [
+        249728595
+      ]
+    },
+    "main.main#13": {
+      "amount": [
+        181060240
+      ]
+    },
+    "main.Greet#0": {
+      "amount": [
+        15
+      ]
+    },
+    "main.Greet#1": {
+      "amount": [
+        8.347505078204714e-08
+      ]
+    },
+    "main.Greet#2": {
+      "amount": [
+        179.69441
+      ]
+    },
+    "main.Greet#3": {
+      "amount": [
+        0.7195588074325249
+      ]
+    },
+    "main.Greet#4": {
+      "amount": [
+        77.553816
+      ]
+    },
+    "main.Greet#5": {
+      "amount": [
+        0.3105524059028963
+      ]
+    },
+    "main.Greet#6": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.Greet#7": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.Greet#8": {
+      "amount": [
+        35.938882
+      ]
+    },
+    "main.Greet#9": {
+      "amount": [
+        15.5107632
+      ]
+    },
+    "main.Greet#10": {
+      "amount": [
+        13121803
+      ]
+    },
+    "main.Greet#11": {
+      "amount": [
+        2788960
+      ]
+    },
+    "main.Greet#12": {
+      "amount": [
+        104566095
+      ]
+    },
+    "main.Greet#13": {
+      "amount": [
+        52851045
+      ]
+    },
+    "main.add#0": {
+      "amount": [
+        20
+      ]
+    },
+    "main.add#1": {
+      "amount": [
+        1.3406270864975344e-07
+      ]
+    },
+    "main.add#2": {
+      "amount": [
+        149.183917
+      ]
+    },
+    "main.add#3": {
+      "amount": [
+        0.5973842002354596
+      ]
+    },
+    "main.add#4": {
+      "amount": [
+        61.141042
+      ]
+    },
+    "main.add#5": {
+      "amount": [
+        0.24482996030150253
+      ]
+    },
+    "main.add#6": {
+      "amount": [
+        6.009235
+      ]
+    },
+    "main.add#7": {
+      "amount": [
+        0.02406306334282624
+      ]
+    },
+    "main.add#8": {
+      "amount": [
+        14.918391699999999
+      ]
+    },
+    "main.add#9": {
+      "amount": [
+        6.1141042
+      ]
+    },
+    "main.add#10": {
+      "amount": [
+        2011727
+      ]
+    },
+    "main.add#11": {
+      "amount": [
+        1010044
+      ]
+    },
+    "main.add#12": {
+      "amount": [
+        93206854
+      ]
+    },
+    "main.add#13": {
+      "amount": [
+        32137855
+      ]
+    },
+    "main.add#14": {
+      "amount": [
+        10
+      ]
+    },
+    "main.add#15": {
+      "amount": [
+        1.2447785894895976e-07
+      ]
+    },
+    "main.add#16": {
+      "amount": [
+        80.335572
+      ]
+    },
+    "main.add#17": {
+      "amount": [
+        0.3216915227509289
+      ]
+    },
+    "main.add#18": {
+      "amount": [
+        60.17657
+      ]
+    },
+    "main.add#19": {
+      "amount": [
+        0.2409678795493964
+      ]
+    },
+    "main.add#20": {
+      "amount": [
+        46.346636
+      ]
+    },
+    "main.add#21": {
+      "amount": [
+        0.18558802206851802
+      ]
+    },
+    "main.add#22": {
+      "amount": [
+        16.0671144
+      ]
+    },
+    "main.add#23": {
+      "amount": [
+        12.035314
+      ]
+    },
+    "main.add#24": {
+      "amount": [
+        6298078
+      ]
+    },
+    "main.add#25": {
+      "amount": [
+        3185770
+      ]
+    },
+    "main.add#26": {
+      "amount": [
+        48840605
+      ]
+    },
+    "main.add#27": {
+      "amount": [
+        38518589
+      ]
+    },
+    "main.getGoroutineID#0": {
+      "amount": [
+        0
+      ]
+    },
+    "main.getGoroutineID#1": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.getGoroutineID#2": {
+      "amount": [
+        50.579688
+      ]
+    },
+    "main.getGoroutineID#3": {
+      "amount": [
+        0.20253863198966063
+      ]
+    },
+    "main.getGoroutineID#4": {
+      "amount": [
+        50.579688
+      ]
+    },
+    "main.getGoroutineID#5": {
+      "amount": [
+        0.20253863198966063
+      ]
+    },
+    "main.getGoroutineID#6": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.getGoroutineID#7": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.getGoroutineID#8": {
+      "amount": [
+        50.579688
+      ]
+    },
+    "main.getGoroutineID#9": {
+      "amount": [
+        50.579688
+      ]
+    },
+    "main.getGoroutineID#10": {
+      "amount": [
+        50579688
+      ]
+    },
+    "main.getGoroutineID#11": {
+      "amount": [
+        50579688
+      ]
+    },
+    "main.getGoroutineID#12": {
+      "amount": [
+        50579688
+      ]
+    },
+    "main.getGoroutineID#13": {
+      "amount": [
+        50579688
+      ]
+    },
+    "main.Greet#14": {
+      "amount": [
+        30
+      ]
+    },
+    "main.Greet#15": {
+      "amount": [
+        1.3695844627326276e-07
+      ]
+    },
+    "main.Greet#16": {
+      "amount": [
+        219.044541
+      ]
+    },
+    "main.Greet#17": {
+      "amount": [
+        0.8771303942986585
+      ]
+    },
+    "main.Greet#18": {
+      "amount": [
+        49.894669
+      ]
+    },
+    "main.Greet#19": {
+      "amount": [
+        0.1997955780754703
+      ]
+    },
+    "main.Greet#20": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.Greet#21": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.Greet#22": {
+      "amount": [
+        21.904454100000002
+      ]
+    },
+    "main.Greet#23": {
+      "amount": [
+        4.9894669
+      ]
+    },
+    "main.Greet#24": {
+      "amount": [
+        5222958
+      ]
+    },
+    "main.Greet#25": {
+      "amount": [
+        1618376
+      ]
+    },
+    "main.Greet#26": {
+      "amount": [
+        105214362
+      ]
+    },
+    "main.Greet#27": {
+      "amount": [
+        12141203
+      ]
+    },
+    "main.getCurrentCPUID#0": {
+      "amount": [
+        0
+      ]
+    },
+    "main.getCurrentCPUID#1": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.getCurrentCPUID#2": {
+      "amount": [
+        47.885832
+      ]
+    },
+    "main.getCurrentCPUID#3": {
+      "amount": [
+        0.1917514972604559
+      ]
+    },
+    "main.getCurrentCPUID#4": {
+      "amount": [
+        47.885832
+      ]
+    },
+    "main.getCurrentCPUID#5": {
+      "amount": [
+        0.1917514972604559
+      ]
+    },
+    "main.getCurrentCPUID#6": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.getCurrentCPUID#7": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.getCurrentCPUID#8": {
+      "amount": [
+        5.985729
+      ]
+    },
+    "main.getCurrentCPUID#9": {
+      "amount": [
+        5.985729
+      ]
+    },
+    "main.getCurrentCPUID#10": {
+      "amount": [
+        200100
+      ]
+    },
+    "main.getCurrentCPUID#11": {
+      "amount": [
+        200100
+      ]
+    },
+    "main.getCurrentCPUID#12": {
+      "amount": [
+        45342273
+      ]
+    },
+    "main.getCurrentCPUID#13": {
+      "amount": [
+        45342273
+      ]
+    },
+    "main.getGoroutineID#14": {
+      "amount": [
+        0
+      ]
+    },
+    "main.getGoroutineID#15": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.getGoroutineID#16": {
+      "amount": [
+        34.569319
+      ]
+    },
+    "main.getGoroutineID#17": {
+      "amount": [
+        0.13842755572304405
+      ]
+    },
+    "main.getGoroutineID#18": {
+      "amount": [
+        34.569319
+      ]
+    },
+    "main.getGoroutineID#19": {
+      "amount": [
+        0.13842755572304405
+      ]
+    },
+    "main.getGoroutineID#20": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.getGoroutineID#21": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.getGoroutineID#22": {
+      "amount": [
+        4.321164875
+      ]
+    },
+    "main.getGoroutineID#23": {
+      "amount": [
+        4.321164875
+      ]
+    },
+    "main.getGoroutineID#24": {
+      "amount": [
+        453673
+      ]
+    },
+    "main.getGoroutineID#25": {
+      "amount": [
+        453673
+      ]
+    },
+    "main.getGoroutineID#26": {
+      "amount": [
+        15726726
+      ]
+    },
+    "main.getGoroutineID#27": {
+      "amount": [
+        15726726
+      ]
+    },
+    "main.main.func1#0": {
+      "amount": [
+        10
+      ]
+    },
+    "main.main.func1#1": {
+      "amount": [
+        4.09860885673962e-08
+      ]
+    },
+    "main.main.func1#2": {
+      "amount": [
+        243.985224
+      ]
+    },
+    "main.main.func1#3": {
+      "amount": [
+        0.9770015484209968
+      ]
+    },
+    "main.main.func1#4": {
+      "amount": [
+        24.940683
+      ]
+    },
+    "main.main.func1#5": {
+      "amount": [
+        0.0998711541223383
+      ]
+    },
+    "main.main.func1#6": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.main.func1#7": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.main.func1#8": {
+      "amount": [
+        243.985224
+      ]
+    },
+    "main.main.func1#9": {
+      "amount": [
+        24.940683
+      ]
+    },
+    "main.main.func1#10": {
+      "amount": [
+        243985224
+      ]
+    },
+    "main.main.func1#11": {
+      "amount": [
+        24940683
+      ]
+    },
+    "main.main.func1#12": {
+      "amount": [
+        243985224
+      ]
+    },
+    "main.main.func1#13": {
+      "amount": [
+        24940683
+      ]
+    },
+    "main.add#28": {
+      "amount": [
+        2
+      ]
+    },
+    "main.add#29": {
+      "amount": [
+        2.9634941089145134e-08
+      ]
+    },
+    "main.add#30": {
+      "amount": [
+        67.487902
+      ]
+    },
+    "main.add#31": {
+      "amount": [
+        0.27024499136752844
+      ]
+    },
+    "main.add#32": {
+      "amount": [
+        16.590573
+      ]
+    },
+    "main.add#33": {
+      "amount": [
+        0.06643441452910108
+      ]
+    },
+    "main.add#34": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.add#35": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.add#36": {
+      "amount": [
+        67.487902
+      ]
+    },
+    "main.add#37": {
+      "amount": [
+        16.590573
+      ]
+    },
+    "main.add#38": {
+      "amount": [
+        67487902
+      ]
+    },
+    "main.add#39": {
+      "amount": [
+        16590573
+      ]
+    },
+    "main.add#40": {
+      "amount": [
+        67487902
+      ]
+    },
+    "main.add#41": {
+      "amount": [
+        16590573
+      ]
+    },
+    "main.getGoroutineID#28": {
+      "amount": [
+        0
+      ]
+    },
+    "main.getGoroutineID#29": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.getGoroutineID#30": {
+      "amount": [
+        14.76182
+      ]
+    },
+    "main.getGoroutineID#31": {
+      "amount": [
+        0.05911145257514463
+      ]
+    },
+    "main.getGoroutineID#32": {
+      "amount": [
+        14.76182
+      ]
+    },
+    "main.getGoroutineID#33": {
+      "amount": [
+        0.05911145257514463
+      ]
+    },
+    "main.getGoroutineID#34": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.getGoroutineID#35": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.getGoroutineID#36": {
+      "amount": [
+        2.952364
+      ]
+    },
+    "main.getGoroutineID#37": {
+      "amount": [
+        2.952364
+      ]
+    },
+    "main.getGoroutineID#38": {
+      "amount": [
+        1754546
+      ]
+    },
+    "main.getGoroutineID#39": {
+      "amount": [
+        1754546
+      ]
+    },
+    "main.getGoroutineID#40": {
+      "amount": [
+        5651806
+      ]
+    },
+    "main.getGoroutineID#41": {
+      "amount": [
+        5651806
+      ]
+    },
+    "main.main.func2#0": {
+      "amount": [
+        5
+      ]
+    },
+    "main.main.func2#1": {
+      "amount": [
+        2.5928371835669092e-08
+      ]
+    },
+    "main.main.func2#2": {
+      "amount": [
+        192.83895
+      ]
+    },
+    "main.main.func2#3": {
+      "amount": [
+        0.7721941093690132
+      ]
+    },
+    "main.main.func2#4": {
+      "amount": [
+        13.14454
+      ]
+    },
+    "main.main.func2#5": {
+      "amount": [
+        0.05263530193648829
+      ]
+    },
+    "main.main.func2#6": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.main.func2#7": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.main.func2#8": {
+      "amount": [
+        192.83895
+      ]
+    },
+    "main.main.func2#9": {
+      "amount": [
+        13.14454
+      ]
+    },
+    "main.main.func2#10": {
+      "amount": [
+        192838950
+      ]
+    },
+    "main.main.func2#11": {
+      "amount": [
+        13144540
+      ]
+    },
+    "main.main.func2#12": {
+      "amount": [
+        192838950
+      ]
+    },
+    "main.main.func2#13": {
+      "amount": [
+        13144540
+      ]
+    },
+    "main.getGoroutineID#42": {
+      "amount": [
+        0
+      ]
+    },
+    "main.getGoroutineID#43": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.getGoroutineID#44": {
+      "amount": [
+        10.707319
+      ]
+    },
+    "main.getGoroutineID#45": {
+      "amount": [
+        0.04287582285080329
+      ]
+    },
+    "main.getGoroutineID#46": {
+      "amount": [
+        10.707319
+      ]
+    },
+    "main.getGoroutineID#47": {
+      "amount": [
+        0.04287582285080329
+      ]
+    },
+    "main.getGoroutineID#48": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.getGoroutineID#49": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.getGoroutineID#50": {
+      "amount": [
+        1.0707319
+      ]
+    },
+    "main.getGoroutineID#51": {
+      "amount": [
+        1.0707319
+      ]
+    },
+    "main.getGoroutineID#52": {
+      "amount": [
+        479742
+      ]
+    },
+    "main.getGoroutineID#53": {
+      "amount": [
+        479742
+      ]
+    },
+    "main.getGoroutineID#54": {
+      "amount": [
+        2150238
+      ]
+    },
+    "main.getGoroutineID#55": {
+      "amount": [
+        2150238
+      ]
+    },
+    "main.getCurrentCPUID#14": {
+      "amount": [
+        0
+      ]
+    },
+    "main.getCurrentCPUID#15": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.getCurrentCPUID#16": {
+      "amount": [
+        9.258636
+      ]
+    },
+    "main.getCurrentCPUID#17": {
+      "amount": [
+        0.037074793136925306
+      ]
+    },
+    "main.getCurrentCPUID#18": {
+      "amount": [
+        9.258636
+      ]
+    },
+    "main.getCurrentCPUID#19": {
+      "amount": [
+        0.037074793136925306
+      ]
+    },
+    "main.getCurrentCPUID#20": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.getCurrentCPUID#21": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.getCurrentCPUID#22": {
+      "amount": [
+        0.9258636
+      ]
+    },
+    "main.getCurrentCPUID#23": {
+      "amount": [
+        0.9258636
+      ]
+    },
+    "main.getCurrentCPUID#24": {
+      "amount": [
+        317121
+      ]
+    },
+    "main.getCurrentCPUID#25": {
+      "amount": [
+        317121
+      ]
+    },
+    "main.getCurrentCPUID#26": {
+      "amount": [
+        3125241
+      ]
+    },
+    "main.getCurrentCPUID#27": {
+      "amount": [
+        3125241
+      ]
+    },
+    "main.getCurrentCPUID#28": {
+      "amount": [
+        0
+      ]
+    },
+    "main.getCurrentCPUID#29": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.getCurrentCPUID#30": {
+      "amount": [
+        7.043202
+      ]
+    },
+    "main.getCurrentCPUID#31": {
+      "amount": [
+        0.028203426203555104
+      ]
+    },
+    "main.getCurrentCPUID#32": {
+      "amount": [
+        7.043202
+      ]
+    },
+    "main.getCurrentCPUID#33": {
+      "amount": [
+        0.028203426203555104
+      ]
+    },
+    "main.getCurrentCPUID#34": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.getCurrentCPUID#35": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.getCurrentCPUID#36": {
+      "amount": [
+        1.4086404
+      ]
+    },
+    "main.getCurrentCPUID#37": {
+      "amount": [
+        1.4086404
+      ]
+    },
+    "main.getCurrentCPUID#38": {
+      "amount": [
+        133130
+      ]
+    },
+    "main.getCurrentCPUID#39": {
+      "amount": [
+        133130
+      ]
+    },
+    "main.getCurrentCPUID#40": {
+      "amount": [
+        3583432
+      ]
+    },
+    "main.getCurrentCPUID#41": {
+      "amount": [
+        3583432
+      ]
+    },
+    "main.getGoroutineID#56": {
+      "amount": [
+        0
+      ]
+    },
+    "main.getGoroutineID#57": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.getGoroutineID#58": {
+      "amount": [
+        6.961849
+      ]
+    },
+    "main.getGoroutineID#59": {
+      "amount": [
+        0.027877660545841777
+      ]
+    },
+    "main.getGoroutineID#60": {
+      "amount": [
+        6.961849
+      ]
+    },
+    "main.getGoroutineID#61": {
+      "amount": [
+        0.027877660545841777
+      ]
+    },
+    "main.getGoroutineID#62": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.getGoroutineID#63": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.getGoroutineID#64": {
+      "amount": [
+        1.74046225
+      ]
+    },
+    "main.getGoroutineID#65": {
+      "amount": [
+        1.74046225
+      ]
+    },
+    "main.getGoroutineID#66": {
+      "amount": [
+        912993
+      ]
+    },
+    "main.getGoroutineID#67": {
+      "amount": [
+        912993
+      ]
+    },
+    "main.getGoroutineID#68": {
+      "amount": [
+        2249278
+      ]
+    },
+    "main.getGoroutineID#69": {
+      "amount": [
+        2249278
+      ]
+    },
+    "main.getCurrentCPUID#42": {
+      "amount": [
+        0
+      ]
+    },
+    "main.getCurrentCPUID#43": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.getCurrentCPUID#44": {
+      "amount": [
+        5.476328
+      ]
+    },
+    "main.getCurrentCPUID#45": {
+      "amount": [
+        0.021929118689832057
+      ]
+    },
+    "main.getCurrentCPUID#46": {
+      "amount": [
+        5.476328
+      ]
+    },
+    "main.getCurrentCPUID#47": {
+      "amount": [
+        0.021929118689832057
+      ]
+    },
+    "main.getCurrentCPUID#48": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.getCurrentCPUID#49": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.getCurrentCPUID#50": {
+      "amount": [
+        5.476328
+      ]
+    },
+    "main.getCurrentCPUID#51": {
+      "amount": [
+        5.476328
+      ]
+    },
+    "main.getCurrentCPUID#52": {
+      "amount": [
+        5476328
+      ]
+    },
+    "main.getCurrentCPUID#53": {
+      "amount": [
+        5476328
+      ]
+    },
+    "main.getCurrentCPUID#54": {
+      "amount": [
+        5476328
+      ]
+    },
+    "main.getCurrentCPUID#55": {
+      "amount": [
+        5476328
+      ]
+    },
+    "main.getGoroutineID#70": {
+      "amount": [
+        0
+      ]
+    },
+    "main.getGoroutineID#71": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.getGoroutineID#72": {
+      "amount": [
+        4.845688
+      ]
+    },
+    "main.getGoroutineID#73": {
+      "amount": [
+        0.019403817171998263
+      ]
+    },
+    "main.getGoroutineID#74": {
+      "amount": [
+        4.845688
+      ]
+    },
+    "main.getGoroutineID#75": {
+      "amount": [
+        0.019403817171998263
+      ]
+    },
+    "main.getGoroutineID#76": {
+      "amount": [
+        30.542479
+      ]
+    },
+    "main.getGoroutineID#77": {
+      "amount": [
+        0.1223026902465855
+      ]
+    },
+    "main.getGoroutineID#78": {
+      "amount": [
+        4.845688
+      ]
+    },
+    "main.getGoroutineID#79": {
+      "amount": [
+        4.845688
+      ]
+    },
+    "main.getGoroutineID#80": {
+      "amount": [
+        4845688
+      ]
+    },
+    "main.getGoroutineID#81": {
+      "amount": [
+        4845688
+      ]
+    },
+    "main.getGoroutineID#82": {
+      "amount": [
+        4845688
+      ]
+    },
+    "main.getGoroutineID#83": {
+      "amount": [
+        4845688
+      ]
+    },
+    "main.getGoroutineID#84": {
+      "amount": [
+        0
+      ]
+    },
+    "main.getGoroutineID#85": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.getGoroutineID#86": {
+      "amount": [
+        4.502921
+      ]
+    },
+    "main.getGoroutineID#87": {
+      "amount": [
+        0.018031259095499255
+      ]
+    },
+    "main.getGoroutineID#88": {
+      "amount": [
+        4.502921
+      ]
+    },
+    "main.getGoroutineID#89": {
+      "amount": [
+        0.018031259095499255
+      ]
+    },
+    "main.getGoroutineID#90": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.getGoroutineID#91": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.getGoroutineID#92": {
+      "amount": [
+        2.2514605
+      ]
+    },
+    "main.getGoroutineID#93": {
+      "amount": [
+        2.2514605
+      ]
+    },
+    "main.getGoroutineID#94": {
+      "amount": [
+        1779671
+      ]
+    },
+    "main.getGoroutineID#95": {
+      "amount": [
+        1779671
+      ]
+    },
+    "main.getGoroutineID#96": {
+      "amount": [
+        2723250
+      ]
+    },
+    "main.getGoroutineID#97": {
+      "amount": [
+        2723250
+      ]
+    },
+    "main.getCurrentCPUID#56": {
+      "amount": [
+        0
+      ]
+    },
+    "main.getCurrentCPUID#57": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.getCurrentCPUID#58": {
+      "amount": [
+        2.875137
+      ]
+    },
+    "main.getCurrentCPUID#59": {
+      "amount": [
+        0.011513046793860351
+      ]
+    },
+    "main.getCurrentCPUID#60": {
+      "amount": [
+        2.875137
+      ]
+    },
+    "main.getCurrentCPUID#61": {
+      "amount": [
+        0.011513046793860351
+      ]
+    },
+    "main.getCurrentCPUID#62": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.getCurrentCPUID#63": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.getCurrentCPUID#64": {
+      "amount": [
+        0.71878425
+      ]
+    },
+    "main.getCurrentCPUID#65": {
+      "amount": [
+        0.71878425
+      ]
+    },
+    "main.getCurrentCPUID#66": {
+      "amount": [
+        135471
+      ]
+    },
+    "main.getCurrentCPUID#67": {
+      "amount": [
+        135471
+      ]
+    },
+    "main.getCurrentCPUID#68": {
+      "amount": [
+        1858487
+      ]
+    },
+    "main.getCurrentCPUID#69": {
+      "amount": [
+        1858487
+      ]
+    },
+    "main.getCurrentCPUID#70": {
+      "amount": [
+        0
+      ]
+    },
+    "main.getCurrentCPUID#71": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.getCurrentCPUID#72": {
+      "amount": [
+        1.084803
+      ]
+    },
+    "main.getCurrentCPUID#73": {
+      "amount": [
+        0.0043439278549579
+      ]
+    },
+    "main.getCurrentCPUID#74": {
+      "amount": [
+        1.084803
+      ]
+    },
+    "main.getCurrentCPUID#75": {
+      "amount": [
+        0.0043439278549579
+      ]
+    },
+    "main.getCurrentCPUID#76": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.getCurrentCPUID#77": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.getCurrentCPUID#78": {
+      "amount": [
+        0.5424015
+      ]
+    },
+    "main.getCurrentCPUID#79": {
+      "amount": [
+        0.5424015
+      ]
+    },
+    "main.getCurrentCPUID#80": {
+      "amount": [
+        127440
+      ]
+    },
+    "main.getCurrentCPUID#81": {
+      "amount": [
+        127440
+      ]
+    },
+    "main.getCurrentCPUID#82": {
+      "amount": [
+        957363
+      ]
+    },
+    "main.getCurrentCPUID#83": {
+      "amount": [
+        957363
+      ]
+    },
+    "main.getGoroutineID#98": {
+      "amount": [
+        0
+      ]
+    },
+    "main.getGoroutineID#99": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.getGoroutineID#100": {
+      "amount": [
+        0.590822
+      ]
+    },
+    "main.getGoroutineID#101": {
+      "amount": [
+        0.002365856421047818
+      ]
+    },
+    "main.getGoroutineID#102": {
+      "amount": [
+        0.590822
+      ]
+    },
+    "main.getGoroutineID#103": {
+      "amount": [
+        0.002365856421047818
+      ]
+    },
+    "main.getGoroutineID#104": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.getGoroutineID#105": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.getGoroutineID#106": {
+      "amount": [
+        0.590822
+      ]
+    },
+    "main.getGoroutineID#107": {
+      "amount": [
+        0.590822
+      ]
+    },
+    "main.getGoroutineID#108": {
+      "amount": [
+        590822
+      ]
+    },
+    "main.getGoroutineID#109": {
+      "amount": [
+        590822
+      ]
+    },
+    "main.getGoroutineID#110": {
+      "amount": [
+        590822
+      ]
+    },
+    "main.getGoroutineID#111": {
+      "amount": [
+        590822
+      ]
+    },
+    "main.getCurrentCPUID#84": {
+      "amount": [
+        0
+      ]
+    },
+    "main.getCurrentCPUID#85": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.getCurrentCPUID#86": {
+      "amount": [
+        0.317641
+      ]
+    },
+    "main.getCurrentCPUID#87": {
+      "amount": [
+        0.001271944848766718
+      ]
+    },
+    "main.getCurrentCPUID#88": {
+      "amount": [
+        0.317641
+      ]
+    },
+    "main.getCurrentCPUID#89": {
+      "amount": [
+        0.001271944848766718
+      ]
+    },
+    "main.getCurrentCPUID#90": {
+      "amount": [
+        6.599855
+      ]
+    },
+    "main.getCurrentCPUID#91": {
+      "amount": [
+        0.026428110885739778
+      ]
+    },
+    "main.getCurrentCPUID#92": {
+      "amount": [
+        0.317641
+      ]
+    },
+    "main.getCurrentCPUID#93": {
+      "amount": [
+        0.317641
+      ]
+    },
+    "main.getCurrentCPUID#94": {
+      "amount": [
+        317641
+      ]
+    },
+    "main.getCurrentCPUID#95": {
+      "amount": [
+        317641
+      ]
+    },
+    "main.getCurrentCPUID#96": {
+      "amount": [
+        317641
+      ]
+    },
+    "main.getCurrentCPUID#97": {
+      "amount": [
+        317641
+      ]
+    },
+    "main.getThreadID#0": {
+      "amount": [
+        0
+      ]
+    },
+    "main.getThreadID#1": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.getThreadID#2": {
+      "amount": [
+        0.31255
+      ]
+    },
+    "main.getThreadID#3": {
+      "amount": [
+        0.001251558717174539
+      ]
+    },
+    "main.getThreadID#4": {
+      "amount": [
+        0.31255
+      ]
+    },
+    "main.getThreadID#5": {
+      "amount": [
+        0.001251558717174539
+      ]
+    },
+    "main.getThreadID#6": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.getThreadID#7": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.getThreadID#8": {
+      "amount": [
+        0.31255
+      ]
+    },
+    "main.getThreadID#9": {
+      "amount": [
+        0.31255
+      ]
+    },
+    "main.getThreadID#10": {
+      "amount": [
+        312550
+      ]
+    },
+    "main.getThreadID#11": {
+      "amount": [
+        312550
+      ]
+    },
+    "main.getThreadID#12": {
+      "amount": [
+        312550
+      ]
+    },
+    "main.getThreadID#13": {
+      "amount": [
+        312550
+      ]
+    },
+    "main.getCurrentCPUID#98": {
+      "amount": [
+        0
+      ]
+    },
+    "main.getCurrentCPUID#99": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.getCurrentCPUID#100": {
+      "amount": [
+        0.277081
+      ]
+    },
+    "main.getCurrentCPUID#101": {
+      "amount": [
+        0.0011095285263587856
+      ]
+    },
+    "main.getCurrentCPUID#102": {
+      "amount": [
+        0.277081
+      ]
+    },
+    "main.getCurrentCPUID#103": {
+      "amount": [
+        0.0011095285263587856
+      ]
+    },
+    "main.getCurrentCPUID#104": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.getCurrentCPUID#105": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.getCurrentCPUID#106": {
+      "amount": [
+        0.277081
+      ]
+    },
+    "main.getCurrentCPUID#107": {
+      "amount": [
+        0.277081
+      ]
+    },
+    "main.getCurrentCPUID#108": {
+      "amount": [
+        277081
+      ]
+    },
+    "main.getCurrentCPUID#109": {
+      "amount": [
+        277081
+      ]
+    },
+    "main.getCurrentCPUID#110": {
+      "amount": [
+        277081
+      ]
+    },
+    "main.getCurrentCPUID#111": {
+      "amount": [
+        277081
+      ]
+    }
+  },
+  "resource_type_map": {
+    "main.main#0": {
+      "ncalls": 1,
+      "subtype": "Callees [#]",
+      "time": 249728595,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main"
+    },
+    "main.main#1": {
+      "ncalls": 1,
+      "subtype": "Callees Mean [#]",
+      "time": 249728595,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main"
+    },
+    "main.main#2": {
+      "ncalls": 1,
+      "subtype": "Total Inclusive T [ms]",
+      "time": 249728595,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main"
+    },
+    "main.main#3": {
+      "ncalls": 1,
+      "subtype": "Total Inclusive T [%]",
+      "time": 249728595,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main"
+    },
+    "main.main#4": {
+      "ncalls": 1,
+      "subtype": "Total Exclusive T [ms]",
+      "time": 249728595,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main"
+    },
+    "main.main#5": {
+      "ncalls": 1,
+      "subtype": "Total Exclusive T [%]",
+      "time": 249728595,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main"
+    },
+    "main.main#6": {
+      "ncalls": 1,
+      "subtype": "Total Morestack T [ms]",
+      "time": 249728595,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main"
+    },
+    "main.main#7": {
+      "ncalls": 1,
+      "subtype": "Total Morestack T [%]",
+      "time": 249728595,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main"
+    },
+    "main.main#8": {
+      "ncalls": 1,
+      "subtype": "I Mean",
+      "time": 249728595,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main"
+    },
+    "main.main#9": {
+      "ncalls": 1,
+      "subtype": "E Mean",
+      "time": 249728595,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main"
+    },
+    "main.main#10": {
+      "ncalls": 1,
+      "subtype": "I Min",
+      "time": 249728595,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main"
+    },
+    "main.main#11": {
+      "ncalls": 1,
+      "subtype": "E Min",
+      "time": 249728595,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main"
+    },
+    "main.main#12": {
+      "ncalls": 1,
+      "subtype": "I Max",
+      "time": 249728595,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main"
+    },
+    "main.main#13": {
+      "ncalls": 1,
+      "subtype": "E Max",
+      "time": 249728595,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main"
+    },
+    "main.Greet#0": {
+      "ncalls": 5,
+      "subtype": "Callees [#]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        }
+      ],
+      "type": "time",
+      "uid": "main.Greet"
+    },
+    "main.Greet#1": {
+      "ncalls": 5,
+      "subtype": "Callees Mean [#]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        }
+      ],
+      "type": "time",
+      "uid": "main.Greet"
+    },
+    "main.Greet#2": {
+      "ncalls": 5,
+      "subtype": "Total Inclusive T [ms]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        }
+      ],
+      "type": "time",
+      "uid": "main.Greet"
+    },
+    "main.Greet#3": {
+      "ncalls": 5,
+      "subtype": "Total Inclusive T [%]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        }
+      ],
+      "type": "time",
+      "uid": "main.Greet"
+    },
+    "main.Greet#4": {
+      "ncalls": 5,
+      "subtype": "Total Exclusive T [ms]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        }
+      ],
+      "type": "time",
+      "uid": "main.Greet"
+    },
+    "main.Greet#5": {
+      "ncalls": 5,
+      "subtype": "Total Exclusive T [%]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        }
+      ],
+      "type": "time",
+      "uid": "main.Greet"
+    },
+    "main.Greet#6": {
+      "ncalls": 5,
+      "subtype": "Total Morestack T [ms]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        }
+      ],
+      "type": "time",
+      "uid": "main.Greet"
+    },
+    "main.Greet#7": {
+      "ncalls": 5,
+      "subtype": "Total Morestack T [%]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        }
+      ],
+      "type": "time",
+      "uid": "main.Greet"
+    },
+    "main.Greet#8": {
+      "ncalls": 5,
+      "subtype": "I Mean",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        }
+      ],
+      "type": "time",
+      "uid": "main.Greet"
+    },
+    "main.Greet#9": {
+      "ncalls": 5,
+      "subtype": "E Mean",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        }
+      ],
+      "type": "time",
+      "uid": "main.Greet"
+    },
+    "main.Greet#10": {
+      "ncalls": 5,
+      "subtype": "I Min",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        }
+      ],
+      "type": "time",
+      "uid": "main.Greet"
+    },
+    "main.Greet#11": {
+      "ncalls": 5,
+      "subtype": "E Min",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        }
+      ],
+      "type": "time",
+      "uid": "main.Greet"
+    },
+    "main.Greet#12": {
+      "ncalls": 5,
+      "subtype": "I Max",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        }
+      ],
+      "type": "time",
+      "uid": "main.Greet"
+    },
+    "main.Greet#13": {
+      "ncalls": 5,
+      "subtype": "E Max",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        }
+      ],
+      "type": "time",
+      "uid": "main.Greet"
+    },
+    "main.add#0": {
+      "ncalls": 10,
+      "subtype": "Callees [#]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.add"
+    },
+    "main.add#1": {
+      "ncalls": 10,
+      "subtype": "Callees Mean [#]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.add"
+    },
+    "main.add#2": {
+      "ncalls": 10,
+      "subtype": "Total Inclusive T [ms]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.add"
+    },
+    "main.add#3": {
+      "ncalls": 10,
+      "subtype": "Total Inclusive T [%]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.add"
+    },
+    "main.add#4": {
+      "ncalls": 10,
+      "subtype": "Total Exclusive T [ms]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.add"
+    },
+    "main.add#5": {
+      "ncalls": 10,
+      "subtype": "Total Exclusive T [%]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.add"
+    },
+    "main.add#6": {
+      "ncalls": 10,
+      "subtype": "Total Morestack T [ms]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.add"
+    },
+    "main.add#7": {
+      "ncalls": 10,
+      "subtype": "Total Morestack T [%]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.add"
+    },
+    "main.add#8": {
+      "ncalls": 10,
+      "subtype": "I Mean",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.add"
+    },
+    "main.add#9": {
+      "ncalls": 10,
+      "subtype": "E Mean",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.add"
+    },
+    "main.add#10": {
+      "ncalls": 10,
+      "subtype": "I Min",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.add"
+    },
+    "main.add#11": {
+      "ncalls": 10,
+      "subtype": "E Min",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.add"
+    },
+    "main.add#12": {
+      "ncalls": 10,
+      "subtype": "I Max",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.add"
+    },
+    "main.add#13": {
+      "ncalls": 10,
+      "subtype": "E Max",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.add"
+    },
+    "main.add#14": {
+      "ncalls": 5,
+      "subtype": "Callees [#]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.add"
+    },
+    "main.add#15": {
+      "ncalls": 5,
+      "subtype": "Callees Mean [#]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.add"
+    },
+    "main.add#16": {
+      "ncalls": 5,
+      "subtype": "Total Inclusive T [ms]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.add"
+    },
+    "main.add#17": {
+      "ncalls": 5,
+      "subtype": "Total Inclusive T [%]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.add"
+    },
+    "main.add#18": {
+      "ncalls": 5,
+      "subtype": "Total Exclusive T [ms]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.add"
+    },
+    "main.add#19": {
+      "ncalls": 5,
+      "subtype": "Total Exclusive T [%]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.add"
+    },
+    "main.add#20": {
+      "ncalls": 5,
+      "subtype": "Total Morestack T [ms]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.add"
+    },
+    "main.add#21": {
+      "ncalls": 5,
+      "subtype": "Total Morestack T [%]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.add"
+    },
+    "main.add#22": {
+      "ncalls": 5,
+      "subtype": "I Mean",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.add"
+    },
+    "main.add#23": {
+      "ncalls": 5,
+      "subtype": "E Mean",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.add"
+    },
+    "main.add#24": {
+      "ncalls": 5,
+      "subtype": "I Min",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.add"
+    },
+    "main.add#25": {
+      "ncalls": 5,
+      "subtype": "E Min",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.add"
+    },
+    "main.add#26": {
+      "ncalls": 5,
+      "subtype": "I Max",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.add"
+    },
+    "main.add#27": {
+      "ncalls": 5,
+      "subtype": "E Max",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.add"
+    },
+    "main.getGoroutineID#0": {
+      "ncalls": 1,
+      "subtype": "Callees [#]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#1": {
+      "ncalls": 1,
+      "subtype": "Callees Mean [#]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#2": {
+      "ncalls": 1,
+      "subtype": "Total Inclusive T [ms]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#3": {
+      "ncalls": 1,
+      "subtype": "Total Inclusive T [%]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#4": {
+      "ncalls": 1,
+      "subtype": "Total Exclusive T [ms]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#5": {
+      "ncalls": 1,
+      "subtype": "Total Exclusive T [%]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#6": {
+      "ncalls": 1,
+      "subtype": "Total Morestack T [ms]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#7": {
+      "ncalls": 1,
+      "subtype": "Total Morestack T [%]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#8": {
+      "ncalls": 1,
+      "subtype": "I Mean",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#9": {
+      "ncalls": 1,
+      "subtype": "E Mean",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#10": {
+      "ncalls": 1,
+      "subtype": "I Min",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#11": {
+      "ncalls": 1,
+      "subtype": "E Min",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#12": {
+      "ncalls": 1,
+      "subtype": "I Max",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#13": {
+      "ncalls": 1,
+      "subtype": "E Max",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.Greet#14": {
+      "ncalls": 10,
+      "subtype": "Callees [#]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        }
+      ],
+      "type": "time",
+      "uid": "main.Greet"
+    },
+    "main.Greet#15": {
+      "ncalls": 10,
+      "subtype": "Callees Mean [#]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        }
+      ],
+      "type": "time",
+      "uid": "main.Greet"
+    },
+    "main.Greet#16": {
+      "ncalls": 10,
+      "subtype": "Total Inclusive T [ms]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        }
+      ],
+      "type": "time",
+      "uid": "main.Greet"
+    },
+    "main.Greet#17": {
+      "ncalls": 10,
+      "subtype": "Total Inclusive T [%]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        }
+      ],
+      "type": "time",
+      "uid": "main.Greet"
+    },
+    "main.Greet#18": {
+      "ncalls": 10,
+      "subtype": "Total Exclusive T [ms]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        }
+      ],
+      "type": "time",
+      "uid": "main.Greet"
+    },
+    "main.Greet#19": {
+      "ncalls": 10,
+      "subtype": "Total Exclusive T [%]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        }
+      ],
+      "type": "time",
+      "uid": "main.Greet"
+    },
+    "main.Greet#20": {
+      "ncalls": 10,
+      "subtype": "Total Morestack T [ms]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        }
+      ],
+      "type": "time",
+      "uid": "main.Greet"
+    },
+    "main.Greet#21": {
+      "ncalls": 10,
+      "subtype": "Total Morestack T [%]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        }
+      ],
+      "type": "time",
+      "uid": "main.Greet"
+    },
+    "main.Greet#22": {
+      "ncalls": 10,
+      "subtype": "I Mean",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        }
+      ],
+      "type": "time",
+      "uid": "main.Greet"
+    },
+    "main.Greet#23": {
+      "ncalls": 10,
+      "subtype": "E Mean",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        }
+      ],
+      "type": "time",
+      "uid": "main.Greet"
+    },
+    "main.Greet#24": {
+      "ncalls": 10,
+      "subtype": "I Min",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        }
+      ],
+      "type": "time",
+      "uid": "main.Greet"
+    },
+    "main.Greet#25": {
+      "ncalls": 10,
+      "subtype": "E Min",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        }
+      ],
+      "type": "time",
+      "uid": "main.Greet"
+    },
+    "main.Greet#26": {
+      "ncalls": 10,
+      "subtype": "I Max",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        }
+      ],
+      "type": "time",
+      "uid": "main.Greet"
+    },
+    "main.Greet#27": {
+      "ncalls": 10,
+      "subtype": "E Max",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        }
+      ],
+      "type": "time",
+      "uid": "main.Greet"
+    },
+    "main.getCurrentCPUID#0": {
+      "ncalls": 8,
+      "subtype": "Callees [#]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#1": {
+      "ncalls": 8,
+      "subtype": "Callees Mean [#]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#2": {
+      "ncalls": 8,
+      "subtype": "Total Inclusive T [ms]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#3": {
+      "ncalls": 8,
+      "subtype": "Total Inclusive T [%]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#4": {
+      "ncalls": 8,
+      "subtype": "Total Exclusive T [ms]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#5": {
+      "ncalls": 8,
+      "subtype": "Total Exclusive T [%]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#6": {
+      "ncalls": 8,
+      "subtype": "Total Morestack T [ms]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#7": {
+      "ncalls": 8,
+      "subtype": "Total Morestack T [%]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#8": {
+      "ncalls": 8,
+      "subtype": "I Mean",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#9": {
+      "ncalls": 8,
+      "subtype": "E Mean",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#10": {
+      "ncalls": 8,
+      "subtype": "I Min",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#11": {
+      "ncalls": 8,
+      "subtype": "E Min",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#12": {
+      "ncalls": 8,
+      "subtype": "I Max",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#13": {
+      "ncalls": 8,
+      "subtype": "E Max",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getGoroutineID#14": {
+      "ncalls": 8,
+      "subtype": "Callees [#]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#15": {
+      "ncalls": 8,
+      "subtype": "Callees Mean [#]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#16": {
+      "ncalls": 8,
+      "subtype": "Total Inclusive T [ms]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#17": {
+      "ncalls": 8,
+      "subtype": "Total Inclusive T [%]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#18": {
+      "ncalls": 8,
+      "subtype": "Total Exclusive T [ms]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#19": {
+      "ncalls": 8,
+      "subtype": "Total Exclusive T [%]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#20": {
+      "ncalls": 8,
+      "subtype": "Total Morestack T [ms]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#21": {
+      "ncalls": 8,
+      "subtype": "Total Morestack T [%]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#22": {
+      "ncalls": 8,
+      "subtype": "I Mean",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#23": {
+      "ncalls": 8,
+      "subtype": "E Mean",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#24": {
+      "ncalls": 8,
+      "subtype": "I Min",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#25": {
+      "ncalls": 8,
+      "subtype": "E Min",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#26": {
+      "ncalls": 8,
+      "subtype": "I Max",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#27": {
+      "ncalls": 8,
+      "subtype": "E Max",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.main.func1#0": {
+      "ncalls": 1,
+      "subtype": "Callees [#]",
+      "time": 249728595,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main.func1"
+    },
+    "main.main.func1#1": {
+      "ncalls": 1,
+      "subtype": "Callees Mean [#]",
+      "time": 249728595,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main.func1"
+    },
+    "main.main.func1#2": {
+      "ncalls": 1,
+      "subtype": "Total Inclusive T [ms]",
+      "time": 249728595,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main.func1"
+    },
+    "main.main.func1#3": {
+      "ncalls": 1,
+      "subtype": "Total Inclusive T [%]",
+      "time": 249728595,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main.func1"
+    },
+    "main.main.func1#4": {
+      "ncalls": 1,
+      "subtype": "Total Exclusive T [ms]",
+      "time": 249728595,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main.func1"
+    },
+    "main.main.func1#5": {
+      "ncalls": 1,
+      "subtype": "Total Exclusive T [%]",
+      "time": 249728595,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main.func1"
+    },
+    "main.main.func1#6": {
+      "ncalls": 1,
+      "subtype": "Total Morestack T [ms]",
+      "time": 249728595,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main.func1"
+    },
+    "main.main.func1#7": {
+      "ncalls": 1,
+      "subtype": "Total Morestack T [%]",
+      "time": 249728595,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main.func1"
+    },
+    "main.main.func1#8": {
+      "ncalls": 1,
+      "subtype": "I Mean",
+      "time": 249728595,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main.func1"
+    },
+    "main.main.func1#9": {
+      "ncalls": 1,
+      "subtype": "E Mean",
+      "time": 249728595,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main.func1"
+    },
+    "main.main.func1#10": {
+      "ncalls": 1,
+      "subtype": "I Min",
+      "time": 249728595,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main.func1"
+    },
+    "main.main.func1#11": {
+      "ncalls": 1,
+      "subtype": "E Min",
+      "time": 249728595,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main.func1"
+    },
+    "main.main.func1#12": {
+      "ncalls": 1,
+      "subtype": "I Max",
+      "time": 249728595,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main.func1"
+    },
+    "main.main.func1#13": {
+      "ncalls": 1,
+      "subtype": "E Max",
+      "time": 249728595,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main.func1"
+    },
+    "main.add#28": {
+      "ncalls": 1,
+      "subtype": "Callees [#]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.add"
+    },
+    "main.add#29": {
+      "ncalls": 1,
+      "subtype": "Callees Mean [#]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.add"
+    },
+    "main.add#30": {
+      "ncalls": 1,
+      "subtype": "Total Inclusive T [ms]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.add"
+    },
+    "main.add#31": {
+      "ncalls": 1,
+      "subtype": "Total Inclusive T [%]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.add"
+    },
+    "main.add#32": {
+      "ncalls": 1,
+      "subtype": "Total Exclusive T [ms]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.add"
+    },
+    "main.add#33": {
+      "ncalls": 1,
+      "subtype": "Total Exclusive T [%]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.add"
+    },
+    "main.add#34": {
+      "ncalls": 1,
+      "subtype": "Total Morestack T [ms]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.add"
+    },
+    "main.add#35": {
+      "ncalls": 1,
+      "subtype": "Total Morestack T [%]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.add"
+    },
+    "main.add#36": {
+      "ncalls": 1,
+      "subtype": "I Mean",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.add"
+    },
+    "main.add#37": {
+      "ncalls": 1,
+      "subtype": "E Mean",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.add"
+    },
+    "main.add#38": {
+      "ncalls": 1,
+      "subtype": "I Min",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.add"
+    },
+    "main.add#39": {
+      "ncalls": 1,
+      "subtype": "E Min",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.add"
+    },
+    "main.add#40": {
+      "ncalls": 1,
+      "subtype": "I Max",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.add"
+    },
+    "main.add#41": {
+      "ncalls": 1,
+      "subtype": "E Max",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.add"
+    },
+    "main.getGoroutineID#28": {
+      "ncalls": 5,
+      "subtype": "Callees [#]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#29": {
+      "ncalls": 5,
+      "subtype": "Callees Mean [#]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#30": {
+      "ncalls": 5,
+      "subtype": "Total Inclusive T [ms]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#31": {
+      "ncalls": 5,
+      "subtype": "Total Inclusive T [%]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#32": {
+      "ncalls": 5,
+      "subtype": "Total Exclusive T [ms]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#33": {
+      "ncalls": 5,
+      "subtype": "Total Exclusive T [%]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#34": {
+      "ncalls": 5,
+      "subtype": "Total Morestack T [ms]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#35": {
+      "ncalls": 5,
+      "subtype": "Total Morestack T [%]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#36": {
+      "ncalls": 5,
+      "subtype": "I Mean",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#37": {
+      "ncalls": 5,
+      "subtype": "E Mean",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#38": {
+      "ncalls": 5,
+      "subtype": "I Min",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#39": {
+      "ncalls": 5,
+      "subtype": "E Min",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#40": {
+      "ncalls": 5,
+      "subtype": "I Max",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#41": {
+      "ncalls": 5,
+      "subtype": "E Max",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.main.func2#0": {
+      "ncalls": 1,
+      "subtype": "Callees [#]",
+      "time": 249728595,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main.func2"
+    },
+    "main.main.func2#1": {
+      "ncalls": 1,
+      "subtype": "Callees Mean [#]",
+      "time": 249728595,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main.func2"
+    },
+    "main.main.func2#2": {
+      "ncalls": 1,
+      "subtype": "Total Inclusive T [ms]",
+      "time": 249728595,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main.func2"
+    },
+    "main.main.func2#3": {
+      "ncalls": 1,
+      "subtype": "Total Inclusive T [%]",
+      "time": 249728595,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main.func2"
+    },
+    "main.main.func2#4": {
+      "ncalls": 1,
+      "subtype": "Total Exclusive T [ms]",
+      "time": 249728595,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main.func2"
+    },
+    "main.main.func2#5": {
+      "ncalls": 1,
+      "subtype": "Total Exclusive T [%]",
+      "time": 249728595,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main.func2"
+    },
+    "main.main.func2#6": {
+      "ncalls": 1,
+      "subtype": "Total Morestack T [ms]",
+      "time": 249728595,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main.func2"
+    },
+    "main.main.func2#7": {
+      "ncalls": 1,
+      "subtype": "Total Morestack T [%]",
+      "time": 249728595,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main.func2"
+    },
+    "main.main.func2#8": {
+      "ncalls": 1,
+      "subtype": "I Mean",
+      "time": 249728595,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main.func2"
+    },
+    "main.main.func2#9": {
+      "ncalls": 1,
+      "subtype": "E Mean",
+      "time": 249728595,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main.func2"
+    },
+    "main.main.func2#10": {
+      "ncalls": 1,
+      "subtype": "I Min",
+      "time": 249728595,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main.func2"
+    },
+    "main.main.func2#11": {
+      "ncalls": 1,
+      "subtype": "E Min",
+      "time": 249728595,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main.func2"
+    },
+    "main.main.func2#12": {
+      "ncalls": 1,
+      "subtype": "I Max",
+      "time": 249728595,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main.func2"
+    },
+    "main.main.func2#13": {
+      "ncalls": 1,
+      "subtype": "E Max",
+      "time": 249728595,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main.func2"
+    },
+    "main.getGoroutineID#42": {
+      "ncalls": 10,
+      "subtype": "Callees [#]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#43": {
+      "ncalls": 10,
+      "subtype": "Callees Mean [#]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#44": {
+      "ncalls": 10,
+      "subtype": "Total Inclusive T [ms]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#45": {
+      "ncalls": 10,
+      "subtype": "Total Inclusive T [%]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#46": {
+      "ncalls": 10,
+      "subtype": "Total Exclusive T [ms]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#47": {
+      "ncalls": 10,
+      "subtype": "Total Exclusive T [%]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#48": {
+      "ncalls": 10,
+      "subtype": "Total Morestack T [ms]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#49": {
+      "ncalls": 10,
+      "subtype": "Total Morestack T [%]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#50": {
+      "ncalls": 10,
+      "subtype": "I Mean",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#51": {
+      "ncalls": 10,
+      "subtype": "E Mean",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#52": {
+      "ncalls": 10,
+      "subtype": "I Min",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#53": {
+      "ncalls": 10,
+      "subtype": "E Min",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#54": {
+      "ncalls": 10,
+      "subtype": "I Max",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#55": {
+      "ncalls": 10,
+      "subtype": "E Max",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getCurrentCPUID#14": {
+      "ncalls": 10,
+      "subtype": "Callees [#]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#15": {
+      "ncalls": 10,
+      "subtype": "Callees Mean [#]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#16": {
+      "ncalls": 10,
+      "subtype": "Total Inclusive T [ms]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#17": {
+      "ncalls": 10,
+      "subtype": "Total Inclusive T [%]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#18": {
+      "ncalls": 10,
+      "subtype": "Total Exclusive T [ms]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#19": {
+      "ncalls": 10,
+      "subtype": "Total Exclusive T [%]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#20": {
+      "ncalls": 10,
+      "subtype": "Total Morestack T [ms]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#21": {
+      "ncalls": 10,
+      "subtype": "Total Morestack T [%]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#22": {
+      "ncalls": 10,
+      "subtype": "I Mean",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#23": {
+      "ncalls": 10,
+      "subtype": "E Mean",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#24": {
+      "ncalls": 10,
+      "subtype": "I Min",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#25": {
+      "ncalls": 10,
+      "subtype": "E Min",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#26": {
+      "ncalls": 10,
+      "subtype": "I Max",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#27": {
+      "ncalls": 10,
+      "subtype": "E Max",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#28": {
+      "ncalls": 5,
+      "subtype": "Callees [#]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#29": {
+      "ncalls": 5,
+      "subtype": "Callees Mean [#]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#30": {
+      "ncalls": 5,
+      "subtype": "Total Inclusive T [ms]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#31": {
+      "ncalls": 5,
+      "subtype": "Total Inclusive T [%]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#32": {
+      "ncalls": 5,
+      "subtype": "Total Exclusive T [ms]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#33": {
+      "ncalls": 5,
+      "subtype": "Total Exclusive T [%]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#34": {
+      "ncalls": 5,
+      "subtype": "Total Morestack T [ms]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#35": {
+      "ncalls": 5,
+      "subtype": "Total Morestack T [%]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#36": {
+      "ncalls": 5,
+      "subtype": "I Mean",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#37": {
+      "ncalls": 5,
+      "subtype": "E Mean",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#38": {
+      "ncalls": 5,
+      "subtype": "I Min",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#39": {
+      "ncalls": 5,
+      "subtype": "E Min",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#40": {
+      "ncalls": 5,
+      "subtype": "I Max",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#41": {
+      "ncalls": 5,
+      "subtype": "E Max",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getGoroutineID#56": {
+      "ncalls": 4,
+      "subtype": "Callees [#]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#57": {
+      "ncalls": 4,
+      "subtype": "Callees Mean [#]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#58": {
+      "ncalls": 4,
+      "subtype": "Total Inclusive T [ms]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#59": {
+      "ncalls": 4,
+      "subtype": "Total Inclusive T [%]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#60": {
+      "ncalls": 4,
+      "subtype": "Total Exclusive T [ms]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#61": {
+      "ncalls": 4,
+      "subtype": "Total Exclusive T [%]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#62": {
+      "ncalls": 4,
+      "subtype": "Total Morestack T [ms]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#63": {
+      "ncalls": 4,
+      "subtype": "Total Morestack T [%]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#64": {
+      "ncalls": 4,
+      "subtype": "I Mean",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#65": {
+      "ncalls": 4,
+      "subtype": "E Mean",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#66": {
+      "ncalls": 4,
+      "subtype": "I Min",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#67": {
+      "ncalls": 4,
+      "subtype": "E Min",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#68": {
+      "ncalls": 4,
+      "subtype": "I Max",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#69": {
+      "ncalls": 4,
+      "subtype": "E Max",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getCurrentCPUID#42": {
+      "ncalls": 1,
+      "subtype": "Callees [#]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#43": {
+      "ncalls": 1,
+      "subtype": "Callees Mean [#]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#44": {
+      "ncalls": 1,
+      "subtype": "Total Inclusive T [ms]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#45": {
+      "ncalls": 1,
+      "subtype": "Total Inclusive T [%]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#46": {
+      "ncalls": 1,
+      "subtype": "Total Exclusive T [ms]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#47": {
+      "ncalls": 1,
+      "subtype": "Total Exclusive T [%]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#48": {
+      "ncalls": 1,
+      "subtype": "Total Morestack T [ms]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#49": {
+      "ncalls": 1,
+      "subtype": "Total Morestack T [%]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#50": {
+      "ncalls": 1,
+      "subtype": "I Mean",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#51": {
+      "ncalls": 1,
+      "subtype": "E Mean",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#52": {
+      "ncalls": 1,
+      "subtype": "I Min",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#53": {
+      "ncalls": 1,
+      "subtype": "E Min",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#54": {
+      "ncalls": 1,
+      "subtype": "I Max",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#55": {
+      "ncalls": 1,
+      "subtype": "E Max",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getGoroutineID#70": {
+      "ncalls": 1,
+      "subtype": "Callees [#]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#71": {
+      "ncalls": 1,
+      "subtype": "Callees Mean [#]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#72": {
+      "ncalls": 1,
+      "subtype": "Total Inclusive T [ms]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#73": {
+      "ncalls": 1,
+      "subtype": "Total Inclusive T [%]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#74": {
+      "ncalls": 1,
+      "subtype": "Total Exclusive T [ms]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#75": {
+      "ncalls": 1,
+      "subtype": "Total Exclusive T [%]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#76": {
+      "ncalls": 1,
+      "subtype": "Total Morestack T [ms]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#77": {
+      "ncalls": 1,
+      "subtype": "Total Morestack T [%]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#78": {
+      "ncalls": 1,
+      "subtype": "I Mean",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#79": {
+      "ncalls": 1,
+      "subtype": "E Mean",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#80": {
+      "ncalls": 1,
+      "subtype": "I Min",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#81": {
+      "ncalls": 1,
+      "subtype": "E Min",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#82": {
+      "ncalls": 1,
+      "subtype": "I Max",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#83": {
+      "ncalls": 1,
+      "subtype": "E Max",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#84": {
+      "ncalls": 2,
+      "subtype": "Callees [#]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#85": {
+      "ncalls": 2,
+      "subtype": "Callees Mean [#]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#86": {
+      "ncalls": 2,
+      "subtype": "Total Inclusive T [ms]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#87": {
+      "ncalls": 2,
+      "subtype": "Total Inclusive T [%]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#88": {
+      "ncalls": 2,
+      "subtype": "Total Exclusive T [ms]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#89": {
+      "ncalls": 2,
+      "subtype": "Total Exclusive T [%]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#90": {
+      "ncalls": 2,
+      "subtype": "Total Morestack T [ms]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#91": {
+      "ncalls": 2,
+      "subtype": "Total Morestack T [%]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#92": {
+      "ncalls": 2,
+      "subtype": "I Mean",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#93": {
+      "ncalls": 2,
+      "subtype": "E Mean",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#94": {
+      "ncalls": 2,
+      "subtype": "I Min",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#95": {
+      "ncalls": 2,
+      "subtype": "E Min",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#96": {
+      "ncalls": 2,
+      "subtype": "I Max",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#97": {
+      "ncalls": 2,
+      "subtype": "E Max",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getCurrentCPUID#56": {
+      "ncalls": 4,
+      "subtype": "Callees [#]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#57": {
+      "ncalls": 4,
+      "subtype": "Callees Mean [#]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#58": {
+      "ncalls": 4,
+      "subtype": "Total Inclusive T [ms]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#59": {
+      "ncalls": 4,
+      "subtype": "Total Inclusive T [%]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#60": {
+      "ncalls": 4,
+      "subtype": "Total Exclusive T [ms]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#61": {
+      "ncalls": 4,
+      "subtype": "Total Exclusive T [%]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#62": {
+      "ncalls": 4,
+      "subtype": "Total Morestack T [ms]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#63": {
+      "ncalls": 4,
+      "subtype": "Total Morestack T [%]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#64": {
+      "ncalls": 4,
+      "subtype": "I Mean",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#65": {
+      "ncalls": 4,
+      "subtype": "E Mean",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#66": {
+      "ncalls": 4,
+      "subtype": "I Min",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#67": {
+      "ncalls": 4,
+      "subtype": "E Min",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#68": {
+      "ncalls": 4,
+      "subtype": "I Max",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#69": {
+      "ncalls": 4,
+      "subtype": "E Max",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#70": {
+      "ncalls": 2,
+      "subtype": "Callees [#]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#71": {
+      "ncalls": 2,
+      "subtype": "Callees Mean [#]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#72": {
+      "ncalls": 2,
+      "subtype": "Total Inclusive T [ms]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#73": {
+      "ncalls": 2,
+      "subtype": "Total Inclusive T [%]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#74": {
+      "ncalls": 2,
+      "subtype": "Total Exclusive T [ms]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#75": {
+      "ncalls": 2,
+      "subtype": "Total Exclusive T [%]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#76": {
+      "ncalls": 2,
+      "subtype": "Total Morestack T [ms]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#77": {
+      "ncalls": 2,
+      "subtype": "Total Morestack T [%]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#78": {
+      "ncalls": 2,
+      "subtype": "I Mean",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#79": {
+      "ncalls": 2,
+      "subtype": "E Mean",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#80": {
+      "ncalls": 2,
+      "subtype": "I Min",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#81": {
+      "ncalls": 2,
+      "subtype": "E Min",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#82": {
+      "ncalls": 2,
+      "subtype": "I Max",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#83": {
+      "ncalls": 2,
+      "subtype": "E Max",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.Greet"
+        },
+        {
+          "func": "main.add"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getGoroutineID#98": {
+      "ncalls": 1,
+      "subtype": "Callees [#]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#99": {
+      "ncalls": 1,
+      "subtype": "Callees Mean [#]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#100": {
+      "ncalls": 1,
+      "subtype": "Total Inclusive T [ms]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#101": {
+      "ncalls": 1,
+      "subtype": "Total Inclusive T [%]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#102": {
+      "ncalls": 1,
+      "subtype": "Total Exclusive T [ms]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#103": {
+      "ncalls": 1,
+      "subtype": "Total Exclusive T [%]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#104": {
+      "ncalls": 1,
+      "subtype": "Total Morestack T [ms]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#105": {
+      "ncalls": 1,
+      "subtype": "Total Morestack T [%]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#106": {
+      "ncalls": 1,
+      "subtype": "I Mean",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#107": {
+      "ncalls": 1,
+      "subtype": "E Mean",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#108": {
+      "ncalls": 1,
+      "subtype": "I Min",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#109": {
+      "ncalls": 1,
+      "subtype": "E Min",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#110": {
+      "ncalls": 1,
+      "subtype": "I Max",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getGoroutineID#111": {
+      "ncalls": 1,
+      "subtype": "E Max",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getGoroutineID"
+    },
+    "main.getCurrentCPUID#84": {
+      "ncalls": 1,
+      "subtype": "Callees [#]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#85": {
+      "ncalls": 1,
+      "subtype": "Callees Mean [#]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#86": {
+      "ncalls": 1,
+      "subtype": "Total Inclusive T [ms]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#87": {
+      "ncalls": 1,
+      "subtype": "Total Inclusive T [%]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#88": {
+      "ncalls": 1,
+      "subtype": "Total Exclusive T [ms]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#89": {
+      "ncalls": 1,
+      "subtype": "Total Exclusive T [%]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#90": {
+      "ncalls": 1,
+      "subtype": "Total Morestack T [ms]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#91": {
+      "ncalls": 1,
+      "subtype": "Total Morestack T [%]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#92": {
+      "ncalls": 1,
+      "subtype": "I Mean",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#93": {
+      "ncalls": 1,
+      "subtype": "E Mean",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#94": {
+      "ncalls": 1,
+      "subtype": "I Min",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#95": {
+      "ncalls": 1,
+      "subtype": "E Min",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#96": {
+      "ncalls": 1,
+      "subtype": "I Max",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#97": {
+      "ncalls": 1,
+      "subtype": "E Max",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "main.add"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getThreadID#0": {
+      "ncalls": 1,
+      "subtype": "Callees [#]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getThreadID"
+    },
+    "main.getThreadID#1": {
+      "ncalls": 1,
+      "subtype": "Callees Mean [#]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getThreadID"
+    },
+    "main.getThreadID#2": {
+      "ncalls": 1,
+      "subtype": "Total Inclusive T [ms]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getThreadID"
+    },
+    "main.getThreadID#3": {
+      "ncalls": 1,
+      "subtype": "Total Inclusive T [%]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getThreadID"
+    },
+    "main.getThreadID#4": {
+      "ncalls": 1,
+      "subtype": "Total Exclusive T [ms]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getThreadID"
+    },
+    "main.getThreadID#5": {
+      "ncalls": 1,
+      "subtype": "Total Exclusive T [%]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getThreadID"
+    },
+    "main.getThreadID#6": {
+      "ncalls": 1,
+      "subtype": "Total Morestack T [ms]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getThreadID"
+    },
+    "main.getThreadID#7": {
+      "ncalls": 1,
+      "subtype": "Total Morestack T [%]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getThreadID"
+    },
+    "main.getThreadID#8": {
+      "ncalls": 1,
+      "subtype": "I Mean",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getThreadID"
+    },
+    "main.getThreadID#9": {
+      "ncalls": 1,
+      "subtype": "E Mean",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getThreadID"
+    },
+    "main.getThreadID#10": {
+      "ncalls": 1,
+      "subtype": "I Min",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getThreadID"
+    },
+    "main.getThreadID#11": {
+      "ncalls": 1,
+      "subtype": "E Min",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getThreadID"
+    },
+    "main.getThreadID#12": {
+      "ncalls": 1,
+      "subtype": "I Max",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getThreadID"
+    },
+    "main.getThreadID#13": {
+      "ncalls": 1,
+      "subtype": "E Max",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getThreadID"
+    },
+    "main.getCurrentCPUID#98": {
+      "ncalls": 1,
+      "subtype": "Callees [#]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#99": {
+      "ncalls": 1,
+      "subtype": "Callees Mean [#]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#100": {
+      "ncalls": 1,
+      "subtype": "Total Inclusive T [ms]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#101": {
+      "ncalls": 1,
+      "subtype": "Total Inclusive T [%]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#102": {
+      "ncalls": 1,
+      "subtype": "Total Exclusive T [ms]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#103": {
+      "ncalls": 1,
+      "subtype": "Total Exclusive T [%]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#104": {
+      "ncalls": 1,
+      "subtype": "Total Morestack T [ms]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#105": {
+      "ncalls": 1,
+      "subtype": "Total Morestack T [%]",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#106": {
+      "ncalls": 1,
+      "subtype": "I Mean",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#107": {
+      "ncalls": 1,
+      "subtype": "E Mean",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#108": {
+      "ncalls": 1,
+      "subtype": "I Min",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#109": {
+      "ncalls": 1,
+      "subtype": "E Min",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#110": {
+      "ncalls": 1,
+      "subtype": "I Max",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    },
+    "main.getCurrentCPUID#111": {
+      "ncalls": 1,
+      "subtype": "E Max",
+      "time": 249728595,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.getCurrentCPUID"
+    }
+  },
+  "models": [],
+  "origin": "9216f6b2e6affad78700438ec95983995543cc53",
+  "header": {
+    "type": "mixed",
+    "cmd": "./greet",
+    "workload": "",
+    "units": {
+      "mixed(time delta)": "us"
+    }
+  },
+  "machine": {
+    "architecture": "x86_64",
+    "system": "Linux",
+    "release": "6.5.0-28-generic",
+    "host": "Ubuntu22",
+    "cpu": {
+      "physical": 4,
+      "total": 4,
+      "frequency": "3400.06Mhz"
+    },
+    "memory": {
+      "total_ram": "7.7 GiB",
+      "swap": "2.6 GiB"
+    }
+  },
+  "collector_info": {
+    "name": "gotrace",
+    "params": {
+      "get_overhead": true,
+      "verbose": true,
+      "packages": [],
+      "bpfring_size": 167772160,
+      "save_intermediate_to_csv": false,
+      "workload": ""
+    }
+  },
+  "postprocessors": []
+}
