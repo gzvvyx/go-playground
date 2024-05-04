@@ -1,0 +1,931 @@
+{
+  "resources": {
+    "sync.runtime_registerPoolCleanup#0": {
+      "amount": [
+        0
+      ]
+    },
+    "sync.runtime_registerPoolCleanup#1": {
+      "amount": [
+        0.0
+      ]
+    },
+    "sync.runtime_registerPoolCleanup#2": {
+      "amount": [
+        5544.142405
+      ]
+    },
+    "sync.runtime_registerPoolCleanup#3": {
+      "amount": [
+        1.990239814894531
+      ]
+    },
+    "sync.runtime_registerPoolCleanup#4": {
+      "amount": [
+        5544.142405
+      ]
+    },
+    "sync.runtime_registerPoolCleanup#5": {
+      "amount": [
+        1.990239814894531
+      ]
+    },
+    "sync.runtime_registerPoolCleanup#6": {
+      "amount": [
+        0.0
+      ]
+    },
+    "sync.runtime_registerPoolCleanup#7": {
+      "amount": [
+        0.0
+      ]
+    },
+    "sync.runtime_registerPoolCleanup#8": {
+      "amount": [
+        2.7084232559843673
+      ]
+    },
+    "sync.runtime_registerPoolCleanup#9": {
+      "amount": [
+        2.7084232559843673
+      ]
+    },
+    "sync.runtime_registerPoolCleanup#10": {
+      "amount": [
+        119829
+      ]
+    },
+    "sync.runtime_registerPoolCleanup#11": {
+      "amount": [
+        119829
+      ]
+    },
+    "sync.runtime_registerPoolCleanup#12": {
+      "amount": [
+        32286725
+      ]
+    },
+    "sync.runtime_registerPoolCleanup#13": {
+      "amount": [
+        32286725
+      ]
+    },
+    "sync.event#0": {
+      "amount": [
+        1
+      ]
+    },
+    "sync.event#1": {
+      "amount": [
+        2.057343512794722e-07
+      ]
+    },
+    "sync.event#2": {
+      "amount": [
+        4.860637
+      ]
+    },
+    "sync.event#3": {
+      "amount": [
+        0.0017448746039468855
+      ]
+    },
+    "sync.event#4": {
+      "amount": [
+        3.394787
+      ]
+    },
+    "sync.event#5": {
+      "amount": [
+        0.0012186628259030733
+      ]
+    },
+    "sync.event#6": {
+      "amount": [
+        0.0
+      ]
+    },
+    "sync.event#7": {
+      "amount": [
+        0.0
+      ]
+    },
+    "sync.event#8": {
+      "amount": [
+        4.860637
+      ]
+    },
+    "sync.event#9": {
+      "amount": [
+        3.394787
+      ]
+    },
+    "sync.event#10": {
+      "amount": [
+        4860637
+      ]
+    },
+    "sync.event#11": {
+      "amount": [
+        3394787
+      ]
+    },
+    "sync.event#12": {
+      "amount": [
+        4860637
+      ]
+    },
+    "sync.event#13": {
+      "amount": [
+        3394787
+      ]
+    },
+    "sync.throw#0": {
+      "amount": [
+        0
+      ]
+    },
+    "sync.throw#1": {
+      "amount": [
+        0.0
+      ]
+    },
+    "sync.throw#2": {
+      "amount": [
+        1.46585
+      ]
+    },
+    "sync.throw#3": {
+      "amount": [
+        0.0005262117780438124
+      ]
+    },
+    "sync.throw#4": {
+      "amount": [
+        1.46585
+      ]
+    },
+    "sync.throw#5": {
+      "amount": [
+        0.0005262117780438124
+      ]
+    },
+    "sync.throw#6": {
+      "amount": [
+        0.0
+      ]
+    },
+    "sync.throw#7": {
+      "amount": [
+        0.0
+      ]
+    },
+    "sync.throw#8": {
+      "amount": [
+        1.46585
+      ]
+    },
+    "sync.throw#9": {
+      "amount": [
+        1.46585
+      ]
+    },
+    "sync.throw#10": {
+      "amount": [
+        1465850
+      ]
+    },
+    "sync.throw#11": {
+      "amount": [
+        1465850
+      ]
+    },
+    "sync.throw#12": {
+      "amount": [
+        1465850
+      ]
+    },
+    "sync.throw#13": {
+      "amount": [
+        1465850
+      ]
+    },
+    "sync.runtime_doSpin#0": {
+      "amount": [
+        0
+      ]
+    },
+    "sync.runtime_doSpin#1": {
+      "amount": [
+        0.0
+      ]
+    },
+    "sync.runtime_doSpin#2": {
+      "amount": [
+        0.391938
+      ]
+    },
+    "sync.runtime_doSpin#3": {
+      "amount": [
+        0.00014069815592518726
+      ]
+    },
+    "sync.runtime_doSpin#4": {
+      "amount": [
+        0.391938
+      ]
+    },
+    "sync.runtime_doSpin#5": {
+      "amount": [
+        0.00014069815592518726
+      ]
+    },
+    "sync.runtime_doSpin#6": {
+      "amount": [
+        0.0
+      ]
+    },
+    "sync.runtime_doSpin#7": {
+      "amount": [
+        0.0
+      ]
+    },
+    "sync.runtime_doSpin#8": {
+      "amount": [
+        0.391938
+      ]
+    },
+    "sync.runtime_doSpin#9": {
+      "amount": [
+        0.391938
+      ]
+    },
+    "sync.runtime_doSpin#10": {
+      "amount": [
+        391938
+      ]
+    },
+    "sync.runtime_doSpin#11": {
+      "amount": [
+        391938
+      ]
+    },
+    "sync.runtime_doSpin#12": {
+      "amount": [
+        391938
+      ]
+    },
+    "sync.runtime_doSpin#13": {
+      "amount": [
+        391938
+      ]
+    }
+  },
+  "resource_type_map": {
+    "sync.runtime_registerPoolCleanup#0": {
+      "ncalls": 2047,
+      "subtype": "Callees [#]",
+      "time": 2785665508,
+      "trace": [],
+      "type": "time",
+      "uid": "sync.runtime_registerPoolCleanup"
+    },
+    "sync.runtime_registerPoolCleanup#1": {
+      "ncalls": 2047,
+      "subtype": "Callees Mean [#]",
+      "time": 2785665508,
+      "trace": [],
+      "type": "time",
+      "uid": "sync.runtime_registerPoolCleanup"
+    },
+    "sync.runtime_registerPoolCleanup#2": {
+      "ncalls": 2047,
+      "subtype": "Total Inclusive T [ms]",
+      "time": 2785665508,
+      "trace": [],
+      "type": "time",
+      "uid": "sync.runtime_registerPoolCleanup"
+    },
+    "sync.runtime_registerPoolCleanup#3": {
+      "ncalls": 2047,
+      "subtype": "Total Inclusive T [%]",
+      "time": 2785665508,
+      "trace": [],
+      "type": "time",
+      "uid": "sync.runtime_registerPoolCleanup"
+    },
+    "sync.runtime_registerPoolCleanup#4": {
+      "ncalls": 2047,
+      "subtype": "Total Exclusive T [ms]",
+      "time": 2785665508,
+      "trace": [],
+      "type": "time",
+      "uid": "sync.runtime_registerPoolCleanup"
+    },
+    "sync.runtime_registerPoolCleanup#5": {
+      "ncalls": 2047,
+      "subtype": "Total Exclusive T [%]",
+      "time": 2785665508,
+      "trace": [],
+      "type": "time",
+      "uid": "sync.runtime_registerPoolCleanup"
+    },
+    "sync.runtime_registerPoolCleanup#6": {
+      "ncalls": 2047,
+      "subtype": "Total Morestack T [ms]",
+      "time": 2785665508,
+      "trace": [],
+      "type": "time",
+      "uid": "sync.runtime_registerPoolCleanup"
+    },
+    "sync.runtime_registerPoolCleanup#7": {
+      "ncalls": 2047,
+      "subtype": "Total Morestack T [%]",
+      "time": 2785665508,
+      "trace": [],
+      "type": "time",
+      "uid": "sync.runtime_registerPoolCleanup"
+    },
+    "sync.runtime_registerPoolCleanup#8": {
+      "ncalls": 2047,
+      "subtype": "I Mean",
+      "time": 2785665508,
+      "trace": [],
+      "type": "time",
+      "uid": "sync.runtime_registerPoolCleanup"
+    },
+    "sync.runtime_registerPoolCleanup#9": {
+      "ncalls": 2047,
+      "subtype": "E Mean",
+      "time": 2785665508,
+      "trace": [],
+      "type": "time",
+      "uid": "sync.runtime_registerPoolCleanup"
+    },
+    "sync.runtime_registerPoolCleanup#10": {
+      "ncalls": 2047,
+      "subtype": "I Min",
+      "time": 2785665508,
+      "trace": [],
+      "type": "time",
+      "uid": "sync.runtime_registerPoolCleanup"
+    },
+    "sync.runtime_registerPoolCleanup#11": {
+      "ncalls": 2047,
+      "subtype": "E Min",
+      "time": 2785665508,
+      "trace": [],
+      "type": "time",
+      "uid": "sync.runtime_registerPoolCleanup"
+    },
+    "sync.runtime_registerPoolCleanup#12": {
+      "ncalls": 2047,
+      "subtype": "I Max",
+      "time": 2785665508,
+      "trace": [],
+      "type": "time",
+      "uid": "sync.runtime_registerPoolCleanup"
+    },
+    "sync.runtime_registerPoolCleanup#13": {
+      "ncalls": 2047,
+      "subtype": "E Max",
+      "time": 2785665508,
+      "trace": [],
+      "type": "time",
+      "uid": "sync.runtime_registerPoolCleanup"
+    },
+    "sync.event#0": {
+      "ncalls": 1,
+      "subtype": "Callees [#]",
+      "time": 2785665508,
+      "trace": [
+        {
+          "func": "time.resetTimer"
+        }
+      ],
+      "type": "time",
+      "uid": "sync.event"
+    },
+    "sync.event#1": {
+      "ncalls": 1,
+      "subtype": "Callees Mean [#]",
+      "time": 2785665508,
+      "trace": [
+        {
+          "func": "time.resetTimer"
+        }
+      ],
+      "type": "time",
+      "uid": "sync.event"
+    },
+    "sync.event#2": {
+      "ncalls": 1,
+      "subtype": "Total Inclusive T [ms]",
+      "time": 2785665508,
+      "trace": [
+        {
+          "func": "time.resetTimer"
+        }
+      ],
+      "type": "time",
+      "uid": "sync.event"
+    },
+    "sync.event#3": {
+      "ncalls": 1,
+      "subtype": "Total Inclusive T [%]",
+      "time": 2785665508,
+      "trace": [
+        {
+          "func": "time.resetTimer"
+        }
+      ],
+      "type": "time",
+      "uid": "sync.event"
+    },
+    "sync.event#4": {
+      "ncalls": 1,
+      "subtype": "Total Exclusive T [ms]",
+      "time": 2785665508,
+      "trace": [
+        {
+          "func": "time.resetTimer"
+        }
+      ],
+      "type": "time",
+      "uid": "sync.event"
+    },
+    "sync.event#5": {
+      "ncalls": 1,
+      "subtype": "Total Exclusive T [%]",
+      "time": 2785665508,
+      "trace": [
+        {
+          "func": "time.resetTimer"
+        }
+      ],
+      "type": "time",
+      "uid": "sync.event"
+    },
+    "sync.event#6": {
+      "ncalls": 1,
+      "subtype": "Total Morestack T [ms]",
+      "time": 2785665508,
+      "trace": [
+        {
+          "func": "time.resetTimer"
+        }
+      ],
+      "type": "time",
+      "uid": "sync.event"
+    },
+    "sync.event#7": {
+      "ncalls": 1,
+      "subtype": "Total Morestack T [%]",
+      "time": 2785665508,
+      "trace": [
+        {
+          "func": "time.resetTimer"
+        }
+      ],
+      "type": "time",
+      "uid": "sync.event"
+    },
+    "sync.event#8": {
+      "ncalls": 1,
+      "subtype": "I Mean",
+      "time": 2785665508,
+      "trace": [
+        {
+          "func": "time.resetTimer"
+        }
+      ],
+      "type": "time",
+      "uid": "sync.event"
+    },
+    "sync.event#9": {
+      "ncalls": 1,
+      "subtype": "E Mean",
+      "time": 2785665508,
+      "trace": [
+        {
+          "func": "time.resetTimer"
+        }
+      ],
+      "type": "time",
+      "uid": "sync.event"
+    },
+    "sync.event#10": {
+      "ncalls": 1,
+      "subtype": "I Min",
+      "time": 2785665508,
+      "trace": [
+        {
+          "func": "time.resetTimer"
+        }
+      ],
+      "type": "time",
+      "uid": "sync.event"
+    },
+    "sync.event#11": {
+      "ncalls": 1,
+      "subtype": "E Min",
+      "time": 2785665508,
+      "trace": [
+        {
+          "func": "time.resetTimer"
+        }
+      ],
+      "type": "time",
+      "uid": "sync.event"
+    },
+    "sync.event#12": {
+      "ncalls": 1,
+      "subtype": "I Max",
+      "time": 2785665508,
+      "trace": [
+        {
+          "func": "time.resetTimer"
+        }
+      ],
+      "type": "time",
+      "uid": "sync.event"
+    },
+    "sync.event#13": {
+      "ncalls": 1,
+      "subtype": "E Max",
+      "time": 2785665508,
+      "trace": [
+        {
+          "func": "time.resetTimer"
+        }
+      ],
+      "type": "time",
+      "uid": "sync.event"
+    },
+    "sync.throw#0": {
+      "ncalls": 1,
+      "subtype": "Callees [#]",
+      "time": 2785665508,
+      "trace": [
+        {
+          "func": "time.resetTimer"
+        },
+        {
+          "func": "sync.event"
+        }
+      ],
+      "type": "time",
+      "uid": "sync.throw"
+    },
+    "sync.throw#1": {
+      "ncalls": 1,
+      "subtype": "Callees Mean [#]",
+      "time": 2785665508,
+      "trace": [
+        {
+          "func": "time.resetTimer"
+        },
+        {
+          "func": "sync.event"
+        }
+      ],
+      "type": "time",
+      "uid": "sync.throw"
+    },
+    "sync.throw#2": {
+      "ncalls": 1,
+      "subtype": "Total Inclusive T [ms]",
+      "time": 2785665508,
+      "trace": [
+        {
+          "func": "time.resetTimer"
+        },
+        {
+          "func": "sync.event"
+        }
+      ],
+      "type": "time",
+      "uid": "sync.throw"
+    },
+    "sync.throw#3": {
+      "ncalls": 1,
+      "subtype": "Total Inclusive T [%]",
+      "time": 2785665508,
+      "trace": [
+        {
+          "func": "time.resetTimer"
+        },
+        {
+          "func": "sync.event"
+        }
+      ],
+      "type": "time",
+      "uid": "sync.throw"
+    },
+    "sync.throw#4": {
+      "ncalls": 1,
+      "subtype": "Total Exclusive T [ms]",
+      "time": 2785665508,
+      "trace": [
+        {
+          "func": "time.resetTimer"
+        },
+        {
+          "func": "sync.event"
+        }
+      ],
+      "type": "time",
+      "uid": "sync.throw"
+    },
+    "sync.throw#5": {
+      "ncalls": 1,
+      "subtype": "Total Exclusive T [%]",
+      "time": 2785665508,
+      "trace": [
+        {
+          "func": "time.resetTimer"
+        },
+        {
+          "func": "sync.event"
+        }
+      ],
+      "type": "time",
+      "uid": "sync.throw"
+    },
+    "sync.throw#6": {
+      "ncalls": 1,
+      "subtype": "Total Morestack T [ms]",
+      "time": 2785665508,
+      "trace": [
+        {
+          "func": "time.resetTimer"
+        },
+        {
+          "func": "sync.event"
+        }
+      ],
+      "type": "time",
+      "uid": "sync.throw"
+    },
+    "sync.throw#7": {
+      "ncalls": 1,
+      "subtype": "Total Morestack T [%]",
+      "time": 2785665508,
+      "trace": [
+        {
+          "func": "time.resetTimer"
+        },
+        {
+          "func": "sync.event"
+        }
+      ],
+      "type": "time",
+      "uid": "sync.throw"
+    },
+    "sync.throw#8": {
+      "ncalls": 1,
+      "subtype": "I Mean",
+      "time": 2785665508,
+      "trace": [
+        {
+          "func": "time.resetTimer"
+        },
+        {
+          "func": "sync.event"
+        }
+      ],
+      "type": "time",
+      "uid": "sync.throw"
+    },
+    "sync.throw#9": {
+      "ncalls": 1,
+      "subtype": "E Mean",
+      "time": 2785665508,
+      "trace": [
+        {
+          "func": "time.resetTimer"
+        },
+        {
+          "func": "sync.event"
+        }
+      ],
+      "type": "time",
+      "uid": "sync.throw"
+    },
+    "sync.throw#10": {
+      "ncalls": 1,
+      "subtype": "I Min",
+      "time": 2785665508,
+      "trace": [
+        {
+          "func": "time.resetTimer"
+        },
+        {
+          "func": "sync.event"
+        }
+      ],
+      "type": "time",
+      "uid": "sync.throw"
+    },
+    "sync.throw#11": {
+      "ncalls": 1,
+      "subtype": "E Min",
+      "time": 2785665508,
+      "trace": [
+        {
+          "func": "time.resetTimer"
+        },
+        {
+          "func": "sync.event"
+        }
+      ],
+      "type": "time",
+      "uid": "sync.throw"
+    },
+    "sync.throw#12": {
+      "ncalls": 1,
+      "subtype": "I Max",
+      "time": 2785665508,
+      "trace": [
+        {
+          "func": "time.resetTimer"
+        },
+        {
+          "func": "sync.event"
+        }
+      ],
+      "type": "time",
+      "uid": "sync.throw"
+    },
+    "sync.throw#13": {
+      "ncalls": 1,
+      "subtype": "E Max",
+      "time": 2785665508,
+      "trace": [
+        {
+          "func": "time.resetTimer"
+        },
+        {
+          "func": "sync.event"
+        }
+      ],
+      "type": "time",
+      "uid": "sync.throw"
+    },
+    "sync.runtime_doSpin#0": {
+      "ncalls": 1,
+      "subtype": "Callees [#]",
+      "time": 2785665508,
+      "trace": [],
+      "type": "time",
+      "uid": "sync.runtime_doSpin"
+    },
+    "sync.runtime_doSpin#1": {
+      "ncalls": 1,
+      "subtype": "Callees Mean [#]",
+      "time": 2785665508,
+      "trace": [],
+      "type": "time",
+      "uid": "sync.runtime_doSpin"
+    },
+    "sync.runtime_doSpin#2": {
+      "ncalls": 1,
+      "subtype": "Total Inclusive T [ms]",
+      "time": 2785665508,
+      "trace": [],
+      "type": "time",
+      "uid": "sync.runtime_doSpin"
+    },
+    "sync.runtime_doSpin#3": {
+      "ncalls": 1,
+      "subtype": "Total Inclusive T [%]",
+      "time": 2785665508,
+      "trace": [],
+      "type": "time",
+      "uid": "sync.runtime_doSpin"
+    },
+    "sync.runtime_doSpin#4": {
+      "ncalls": 1,
+      "subtype": "Total Exclusive T [ms]",
+      "time": 2785665508,
+      "trace": [],
+      "type": "time",
+      "uid": "sync.runtime_doSpin"
+    },
+    "sync.runtime_doSpin#5": {
+      "ncalls": 1,
+      "subtype": "Total Exclusive T [%]",
+      "time": 2785665508,
+      "trace": [],
+      "type": "time",
+      "uid": "sync.runtime_doSpin"
+    },
+    "sync.runtime_doSpin#6": {
+      "ncalls": 1,
+      "subtype": "Total Morestack T [ms]",
+      "time": 2785665508,
+      "trace": [],
+      "type": "time",
+      "uid": "sync.runtime_doSpin"
+    },
+    "sync.runtime_doSpin#7": {
+      "ncalls": 1,
+      "subtype": "Total Morestack T [%]",
+      "time": 2785665508,
+      "trace": [],
+      "type": "time",
+      "uid": "sync.runtime_doSpin"
+    },
+    "sync.runtime_doSpin#8": {
+      "ncalls": 1,
+      "subtype": "I Mean",
+      "time": 2785665508,
+      "trace": [],
+      "type": "time",
+      "uid": "sync.runtime_doSpin"
+    },
+    "sync.runtime_doSpin#9": {
+      "ncalls": 1,
+      "subtype": "E Mean",
+      "time": 2785665508,
+      "trace": [],
+      "type": "time",
+      "uid": "sync.runtime_doSpin"
+    },
+    "sync.runtime_doSpin#10": {
+      "ncalls": 1,
+      "subtype": "I Min",
+      "time": 2785665508,
+      "trace": [],
+      "type": "time",
+      "uid": "sync.runtime_doSpin"
+    },
+    "sync.runtime_doSpin#11": {
+      "ncalls": 1,
+      "subtype": "E Min",
+      "time": 2785665508,
+      "trace": [],
+      "type": "time",
+      "uid": "sync.runtime_doSpin"
+    },
+    "sync.runtime_doSpin#12": {
+      "ncalls": 1,
+      "subtype": "I Max",
+      "time": 2785665508,
+      "trace": [],
+      "type": "time",
+      "uid": "sync.runtime_doSpin"
+    },
+    "sync.runtime_doSpin#13": {
+      "ncalls": 1,
+      "subtype": "E Max",
+      "time": 2785665508,
+      "trace": [],
+      "type": "time",
+      "uid": "sync.runtime_doSpin"
+    }
+  },
+  "models": [],
+  "origin": "d7375b2edf0780467a31af166e9634ac1e6b2402",
+  "header": {
+    "type": "mixed",
+    "cmd": "./greet",
+    "workload": "",
+    "units": {
+      "mixed(time delta)": "us"
+    }
+  },
+  "machine": {
+    "architecture": "x86_64",
+    "system": "Linux",
+    "release": "6.5.0-28-generic",
+    "host": "Ubuntu22",
+    "cpu": {
+      "physical": 4,
+      "total": 4,
+      "frequency": "3400.06Mhz"
+    },
+    "memory": {
+      "total_ram": "7.7 GiB",
+      "swap": "2.6 GiB"
+    }
+  },
+  "collector_info": {
+    "name": "gotrace",
+    "params": {
+      "verbose": true,
+      "get_overhead": true,
+      "packages": [
+        "main",
+        "time",
+        "sync",
+        "syscall",
+        "os"
+      ],
+      "bpfring_size": 167772160,
+      "save_intermediate_to_csv": false,
+      "workload": ""
+    }
+  },
+  "postprocessors": []
+}

@@ -1,0 +1,3363 @@
+{
+  "resources": {
+    "main.demoFunc#0": {
+      "amount": [
+        0
+      ]
+    },
+    "main.demoFunc#1": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.demoFunc#2": {
+      "amount": [
+        2503226.789921
+      ]
+    },
+    "main.demoFunc#3": {
+      "amount": [
+        215.62581741923296
+      ]
+    },
+    "main.demoFunc#4": {
+      "amount": [
+        2503226.789921
+      ]
+    },
+    "main.demoFunc#5": {
+      "amount": [
+        215.62581741923296
+      ]
+    },
+    "main.demoFunc#6": {
+      "amount": [
+        23239.049516
+      ]
+    },
+    "main.demoFunc#7": {
+      "amount": [
+        2.0017918744356646
+      ]
+    },
+    "main.demoFunc#8": {
+      "amount": [
+        1257.9029095080402
+      ]
+    },
+    "main.demoFunc#9": {
+      "amount": [
+        1257.9029095080402
+      ]
+    },
+    "main.demoFunc#10": {
+      "amount": [
+        11115905
+      ]
+    },
+    "main.demoFunc#11": {
+      "amount": [
+        11115905
+      ]
+    },
+    "main.demoFunc#12": {
+      "amount": [
+        2799236105
+      ]
+    },
+    "main.demoFunc#13": {
+      "amount": [
+        2799236105
+      ]
+    },
+    "main.myFunc#0": {
+      "amount": [
+        0
+      ]
+    },
+    "main.myFunc#1": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.myFunc#2": {
+      "amount": [
+        837859.42139
+      ]
+    },
+    "main.myFunc#3": {
+      "amount": [
+        72.17249485625949
+      ]
+    },
+    "main.myFunc#4": {
+      "amount": [
+        837859.42139
+      ]
+    },
+    "main.myFunc#5": {
+      "amount": [
+        72.17249485625949
+      ]
+    },
+    "main.myFunc#6": {
+      "amount": [
+        14889.261981
+      ]
+    },
+    "main.myFunc#7": {
+      "amount": [
+        1.2825483085867557
+      ]
+    },
+    "main.myFunc#8": {
+      "amount": [
+        842.9169229275653
+      ]
+    },
+    "main.myFunc#9": {
+      "amount": [
+        842.9169229275653
+      ]
+    },
+    "main.myFunc#10": {
+      "amount": [
+        132450
+      ]
+    },
+    "main.myFunc#11": {
+      "amount": [
+        132450
+      ]
+    },
+    "main.myFunc#12": {
+      "amount": [
+        2165269658
+      ]
+    },
+    "main.myFunc#13": {
+      "amount": [
+        2165269658
+      ]
+    },
+    "main.main.func1#0": {
+      "amount": [
+        2000
+      ]
+    },
+    "main.main.func1#1": {
+      "amount": [
+        7.824416384981246e-10
+      ]
+    },
+    "main.main.func1#2": {
+      "amount": [
+        2556101.18582
+      ]
+    },
+    "main.main.func1#3": {
+      "amount": [
+        220.18037271648984
+      ]
+    },
+    "main.main.func1#4": {
+      "amount": [
+        43805.052859
+      ]
+    },
+    "main.main.func1#5": {
+      "amount": [
+        3.773329834853947
+      ]
+    },
+    "main.main.func1#6": {
+      "amount": [
+        6859.573345
+      ]
+    },
+    "main.main.func1#7": {
+      "amount": [
+        0.5908777884681741
+      ]
+    },
+    "main.main.func1#8": {
+      "amount": [
+        1278.05059291
+      ]
+    },
+    "main.main.func1#9": {
+      "amount": [
+        21.9025264295
+      ]
+    },
+    "main.main.func1#10": {
+      "amount": [
+        12673012
+      ]
+    },
+    "main.main.func1#11": {
+      "amount": [
+        249220
+      ]
+    },
+    "main.main.func1#12": {
+      "amount": [
+        2802399720
+      ]
+    },
+    "main.main.func1#13": {
+      "amount": [
+        1338147302
+      ]
+    },
+    "main.main.func3#0": {
+      "amount": [
+        1000
+      ]
+    },
+    "main.main.func3#1": {
+      "amount": [
+        1.1418090228205643e-09
+      ]
+    },
+    "main.main.func3#2": {
+      "amount": [
+        875803.203525
+      ]
+    },
+    "main.main.func3#3": {
+      "amount": [
+        75.44093983766481
+      ]
+    },
+    "main.main.func3#4": {
+      "amount": [
+        34759.577407
+      ]
+    },
+    "main.main.func3#5": {
+      "amount": [
+        2.9941603060935664
+      ]
+    },
+    "main.main.func3#6": {
+      "amount": [
+        4058.012547
+      ]
+    },
+    "main.main.func3#7": {
+      "amount": [
+        0.3495537344309076
+      ]
+    },
+    "main.main.func3#8": {
+      "amount": [
+        875.803203525
+      ]
+    },
+    "main.main.func3#9": {
+      "amount": [
+        34.759577406999995
+      ]
+    },
+    "main.main.func3#10": {
+      "amount": [
+        388469
+      ]
+    },
+    "main.main.func3#11": {
+      "amount": [
+        249380
+      ]
+    },
+    "main.main.func3#12": {
+      "amount": [
+        2547160782
+      ]
+    },
+    "main.main.func3#13": {
+      "amount": [
+        1528847323
+      ]
+    },
+    "main.myFunc#14": {
+      "amount": [
+        0
+      ]
+    },
+    "main.myFunc#15": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.myFunc#16": {
+      "amount": [
+        11439.929018
+      ]
+    },
+    "main.myFunc#17": {
+      "amount": [
+        0.9854257135855045
+      ]
+    },
+    "main.myFunc#18": {
+      "amount": [
+        11439.929018
+      ]
+    },
+    "main.myFunc#19": {
+      "amount": [
+        0.9854257135855045
+      ]
+    },
+    "main.myFunc#20": {
+      "amount": [
+        2118.836637
+      ]
+    },
+    "main.myFunc#21": {
+      "amount": [
+        0.18251477799395166
+      ]
+    },
+    "main.myFunc#22": {
+      "amount": [
+        12.327509717672413
+      ]
+    },
+    "main.myFunc#23": {
+      "amount": [
+        12.327509717672413
+      ]
+    },
+    "main.myFunc#24": {
+      "amount": [
+        131869
+      ]
+    },
+    "main.myFunc#25": {
+      "amount": [
+        131869
+      ]
+    },
+    "main.myFunc#26": {
+      "amount": [
+        256898245
+      ]
+    },
+    "main.myFunc#27": {
+      "amount": [
+        256898245
+      ]
+    },
+    "main.main#0": {
+      "amount": [
+        3
+      ]
+    },
+    "main.main#1": {
+      "amount": [
+        2.5841743739012713e-10
+      ]
+    },
+    "main.main#2": {
+      "amount": [
+        11609.123712
+      ]
+    },
+    "main.main#3": {
+      "amount": [
+        1.0
+      ]
+    },
+    "main.main#4": {
+      "amount": [
+        11334.73989
+      ]
+    },
+    "main.main#5": {
+      "amount": [
+        0.9763648119524837
+      ]
+    },
+    "main.main#6": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.main#7": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.main#8": {
+      "amount": [
+        11609.123712
+      ]
+    },
+    "main.main#9": {
+      "amount": [
+        11334.73989
+      ]
+    },
+    "main.main#10": {
+      "amount": [
+        11609123712
+      ]
+    },
+    "main.main#11": {
+      "amount": [
+        11334739890
+      ]
+    },
+    "main.main#12": {
+      "amount": [
+        11609123712
+      ]
+    },
+    "main.main#13": {
+      "amount": [
+        11334739890
+      ]
+    },
+    "main.main.func2#0": {
+      "amount": [
+        1000
+      ]
+    },
+    "main.main.func2#1": {
+      "amount": [
+        4.50837541492836e-08
+      ]
+    },
+    "main.main.func2#2": {
+      "amount": [
+        22180.938985
+      ]
+    },
+    "main.main.func2#3": {
+      "amount": [
+        1.9106471371368223
+      ]
+    },
+    "main.main.func2#4": {
+      "amount": [
+        9488.061472
+      ]
+    },
+    "main.main.func2#5": {
+      "amount": [
+        0.8172935104647457
+      ]
+    },
+    "main.main.func2#6": {
+      "amount": [
+        1545.972973
+      ]
+    },
+    "main.main.func2#7": {
+      "amount": [
+        0.1331687913190187
+      ]
+    },
+    "main.main.func2#8": {
+      "amount": [
+        22.180938985
+      ]
+    },
+    "main.main.func2#9": {
+      "amount": [
+        9.488061471999998
+      ]
+    },
+    "main.main.func2#10": {
+      "amount": [
+        388599
+      ]
+    },
+    "main.main.func2#11": {
+      "amount": [
+        242880
+      ]
+    },
+    "main.main.func2#12": {
+      "amount": [
+        258452329
+      ]
+    },
+    "main.main.func2#13": {
+      "amount": [
+        93471511
+      ]
+    },
+    "main.demoFunc#14": {
+      "amount": [
+        0
+      ]
+    },
+    "main.demoFunc#15": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.demoFunc#16": {
+      "amount": [
+        9069.34304
+      ]
+    },
+    "main.demoFunc#17": {
+      "amount": [
+        0.7812254624029283
+      ]
+    },
+    "main.demoFunc#18": {
+      "amount": [
+        9069.34304
+      ]
+    },
+    "main.demoFunc#19": {
+      "amount": [
+        0.7812254624029283
+      ]
+    },
+    "main.demoFunc#20": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.demoFunc#21": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.demoFunc#22": {
+      "amount": [
+        906.934304
+      ]
+    },
+    "main.demoFunc#23": {
+      "amount": [
+        906.934304
+      ]
+    },
+    "main.demoFunc#24": {
+      "amount": [
+        13768659
+      ]
+    },
+    "main.demoFunc#25": {
+      "amount": [
+        13768659
+      ]
+    },
+    "main.demoFunc#26": {
+      "amount": [
+        1412298543
+      ]
+    },
+    "main.demoFunc#27": {
+      "amount": [
+        1412298543
+      ]
+    },
+    "main.myFunc#28": {
+      "amount": [
+        0
+      ]
+    },
+    "main.myFunc#29": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.myFunc#30": {
+      "amount": [
+        3184.204728
+      ]
+    },
+    "main.myFunc#31": {
+      "amount": [
+        0.27428467531176226
+      ]
+    },
+    "main.myFunc#32": {
+      "amount": [
+        3184.204728
+      ]
+    },
+    "main.myFunc#33": {
+      "amount": [
+        0.27428467531176226
+      ]
+    },
+    "main.myFunc#34": {
+      "amount": [
+        64.561633
+      ]
+    },
+    "main.myFunc#35": {
+      "amount": [
+        0.005561283917860621
+      ]
+    },
+    "main.myFunc#36": {
+      "amount": [
+        530.700788
+      ]
+    },
+    "main.myFunc#37": {
+      "amount": [
+        530.700788
+      ]
+    },
+    "main.myFunc#38": {
+      "amount": [
+        873629
+      ]
+    },
+    "main.myFunc#39": {
+      "amount": [
+        873629
+      ]
+    },
+    "main.myFunc#40": {
+      "amount": [
+        1138533229
+      ]
+    },
+    "main.myFunc#41": {
+      "amount": [
+        1138533229
+      ]
+    },
+    "main.myFunc#42": {
+      "amount": [
+        0
+      ]
+    },
+    "main.myFunc#43": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.myFunc#44": {
+      "amount": [
+        1242.078855
+      ]
+    },
+    "main.myFunc#45": {
+      "amount": [
+        0.10699161158185443
+      ]
+    },
+    "main.myFunc#46": {
+      "amount": [
+        1242.078855
+      ]
+    },
+    "main.myFunc#47": {
+      "amount": [
+        0.10699161158185443
+      ]
+    },
+    "main.myFunc#48": {
+      "amount": [
+        64.917443
+      ]
+    },
+    "main.myFunc#49": {
+      "amount": [
+        0.005591933087326548
+      ]
+    },
+    "main.myFunc#50": {
+      "amount": [
+        17.49406838028169
+      ]
+    },
+    "main.myFunc#51": {
+      "amount": [
+        17.49406838028169
+      ]
+    },
+    "main.myFunc#52": {
+      "amount": [
+        139480
+      ]
+    },
+    "main.myFunc#53": {
+      "amount": [
+        139480
+      ]
+    },
+    "main.myFunc#54": {
+      "amount": [
+        106537753
+      ]
+    },
+    "main.myFunc#55": {
+      "amount": [
+        106537753
+      ]
+    },
+    "main.main.deferwrap2#0": {
+      "amount": [
+        0
+      ]
+    },
+    "main.main.deferwrap2#1": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.main.deferwrap2#2": {
+      "amount": [
+        148.204924
+      ]
+    },
+    "main.main.deferwrap2#3": {
+      "amount": [
+        0.012766245556226182
+      ]
+    },
+    "main.main.deferwrap2#4": {
+      "amount": [
+        148.204924
+      ]
+    },
+    "main.main.deferwrap2#5": {
+      "amount": [
+        0.012766245556226182
+      ]
+    },
+    "main.main.deferwrap2#6": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.main.deferwrap2#7": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.main.deferwrap2#8": {
+      "amount": [
+        148.204924
+      ]
+    },
+    "main.main.deferwrap2#9": {
+      "amount": [
+        148.204924
+      ]
+    },
+    "main.main.deferwrap2#10": {
+      "amount": [
+        148204924
+      ]
+    },
+    "main.main.deferwrap2#11": {
+      "amount": [
+        148204924
+      ]
+    },
+    "main.main.deferwrap2#12": {
+      "amount": [
+        148204924
+      ]
+    },
+    "main.main.deferwrap2#13": {
+      "amount": [
+        148204924
+      ]
+    },
+    "main.main.deferwrap3#0": {
+      "amount": [
+        0
+      ]
+    },
+    "main.main.deferwrap3#1": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.main.deferwrap3#2": {
+      "amount": [
+        125.985739
+      ]
+    },
+    "main.main.deferwrap3#3": {
+      "amount": [
+        0.010852303940027131
+      ]
+    },
+    "main.main.deferwrap3#4": {
+      "amount": [
+        125.985739
+      ]
+    },
+    "main.main.deferwrap3#5": {
+      "amount": [
+        0.010852303940027131
+      ]
+    },
+    "main.main.deferwrap3#6": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.main.deferwrap3#7": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.main.deferwrap3#8": {
+      "amount": [
+        125.985739
+      ]
+    },
+    "main.main.deferwrap3#9": {
+      "amount": [
+        125.985739
+      ]
+    },
+    "main.main.deferwrap3#10": {
+      "amount": [
+        125985739
+      ]
+    },
+    "main.main.deferwrap3#11": {
+      "amount": [
+        125985739
+      ]
+    },
+    "main.main.deferwrap3#12": {
+      "amount": [
+        125985739
+      ]
+    },
+    "main.main.deferwrap3#13": {
+      "amount": [
+        125985739
+      ]
+    },
+    "main.myFunc#56": {
+      "amount": [
+        0
+      ]
+    },
+    "main.myFunc#57": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.myFunc#58": {
+      "amount": [
+        10.86964
+      ]
+    },
+    "main.myFunc#59": {
+      "amount": [
+        0.0009363015047177404
+      ]
+    },
+    "main.myFunc#60": {
+      "amount": [
+        10.86964
+      ]
+    },
+    "main.myFunc#61": {
+      "amount": [
+        0.0009363015047177404
+      ]
+    },
+    "main.myFunc#62": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.myFunc#63": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.myFunc#64": {
+      "amount": [
+        10.86964
+      ]
+    },
+    "main.myFunc#65": {
+      "amount": [
+        10.86964
+      ]
+    },
+    "main.myFunc#66": {
+      "amount": [
+        10869640
+      ]
+    },
+    "main.myFunc#67": {
+      "amount": [
+        10869640
+      ]
+    },
+    "main.myFunc#68": {
+      "amount": [
+        10869640
+      ]
+    },
+    "main.myFunc#69": {
+      "amount": [
+        10869640
+      ]
+    },
+    "main.main.deferwrap1#0": {
+      "amount": [
+        0
+      ]
+    },
+    "main.main.deferwrap1#1": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.main.deferwrap1#2": {
+      "amount": [
+        0.193159
+      ]
+    },
+    "main.main.deferwrap1#3": {
+      "amount": [
+        1.663855126294652e-05
+      ]
+    },
+    "main.main.deferwrap1#4": {
+      "amount": [
+        0.193159
+      ]
+    },
+    "main.main.deferwrap1#5": {
+      "amount": [
+        1.663855126294652e-05
+      ]
+    },
+    "main.main.deferwrap1#6": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.main.deferwrap1#7": {
+      "amount": [
+        0.0
+      ]
+    },
+    "main.main.deferwrap1#8": {
+      "amount": [
+        0.193159
+      ]
+    },
+    "main.main.deferwrap1#9": {
+      "amount": [
+        0.193159
+      ]
+    },
+    "main.main.deferwrap1#10": {
+      "amount": [
+        193159
+      ]
+    },
+    "main.main.deferwrap1#11": {
+      "amount": [
+        193159
+      ]
+    },
+    "main.main.deferwrap1#12": {
+      "amount": [
+        193159
+      ]
+    },
+    "main.main.deferwrap1#13": {
+      "amount": [
+        193159
+      ]
+    }
+  },
+  "resource_type_map": {
+    "main.demoFunc#0": {
+      "ncalls": 1990,
+      "subtype": "Callees [#]",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        }
+      ],
+      "type": "time",
+      "uid": "main.demoFunc"
+    },
+    "main.demoFunc#1": {
+      "ncalls": 1990,
+      "subtype": "Callees Mean [#]",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        }
+      ],
+      "type": "time",
+      "uid": "main.demoFunc"
+    },
+    "main.demoFunc#2": {
+      "ncalls": 1990,
+      "subtype": "Total Inclusive T [ms]",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        }
+      ],
+      "type": "time",
+      "uid": "main.demoFunc"
+    },
+    "main.demoFunc#3": {
+      "ncalls": 1990,
+      "subtype": "Total Inclusive T [%]",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        }
+      ],
+      "type": "time",
+      "uid": "main.demoFunc"
+    },
+    "main.demoFunc#4": {
+      "ncalls": 1990,
+      "subtype": "Total Exclusive T [ms]",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        }
+      ],
+      "type": "time",
+      "uid": "main.demoFunc"
+    },
+    "main.demoFunc#5": {
+      "ncalls": 1990,
+      "subtype": "Total Exclusive T [%]",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        }
+      ],
+      "type": "time",
+      "uid": "main.demoFunc"
+    },
+    "main.demoFunc#6": {
+      "ncalls": 1990,
+      "subtype": "Total Morestack T [ms]",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        }
+      ],
+      "type": "time",
+      "uid": "main.demoFunc"
+    },
+    "main.demoFunc#7": {
+      "ncalls": 1990,
+      "subtype": "Total Morestack T [%]",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        }
+      ],
+      "type": "time",
+      "uid": "main.demoFunc"
+    },
+    "main.demoFunc#8": {
+      "ncalls": 1990,
+      "subtype": "I Mean",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        }
+      ],
+      "type": "time",
+      "uid": "main.demoFunc"
+    },
+    "main.demoFunc#9": {
+      "ncalls": 1990,
+      "subtype": "E Mean",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        }
+      ],
+      "type": "time",
+      "uid": "main.demoFunc"
+    },
+    "main.demoFunc#10": {
+      "ncalls": 1990,
+      "subtype": "I Min",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        }
+      ],
+      "type": "time",
+      "uid": "main.demoFunc"
+    },
+    "main.demoFunc#11": {
+      "ncalls": 1990,
+      "subtype": "E Min",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        }
+      ],
+      "type": "time",
+      "uid": "main.demoFunc"
+    },
+    "main.demoFunc#12": {
+      "ncalls": 1990,
+      "subtype": "I Max",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        }
+      ],
+      "type": "time",
+      "uid": "main.demoFunc"
+    },
+    "main.demoFunc#13": {
+      "ncalls": 1990,
+      "subtype": "E Max",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        }
+      ],
+      "type": "time",
+      "uid": "main.demoFunc"
+    },
+    "main.myFunc#0": {
+      "ncalls": 994,
+      "subtype": "Callees [#]",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func3"
+        }
+      ],
+      "type": "time",
+      "uid": "main.myFunc"
+    },
+    "main.myFunc#1": {
+      "ncalls": 994,
+      "subtype": "Callees Mean [#]",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func3"
+        }
+      ],
+      "type": "time",
+      "uid": "main.myFunc"
+    },
+    "main.myFunc#2": {
+      "ncalls": 994,
+      "subtype": "Total Inclusive T [ms]",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func3"
+        }
+      ],
+      "type": "time",
+      "uid": "main.myFunc"
+    },
+    "main.myFunc#3": {
+      "ncalls": 994,
+      "subtype": "Total Inclusive T [%]",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func3"
+        }
+      ],
+      "type": "time",
+      "uid": "main.myFunc"
+    },
+    "main.myFunc#4": {
+      "ncalls": 994,
+      "subtype": "Total Exclusive T [ms]",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func3"
+        }
+      ],
+      "type": "time",
+      "uid": "main.myFunc"
+    },
+    "main.myFunc#5": {
+      "ncalls": 994,
+      "subtype": "Total Exclusive T [%]",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func3"
+        }
+      ],
+      "type": "time",
+      "uid": "main.myFunc"
+    },
+    "main.myFunc#6": {
+      "ncalls": 994,
+      "subtype": "Total Morestack T [ms]",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func3"
+        }
+      ],
+      "type": "time",
+      "uid": "main.myFunc"
+    },
+    "main.myFunc#7": {
+      "ncalls": 994,
+      "subtype": "Total Morestack T [%]",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func3"
+        }
+      ],
+      "type": "time",
+      "uid": "main.myFunc"
+    },
+    "main.myFunc#8": {
+      "ncalls": 994,
+      "subtype": "I Mean",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func3"
+        }
+      ],
+      "type": "time",
+      "uid": "main.myFunc"
+    },
+    "main.myFunc#9": {
+      "ncalls": 994,
+      "subtype": "E Mean",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func3"
+        }
+      ],
+      "type": "time",
+      "uid": "main.myFunc"
+    },
+    "main.myFunc#10": {
+      "ncalls": 994,
+      "subtype": "I Min",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func3"
+        }
+      ],
+      "type": "time",
+      "uid": "main.myFunc"
+    },
+    "main.myFunc#11": {
+      "ncalls": 994,
+      "subtype": "E Min",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func3"
+        }
+      ],
+      "type": "time",
+      "uid": "main.myFunc"
+    },
+    "main.myFunc#12": {
+      "ncalls": 994,
+      "subtype": "I Max",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func3"
+        }
+      ],
+      "type": "time",
+      "uid": "main.myFunc"
+    },
+    "main.myFunc#13": {
+      "ncalls": 994,
+      "subtype": "E Max",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func3"
+        }
+      ],
+      "type": "time",
+      "uid": "main.myFunc"
+    },
+    "main.main.func1#0": {
+      "ncalls": 2000,
+      "subtype": "Callees [#]",
+      "time": 11609123712,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main.func1"
+    },
+    "main.main.func1#1": {
+      "ncalls": 2000,
+      "subtype": "Callees Mean [#]",
+      "time": 11609123712,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main.func1"
+    },
+    "main.main.func1#2": {
+      "ncalls": 2000,
+      "subtype": "Total Inclusive T [ms]",
+      "time": 11609123712,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main.func1"
+    },
+    "main.main.func1#3": {
+      "ncalls": 2000,
+      "subtype": "Total Inclusive T [%]",
+      "time": 11609123712,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main.func1"
+    },
+    "main.main.func1#4": {
+      "ncalls": 2000,
+      "subtype": "Total Exclusive T [ms]",
+      "time": 11609123712,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main.func1"
+    },
+    "main.main.func1#5": {
+      "ncalls": 2000,
+      "subtype": "Total Exclusive T [%]",
+      "time": 11609123712,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main.func1"
+    },
+    "main.main.func1#6": {
+      "ncalls": 2000,
+      "subtype": "Total Morestack T [ms]",
+      "time": 11609123712,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main.func1"
+    },
+    "main.main.func1#7": {
+      "ncalls": 2000,
+      "subtype": "Total Morestack T [%]",
+      "time": 11609123712,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main.func1"
+    },
+    "main.main.func1#8": {
+      "ncalls": 2000,
+      "subtype": "I Mean",
+      "time": 11609123712,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main.func1"
+    },
+    "main.main.func1#9": {
+      "ncalls": 2000,
+      "subtype": "E Mean",
+      "time": 11609123712,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main.func1"
+    },
+    "main.main.func1#10": {
+      "ncalls": 2000,
+      "subtype": "I Min",
+      "time": 11609123712,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main.func1"
+    },
+    "main.main.func1#11": {
+      "ncalls": 2000,
+      "subtype": "E Min",
+      "time": 11609123712,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main.func1"
+    },
+    "main.main.func1#12": {
+      "ncalls": 2000,
+      "subtype": "I Max",
+      "time": 11609123712,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main.func1"
+    },
+    "main.main.func1#13": {
+      "ncalls": 2000,
+      "subtype": "E Max",
+      "time": 11609123712,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main.func1"
+    },
+    "main.main.func3#0": {
+      "ncalls": 1000,
+      "subtype": "Callees [#]",
+      "time": 11609123712,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main.func3"
+    },
+    "main.main.func3#1": {
+      "ncalls": 1000,
+      "subtype": "Callees Mean [#]",
+      "time": 11609123712,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main.func3"
+    },
+    "main.main.func3#2": {
+      "ncalls": 1000,
+      "subtype": "Total Inclusive T [ms]",
+      "time": 11609123712,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main.func3"
+    },
+    "main.main.func3#3": {
+      "ncalls": 1000,
+      "subtype": "Total Inclusive T [%]",
+      "time": 11609123712,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main.func3"
+    },
+    "main.main.func3#4": {
+      "ncalls": 1000,
+      "subtype": "Total Exclusive T [ms]",
+      "time": 11609123712,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main.func3"
+    },
+    "main.main.func3#5": {
+      "ncalls": 1000,
+      "subtype": "Total Exclusive T [%]",
+      "time": 11609123712,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main.func3"
+    },
+    "main.main.func3#6": {
+      "ncalls": 1000,
+      "subtype": "Total Morestack T [ms]",
+      "time": 11609123712,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main.func3"
+    },
+    "main.main.func3#7": {
+      "ncalls": 1000,
+      "subtype": "Total Morestack T [%]",
+      "time": 11609123712,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main.func3"
+    },
+    "main.main.func3#8": {
+      "ncalls": 1000,
+      "subtype": "I Mean",
+      "time": 11609123712,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main.func3"
+    },
+    "main.main.func3#9": {
+      "ncalls": 1000,
+      "subtype": "E Mean",
+      "time": 11609123712,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main.func3"
+    },
+    "main.main.func3#10": {
+      "ncalls": 1000,
+      "subtype": "I Min",
+      "time": 11609123712,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main.func3"
+    },
+    "main.main.func3#11": {
+      "ncalls": 1000,
+      "subtype": "E Min",
+      "time": 11609123712,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main.func3"
+    },
+    "main.main.func3#12": {
+      "ncalls": 1000,
+      "subtype": "I Max",
+      "time": 11609123712,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main.func3"
+    },
+    "main.main.func3#13": {
+      "ncalls": 1000,
+      "subtype": "E Max",
+      "time": 11609123712,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main.func3"
+    },
+    "main.myFunc#14": {
+      "ncalls": 928,
+      "subtype": "Callees [#]",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        }
+      ],
+      "type": "time",
+      "uid": "main.myFunc"
+    },
+    "main.myFunc#15": {
+      "ncalls": 928,
+      "subtype": "Callees Mean [#]",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        }
+      ],
+      "type": "time",
+      "uid": "main.myFunc"
+    },
+    "main.myFunc#16": {
+      "ncalls": 928,
+      "subtype": "Total Inclusive T [ms]",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        }
+      ],
+      "type": "time",
+      "uid": "main.myFunc"
+    },
+    "main.myFunc#17": {
+      "ncalls": 928,
+      "subtype": "Total Inclusive T [%]",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        }
+      ],
+      "type": "time",
+      "uid": "main.myFunc"
+    },
+    "main.myFunc#18": {
+      "ncalls": 928,
+      "subtype": "Total Exclusive T [ms]",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        }
+      ],
+      "type": "time",
+      "uid": "main.myFunc"
+    },
+    "main.myFunc#19": {
+      "ncalls": 928,
+      "subtype": "Total Exclusive T [%]",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        }
+      ],
+      "type": "time",
+      "uid": "main.myFunc"
+    },
+    "main.myFunc#20": {
+      "ncalls": 928,
+      "subtype": "Total Morestack T [ms]",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        }
+      ],
+      "type": "time",
+      "uid": "main.myFunc"
+    },
+    "main.myFunc#21": {
+      "ncalls": 928,
+      "subtype": "Total Morestack T [%]",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        }
+      ],
+      "type": "time",
+      "uid": "main.myFunc"
+    },
+    "main.myFunc#22": {
+      "ncalls": 928,
+      "subtype": "I Mean",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        }
+      ],
+      "type": "time",
+      "uid": "main.myFunc"
+    },
+    "main.myFunc#23": {
+      "ncalls": 928,
+      "subtype": "E Mean",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        }
+      ],
+      "type": "time",
+      "uid": "main.myFunc"
+    },
+    "main.myFunc#24": {
+      "ncalls": 928,
+      "subtype": "I Min",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        }
+      ],
+      "type": "time",
+      "uid": "main.myFunc"
+    },
+    "main.myFunc#25": {
+      "ncalls": 928,
+      "subtype": "E Min",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        }
+      ],
+      "type": "time",
+      "uid": "main.myFunc"
+    },
+    "main.myFunc#26": {
+      "ncalls": 928,
+      "subtype": "I Max",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        }
+      ],
+      "type": "time",
+      "uid": "main.myFunc"
+    },
+    "main.myFunc#27": {
+      "ncalls": 928,
+      "subtype": "E Max",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        }
+      ],
+      "type": "time",
+      "uid": "main.myFunc"
+    },
+    "main.main#0": {
+      "ncalls": 1,
+      "subtype": "Callees [#]",
+      "time": 11609123712,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main"
+    },
+    "main.main#1": {
+      "ncalls": 1,
+      "subtype": "Callees Mean [#]",
+      "time": 11609123712,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main"
+    },
+    "main.main#2": {
+      "ncalls": 1,
+      "subtype": "Total Inclusive T [ms]",
+      "time": 11609123712,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main"
+    },
+    "main.main#3": {
+      "ncalls": 1,
+      "subtype": "Total Inclusive T [%]",
+      "time": 11609123712,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main"
+    },
+    "main.main#4": {
+      "ncalls": 1,
+      "subtype": "Total Exclusive T [ms]",
+      "time": 11609123712,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main"
+    },
+    "main.main#5": {
+      "ncalls": 1,
+      "subtype": "Total Exclusive T [%]",
+      "time": 11609123712,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main"
+    },
+    "main.main#6": {
+      "ncalls": 1,
+      "subtype": "Total Morestack T [ms]",
+      "time": 11609123712,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main"
+    },
+    "main.main#7": {
+      "ncalls": 1,
+      "subtype": "Total Morestack T [%]",
+      "time": 11609123712,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main"
+    },
+    "main.main#8": {
+      "ncalls": 1,
+      "subtype": "I Mean",
+      "time": 11609123712,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main"
+    },
+    "main.main#9": {
+      "ncalls": 1,
+      "subtype": "E Mean",
+      "time": 11609123712,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main"
+    },
+    "main.main#10": {
+      "ncalls": 1,
+      "subtype": "I Min",
+      "time": 11609123712,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main"
+    },
+    "main.main#11": {
+      "ncalls": 1,
+      "subtype": "E Min",
+      "time": 11609123712,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main"
+    },
+    "main.main#12": {
+      "ncalls": 1,
+      "subtype": "I Max",
+      "time": 11609123712,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main"
+    },
+    "main.main#13": {
+      "ncalls": 1,
+      "subtype": "E Max",
+      "time": 11609123712,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main"
+    },
+    "main.main.func2#0": {
+      "ncalls": 1000,
+      "subtype": "Callees [#]",
+      "time": 11609123712,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main.func2"
+    },
+    "main.main.func2#1": {
+      "ncalls": 1000,
+      "subtype": "Callees Mean [#]",
+      "time": 11609123712,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main.func2"
+    },
+    "main.main.func2#2": {
+      "ncalls": 1000,
+      "subtype": "Total Inclusive T [ms]",
+      "time": 11609123712,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main.func2"
+    },
+    "main.main.func2#3": {
+      "ncalls": 1000,
+      "subtype": "Total Inclusive T [%]",
+      "time": 11609123712,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main.func2"
+    },
+    "main.main.func2#4": {
+      "ncalls": 1000,
+      "subtype": "Total Exclusive T [ms]",
+      "time": 11609123712,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main.func2"
+    },
+    "main.main.func2#5": {
+      "ncalls": 1000,
+      "subtype": "Total Exclusive T [%]",
+      "time": 11609123712,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main.func2"
+    },
+    "main.main.func2#6": {
+      "ncalls": 1000,
+      "subtype": "Total Morestack T [ms]",
+      "time": 11609123712,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main.func2"
+    },
+    "main.main.func2#7": {
+      "ncalls": 1000,
+      "subtype": "Total Morestack T [%]",
+      "time": 11609123712,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main.func2"
+    },
+    "main.main.func2#8": {
+      "ncalls": 1000,
+      "subtype": "I Mean",
+      "time": 11609123712,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main.func2"
+    },
+    "main.main.func2#9": {
+      "ncalls": 1000,
+      "subtype": "E Mean",
+      "time": 11609123712,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main.func2"
+    },
+    "main.main.func2#10": {
+      "ncalls": 1000,
+      "subtype": "I Min",
+      "time": 11609123712,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main.func2"
+    },
+    "main.main.func2#11": {
+      "ncalls": 1000,
+      "subtype": "E Min",
+      "time": 11609123712,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main.func2"
+    },
+    "main.main.func2#12": {
+      "ncalls": 1000,
+      "subtype": "I Max",
+      "time": 11609123712,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main.func2"
+    },
+    "main.main.func2#13": {
+      "ncalls": 1000,
+      "subtype": "E Max",
+      "time": 11609123712,
+      "trace": [],
+      "type": "time",
+      "uid": "main.main.func2"
+    },
+    "main.demoFunc#14": {
+      "ncalls": 10,
+      "subtype": "Callees [#]",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.main.func1"
+        }
+      ],
+      "type": "time",
+      "uid": "main.demoFunc"
+    },
+    "main.demoFunc#15": {
+      "ncalls": 10,
+      "subtype": "Callees Mean [#]",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.main.func1"
+        }
+      ],
+      "type": "time",
+      "uid": "main.demoFunc"
+    },
+    "main.demoFunc#16": {
+      "ncalls": 10,
+      "subtype": "Total Inclusive T [ms]",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.main.func1"
+        }
+      ],
+      "type": "time",
+      "uid": "main.demoFunc"
+    },
+    "main.demoFunc#17": {
+      "ncalls": 10,
+      "subtype": "Total Inclusive T [%]",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.main.func1"
+        }
+      ],
+      "type": "time",
+      "uid": "main.demoFunc"
+    },
+    "main.demoFunc#18": {
+      "ncalls": 10,
+      "subtype": "Total Exclusive T [ms]",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.main.func1"
+        }
+      ],
+      "type": "time",
+      "uid": "main.demoFunc"
+    },
+    "main.demoFunc#19": {
+      "ncalls": 10,
+      "subtype": "Total Exclusive T [%]",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.main.func1"
+        }
+      ],
+      "type": "time",
+      "uid": "main.demoFunc"
+    },
+    "main.demoFunc#20": {
+      "ncalls": 10,
+      "subtype": "Total Morestack T [ms]",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.main.func1"
+        }
+      ],
+      "type": "time",
+      "uid": "main.demoFunc"
+    },
+    "main.demoFunc#21": {
+      "ncalls": 10,
+      "subtype": "Total Morestack T [%]",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.main.func1"
+        }
+      ],
+      "type": "time",
+      "uid": "main.demoFunc"
+    },
+    "main.demoFunc#22": {
+      "ncalls": 10,
+      "subtype": "I Mean",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.main.func1"
+        }
+      ],
+      "type": "time",
+      "uid": "main.demoFunc"
+    },
+    "main.demoFunc#23": {
+      "ncalls": 10,
+      "subtype": "E Mean",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.main.func1"
+        }
+      ],
+      "type": "time",
+      "uid": "main.demoFunc"
+    },
+    "main.demoFunc#24": {
+      "ncalls": 10,
+      "subtype": "I Min",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.main.func1"
+        }
+      ],
+      "type": "time",
+      "uid": "main.demoFunc"
+    },
+    "main.demoFunc#25": {
+      "ncalls": 10,
+      "subtype": "E Min",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.main.func1"
+        }
+      ],
+      "type": "time",
+      "uid": "main.demoFunc"
+    },
+    "main.demoFunc#26": {
+      "ncalls": 10,
+      "subtype": "I Max",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.main.func1"
+        }
+      ],
+      "type": "time",
+      "uid": "main.demoFunc"
+    },
+    "main.demoFunc#27": {
+      "ncalls": 10,
+      "subtype": "E Max",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func1"
+        },
+        {
+          "func": "main.main.func1"
+        }
+      ],
+      "type": "time",
+      "uid": "main.demoFunc"
+    },
+    "main.myFunc#28": {
+      "ncalls": 6,
+      "subtype": "Callees [#]",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func3"
+        },
+        {
+          "func": "main.main.func3"
+        }
+      ],
+      "type": "time",
+      "uid": "main.myFunc"
+    },
+    "main.myFunc#29": {
+      "ncalls": 6,
+      "subtype": "Callees Mean [#]",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func3"
+        },
+        {
+          "func": "main.main.func3"
+        }
+      ],
+      "type": "time",
+      "uid": "main.myFunc"
+    },
+    "main.myFunc#30": {
+      "ncalls": 6,
+      "subtype": "Total Inclusive T [ms]",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func3"
+        },
+        {
+          "func": "main.main.func3"
+        }
+      ],
+      "type": "time",
+      "uid": "main.myFunc"
+    },
+    "main.myFunc#31": {
+      "ncalls": 6,
+      "subtype": "Total Inclusive T [%]",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func3"
+        },
+        {
+          "func": "main.main.func3"
+        }
+      ],
+      "type": "time",
+      "uid": "main.myFunc"
+    },
+    "main.myFunc#32": {
+      "ncalls": 6,
+      "subtype": "Total Exclusive T [ms]",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func3"
+        },
+        {
+          "func": "main.main.func3"
+        }
+      ],
+      "type": "time",
+      "uid": "main.myFunc"
+    },
+    "main.myFunc#33": {
+      "ncalls": 6,
+      "subtype": "Total Exclusive T [%]",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func3"
+        },
+        {
+          "func": "main.main.func3"
+        }
+      ],
+      "type": "time",
+      "uid": "main.myFunc"
+    },
+    "main.myFunc#34": {
+      "ncalls": 6,
+      "subtype": "Total Morestack T [ms]",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func3"
+        },
+        {
+          "func": "main.main.func3"
+        }
+      ],
+      "type": "time",
+      "uid": "main.myFunc"
+    },
+    "main.myFunc#35": {
+      "ncalls": 6,
+      "subtype": "Total Morestack T [%]",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func3"
+        },
+        {
+          "func": "main.main.func3"
+        }
+      ],
+      "type": "time",
+      "uid": "main.myFunc"
+    },
+    "main.myFunc#36": {
+      "ncalls": 6,
+      "subtype": "I Mean",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func3"
+        },
+        {
+          "func": "main.main.func3"
+        }
+      ],
+      "type": "time",
+      "uid": "main.myFunc"
+    },
+    "main.myFunc#37": {
+      "ncalls": 6,
+      "subtype": "E Mean",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func3"
+        },
+        {
+          "func": "main.main.func3"
+        }
+      ],
+      "type": "time",
+      "uid": "main.myFunc"
+    },
+    "main.myFunc#38": {
+      "ncalls": 6,
+      "subtype": "I Min",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func3"
+        },
+        {
+          "func": "main.main.func3"
+        }
+      ],
+      "type": "time",
+      "uid": "main.myFunc"
+    },
+    "main.myFunc#39": {
+      "ncalls": 6,
+      "subtype": "E Min",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func3"
+        },
+        {
+          "func": "main.main.func3"
+        }
+      ],
+      "type": "time",
+      "uid": "main.myFunc"
+    },
+    "main.myFunc#40": {
+      "ncalls": 6,
+      "subtype": "I Max",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func3"
+        },
+        {
+          "func": "main.main.func3"
+        }
+      ],
+      "type": "time",
+      "uid": "main.myFunc"
+    },
+    "main.myFunc#41": {
+      "ncalls": 6,
+      "subtype": "E Max",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func3"
+        },
+        {
+          "func": "main.main.func3"
+        }
+      ],
+      "type": "time",
+      "uid": "main.myFunc"
+    },
+    "main.myFunc#42": {
+      "ncalls": 71,
+      "subtype": "Callees [#]",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.main.func2"
+        }
+      ],
+      "type": "time",
+      "uid": "main.myFunc"
+    },
+    "main.myFunc#43": {
+      "ncalls": 71,
+      "subtype": "Callees Mean [#]",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.main.func2"
+        }
+      ],
+      "type": "time",
+      "uid": "main.myFunc"
+    },
+    "main.myFunc#44": {
+      "ncalls": 71,
+      "subtype": "Total Inclusive T [ms]",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.main.func2"
+        }
+      ],
+      "type": "time",
+      "uid": "main.myFunc"
+    },
+    "main.myFunc#45": {
+      "ncalls": 71,
+      "subtype": "Total Inclusive T [%]",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.main.func2"
+        }
+      ],
+      "type": "time",
+      "uid": "main.myFunc"
+    },
+    "main.myFunc#46": {
+      "ncalls": 71,
+      "subtype": "Total Exclusive T [ms]",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.main.func2"
+        }
+      ],
+      "type": "time",
+      "uid": "main.myFunc"
+    },
+    "main.myFunc#47": {
+      "ncalls": 71,
+      "subtype": "Total Exclusive T [%]",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.main.func2"
+        }
+      ],
+      "type": "time",
+      "uid": "main.myFunc"
+    },
+    "main.myFunc#48": {
+      "ncalls": 71,
+      "subtype": "Total Morestack T [ms]",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.main.func2"
+        }
+      ],
+      "type": "time",
+      "uid": "main.myFunc"
+    },
+    "main.myFunc#49": {
+      "ncalls": 71,
+      "subtype": "Total Morestack T [%]",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.main.func2"
+        }
+      ],
+      "type": "time",
+      "uid": "main.myFunc"
+    },
+    "main.myFunc#50": {
+      "ncalls": 71,
+      "subtype": "I Mean",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.main.func2"
+        }
+      ],
+      "type": "time",
+      "uid": "main.myFunc"
+    },
+    "main.myFunc#51": {
+      "ncalls": 71,
+      "subtype": "E Mean",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.main.func2"
+        }
+      ],
+      "type": "time",
+      "uid": "main.myFunc"
+    },
+    "main.myFunc#52": {
+      "ncalls": 71,
+      "subtype": "I Min",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.main.func2"
+        }
+      ],
+      "type": "time",
+      "uid": "main.myFunc"
+    },
+    "main.myFunc#53": {
+      "ncalls": 71,
+      "subtype": "E Min",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.main.func2"
+        }
+      ],
+      "type": "time",
+      "uid": "main.myFunc"
+    },
+    "main.myFunc#54": {
+      "ncalls": 71,
+      "subtype": "I Max",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.main.func2"
+        }
+      ],
+      "type": "time",
+      "uid": "main.myFunc"
+    },
+    "main.myFunc#55": {
+      "ncalls": 71,
+      "subtype": "E Max",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.main.func2"
+        }
+      ],
+      "type": "time",
+      "uid": "main.myFunc"
+    },
+    "main.main.deferwrap2#0": {
+      "ncalls": 1,
+      "subtype": "Callees [#]",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.main.deferwrap2"
+    },
+    "main.main.deferwrap2#1": {
+      "ncalls": 1,
+      "subtype": "Callees Mean [#]",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.main.deferwrap2"
+    },
+    "main.main.deferwrap2#2": {
+      "ncalls": 1,
+      "subtype": "Total Inclusive T [ms]",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.main.deferwrap2"
+    },
+    "main.main.deferwrap2#3": {
+      "ncalls": 1,
+      "subtype": "Total Inclusive T [%]",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.main.deferwrap2"
+    },
+    "main.main.deferwrap2#4": {
+      "ncalls": 1,
+      "subtype": "Total Exclusive T [ms]",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.main.deferwrap2"
+    },
+    "main.main.deferwrap2#5": {
+      "ncalls": 1,
+      "subtype": "Total Exclusive T [%]",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.main.deferwrap2"
+    },
+    "main.main.deferwrap2#6": {
+      "ncalls": 1,
+      "subtype": "Total Morestack T [ms]",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.main.deferwrap2"
+    },
+    "main.main.deferwrap2#7": {
+      "ncalls": 1,
+      "subtype": "Total Morestack T [%]",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.main.deferwrap2"
+    },
+    "main.main.deferwrap2#8": {
+      "ncalls": 1,
+      "subtype": "I Mean",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.main.deferwrap2"
+    },
+    "main.main.deferwrap2#9": {
+      "ncalls": 1,
+      "subtype": "E Mean",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.main.deferwrap2"
+    },
+    "main.main.deferwrap2#10": {
+      "ncalls": 1,
+      "subtype": "I Min",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.main.deferwrap2"
+    },
+    "main.main.deferwrap2#11": {
+      "ncalls": 1,
+      "subtype": "E Min",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.main.deferwrap2"
+    },
+    "main.main.deferwrap2#12": {
+      "ncalls": 1,
+      "subtype": "I Max",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.main.deferwrap2"
+    },
+    "main.main.deferwrap2#13": {
+      "ncalls": 1,
+      "subtype": "E Max",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.main.deferwrap2"
+    },
+    "main.main.deferwrap3#0": {
+      "ncalls": 1,
+      "subtype": "Callees [#]",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.main.deferwrap3"
+    },
+    "main.main.deferwrap3#1": {
+      "ncalls": 1,
+      "subtype": "Callees Mean [#]",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.main.deferwrap3"
+    },
+    "main.main.deferwrap3#2": {
+      "ncalls": 1,
+      "subtype": "Total Inclusive T [ms]",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.main.deferwrap3"
+    },
+    "main.main.deferwrap3#3": {
+      "ncalls": 1,
+      "subtype": "Total Inclusive T [%]",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.main.deferwrap3"
+    },
+    "main.main.deferwrap3#4": {
+      "ncalls": 1,
+      "subtype": "Total Exclusive T [ms]",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.main.deferwrap3"
+    },
+    "main.main.deferwrap3#5": {
+      "ncalls": 1,
+      "subtype": "Total Exclusive T [%]",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.main.deferwrap3"
+    },
+    "main.main.deferwrap3#6": {
+      "ncalls": 1,
+      "subtype": "Total Morestack T [ms]",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.main.deferwrap3"
+    },
+    "main.main.deferwrap3#7": {
+      "ncalls": 1,
+      "subtype": "Total Morestack T [%]",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.main.deferwrap3"
+    },
+    "main.main.deferwrap3#8": {
+      "ncalls": 1,
+      "subtype": "I Mean",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.main.deferwrap3"
+    },
+    "main.main.deferwrap3#9": {
+      "ncalls": 1,
+      "subtype": "E Mean",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.main.deferwrap3"
+    },
+    "main.main.deferwrap3#10": {
+      "ncalls": 1,
+      "subtype": "I Min",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.main.deferwrap3"
+    },
+    "main.main.deferwrap3#11": {
+      "ncalls": 1,
+      "subtype": "E Min",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.main.deferwrap3"
+    },
+    "main.main.deferwrap3#12": {
+      "ncalls": 1,
+      "subtype": "I Max",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.main.deferwrap3"
+    },
+    "main.main.deferwrap3#13": {
+      "ncalls": 1,
+      "subtype": "E Max",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.main.deferwrap3"
+    },
+    "main.myFunc#56": {
+      "ncalls": 1,
+      "subtype": "Callees [#]",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.main.func2"
+        }
+      ],
+      "type": "time",
+      "uid": "main.myFunc"
+    },
+    "main.myFunc#57": {
+      "ncalls": 1,
+      "subtype": "Callees Mean [#]",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.main.func2"
+        }
+      ],
+      "type": "time",
+      "uid": "main.myFunc"
+    },
+    "main.myFunc#58": {
+      "ncalls": 1,
+      "subtype": "Total Inclusive T [ms]",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.main.func2"
+        }
+      ],
+      "type": "time",
+      "uid": "main.myFunc"
+    },
+    "main.myFunc#59": {
+      "ncalls": 1,
+      "subtype": "Total Inclusive T [%]",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.main.func2"
+        }
+      ],
+      "type": "time",
+      "uid": "main.myFunc"
+    },
+    "main.myFunc#60": {
+      "ncalls": 1,
+      "subtype": "Total Exclusive T [ms]",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.main.func2"
+        }
+      ],
+      "type": "time",
+      "uid": "main.myFunc"
+    },
+    "main.myFunc#61": {
+      "ncalls": 1,
+      "subtype": "Total Exclusive T [%]",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.main.func2"
+        }
+      ],
+      "type": "time",
+      "uid": "main.myFunc"
+    },
+    "main.myFunc#62": {
+      "ncalls": 1,
+      "subtype": "Total Morestack T [ms]",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.main.func2"
+        }
+      ],
+      "type": "time",
+      "uid": "main.myFunc"
+    },
+    "main.myFunc#63": {
+      "ncalls": 1,
+      "subtype": "Total Morestack T [%]",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.main.func2"
+        }
+      ],
+      "type": "time",
+      "uid": "main.myFunc"
+    },
+    "main.myFunc#64": {
+      "ncalls": 1,
+      "subtype": "I Mean",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.main.func2"
+        }
+      ],
+      "type": "time",
+      "uid": "main.myFunc"
+    },
+    "main.myFunc#65": {
+      "ncalls": 1,
+      "subtype": "E Mean",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.main.func2"
+        }
+      ],
+      "type": "time",
+      "uid": "main.myFunc"
+    },
+    "main.myFunc#66": {
+      "ncalls": 1,
+      "subtype": "I Min",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.main.func2"
+        }
+      ],
+      "type": "time",
+      "uid": "main.myFunc"
+    },
+    "main.myFunc#67": {
+      "ncalls": 1,
+      "subtype": "E Min",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.main.func2"
+        }
+      ],
+      "type": "time",
+      "uid": "main.myFunc"
+    },
+    "main.myFunc#68": {
+      "ncalls": 1,
+      "subtype": "I Max",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.main.func2"
+        }
+      ],
+      "type": "time",
+      "uid": "main.myFunc"
+    },
+    "main.myFunc#69": {
+      "ncalls": 1,
+      "subtype": "E Max",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.main.func2"
+        },
+        {
+          "func": "main.main.func2"
+        }
+      ],
+      "type": "time",
+      "uid": "main.myFunc"
+    },
+    "main.main.deferwrap1#0": {
+      "ncalls": 1,
+      "subtype": "Callees [#]",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.main.deferwrap1"
+    },
+    "main.main.deferwrap1#1": {
+      "ncalls": 1,
+      "subtype": "Callees Mean [#]",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.main.deferwrap1"
+    },
+    "main.main.deferwrap1#2": {
+      "ncalls": 1,
+      "subtype": "Total Inclusive T [ms]",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.main.deferwrap1"
+    },
+    "main.main.deferwrap1#3": {
+      "ncalls": 1,
+      "subtype": "Total Inclusive T [%]",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.main.deferwrap1"
+    },
+    "main.main.deferwrap1#4": {
+      "ncalls": 1,
+      "subtype": "Total Exclusive T [ms]",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.main.deferwrap1"
+    },
+    "main.main.deferwrap1#5": {
+      "ncalls": 1,
+      "subtype": "Total Exclusive T [%]",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.main.deferwrap1"
+    },
+    "main.main.deferwrap1#6": {
+      "ncalls": 1,
+      "subtype": "Total Morestack T [ms]",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.main.deferwrap1"
+    },
+    "main.main.deferwrap1#7": {
+      "ncalls": 1,
+      "subtype": "Total Morestack T [%]",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.main.deferwrap1"
+    },
+    "main.main.deferwrap1#8": {
+      "ncalls": 1,
+      "subtype": "I Mean",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.main.deferwrap1"
+    },
+    "main.main.deferwrap1#9": {
+      "ncalls": 1,
+      "subtype": "E Mean",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.main.deferwrap1"
+    },
+    "main.main.deferwrap1#10": {
+      "ncalls": 1,
+      "subtype": "I Min",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.main.deferwrap1"
+    },
+    "main.main.deferwrap1#11": {
+      "ncalls": 1,
+      "subtype": "E Min",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.main.deferwrap1"
+    },
+    "main.main.deferwrap1#12": {
+      "ncalls": 1,
+      "subtype": "I Max",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.main.deferwrap1"
+    },
+    "main.main.deferwrap1#13": {
+      "ncalls": 1,
+      "subtype": "E Max",
+      "time": 11609123712,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "main.main.deferwrap1"
+    }
+  },
+  "models": [],
+  "origin": "d7375b2edf0780467a31af166e9634ac1e6b2402",
+  "header": {
+    "type": "mixed",
+    "cmd": "./ants",
+    "workload": "",
+    "units": {
+      "mixed(time delta)": "us"
+    }
+  },
+  "machine": {
+    "architecture": "x86_64",
+    "system": "Linux",
+    "release": "6.5.0-28-generic",
+    "host": "Ubuntu22",
+    "cpu": {
+      "physical": 4,
+      "total": 4,
+      "frequency": "3400.06Mhz"
+    },
+    "memory": {
+      "total_ram": "7.7 GiB",
+      "swap": "2.6 GiB"
+    }
+  },
+  "collector_info": {
+    "name": "gotrace",
+    "params": {
+      "verbose": true,
+      "get_overhead": true,
+      "packages": [
+        "main"
+      ],
+      "bpfring_size": 167772160,
+      "save_intermediate_to_csv": false,
+      "workload": ""
+    }
+  },
+  "postprocessors": []
+}
