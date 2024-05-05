@@ -1,0 +1,1852 @@
+{
+  "resources": {
+    "github.com/anthonynsimon/bild/effect.Invert.func1#0": {
+      "amount": [
+        0
+      ]
+    },
+    "github.com/anthonynsimon/bild/effect.Invert.func1#1": {
+      "amount": [
+        0.0
+      ]
+    },
+    "github.com/anthonynsimon/bild/effect.Invert.func1#2": {
+      "amount": [
+        161739.580254
+      ]
+    },
+    "github.com/anthonynsimon/bild/effect.Invert.func1#3": {
+      "amount": [
+        1.4901583640236111
+      ]
+    },
+    "github.com/anthonynsimon/bild/effect.Invert.func1#4": {
+      "amount": [
+        161739.580254
+      ]
+    },
+    "github.com/anthonynsimon/bild/effect.Invert.func1#5": {
+      "amount": [
+        1.4901583640236111
+      ]
+    },
+    "github.com/anthonynsimon/bild/effect.Invert.func1#6": {
+      "amount": [
+        0.0
+      ]
+    },
+    "github.com/anthonynsimon/bild/effect.Invert.func1#7": {
+      "amount": [
+        0.0
+      ]
+    },
+    "github.com/anthonynsimon/bild/effect.Invert.func1#8": {
+      "amount": [
+        3.169624132907423
+      ]
+    },
+    "github.com/anthonynsimon/bild/effect.Invert.func1#9": {
+      "amount": [
+        3.169624132907423
+      ]
+    },
+    "github.com/anthonynsimon/bild/effect.Invert.func1#10": {
+      "amount": [
+        119611
+      ]
+    },
+    "github.com/anthonynsimon/bild/effect.Invert.func1#11": {
+      "amount": [
+        119611
+      ]
+    },
+    "github.com/anthonynsimon/bild/effect.Invert.func1#12": {
+      "amount": [
+        79651190
+      ]
+    },
+    "github.com/anthonynsimon/bild/effect.Invert.func1#13": {
+      "amount": [
+        79651190
+      ]
+    },
+    "github.com/anthonynsimon/bild/effect.Invert.func1#14": {
+      "amount": [
+        0
+      ]
+    },
+    "github.com/anthonynsimon/bild/effect.Invert.func1#15": {
+      "amount": [
+        0.0
+      ]
+    },
+    "github.com/anthonynsimon/bild/effect.Invert.func1#16": {
+      "amount": [
+        54433.528441
+      ]
+    },
+    "github.com/anthonynsimon/bild/effect.Invert.func1#17": {
+      "amount": [
+        0.5015134672804816
+      ]
+    },
+    "github.com/anthonynsimon/bild/effect.Invert.func1#18": {
+      "amount": [
+        54433.528441
+      ]
+    },
+    "github.com/anthonynsimon/bild/effect.Invert.func1#19": {
+      "amount": [
+        0.5015134672804816
+      ]
+    },
+    "github.com/anthonynsimon/bild/effect.Invert.func1#20": {
+      "amount": [
+        0.0
+      ]
+    },
+    "github.com/anthonynsimon/bild/effect.Invert.func1#21": {
+      "amount": [
+        0.0
+      ]
+    },
+    "github.com/anthonynsimon/bild/effect.Invert.func1#22": {
+      "amount": [
+        3.12980269324977
+      ]
+    },
+    "github.com/anthonynsimon/bild/effect.Invert.func1#23": {
+      "amount": [
+        3.12980269324977
+      ]
+    },
+    "github.com/anthonynsimon/bild/effect.Invert.func1#24": {
+      "amount": [
+        119951
+      ]
+    },
+    "github.com/anthonynsimon/bild/effect.Invert.func1#25": {
+      "amount": [
+        119951
+      ]
+    },
+    "github.com/anthonynsimon/bild/effect.Invert.func1#26": {
+      "amount": [
+        88875282
+      ]
+    },
+    "github.com/anthonynsimon/bild/effect.Invert.func1#27": {
+      "amount": [
+        88875282
+      ]
+    },
+    "github.com/anthonynsimon/bild/imgio.Open#0": {
+      "amount": [
+        1
+      ]
+    },
+    "github.com/anthonynsimon/bild/imgio.Open#1": {
+      "amount": [
+        2.793109622011268e-07
+      ]
+    },
+    "github.com/anthonynsimon/bild/imgio.Open#2": {
+      "amount": [
+        3.580239
+      ]
+    },
+    "github.com/anthonynsimon/bild/imgio.Open#3": {
+      "amount": [
+        3.29858843622267e-05
+      ]
+    },
+    "github.com/anthonynsimon/bild/imgio.Open#4": {
+      "amount": [
+        3.229978
+      ]
+    },
+    "github.com/anthonynsimon/bild/imgio.Open#5": {
+      "amount": [
+        2.9758818000847507e-05
+      ]
+    },
+    "github.com/anthonynsimon/bild/imgio.Open#6": {
+      "amount": [
+        0.0
+      ]
+    },
+    "github.com/anthonynsimon/bild/imgio.Open#7": {
+      "amount": [
+        0.0
+      ]
+    },
+    "github.com/anthonynsimon/bild/imgio.Open#8": {
+      "amount": [
+        3.580239
+      ]
+    },
+    "github.com/anthonynsimon/bild/imgio.Open#9": {
+      "amount": [
+        3.229978
+      ]
+    },
+    "github.com/anthonynsimon/bild/imgio.Open#10": {
+      "amount": [
+        3580239
+      ]
+    },
+    "github.com/anthonynsimon/bild/imgio.Open#11": {
+      "amount": [
+        3229978
+      ]
+    },
+    "github.com/anthonynsimon/bild/imgio.Open#12": {
+      "amount": [
+        3580239
+      ]
+    },
+    "github.com/anthonynsimon/bild/imgio.Open#13": {
+      "amount": [
+        3229978
+      ]
+    },
+    "github.com/anthonynsimon/bild/clone.AsRGBA#0": {
+      "amount": [
+        0
+      ]
+    },
+    "github.com/anthonynsimon/bild/clone.AsRGBA#1": {
+      "amount": [
+        0.0
+      ]
+    },
+    "github.com/anthonynsimon/bild/clone.AsRGBA#2": {
+      "amount": [
+        1.186563
+      ]
+    },
+    "github.com/anthonynsimon/bild/clone.AsRGBA#3": {
+      "amount": [
+        1.093218355157206e-05
+      ]
+    },
+    "github.com/anthonynsimon/bild/clone.AsRGBA#4": {
+      "amount": [
+        1.186563
+      ]
+    },
+    "github.com/anthonynsimon/bild/clone.AsRGBA#5": {
+      "amount": [
+        1.093218355157206e-05
+      ]
+    },
+    "github.com/anthonynsimon/bild/clone.AsRGBA#6": {
+      "amount": [
+        0.0
+      ]
+    },
+    "github.com/anthonynsimon/bild/clone.AsRGBA#7": {
+      "amount": [
+        0.0
+      ]
+    },
+    "github.com/anthonynsimon/bild/clone.AsRGBA#8": {
+      "amount": [
+        1.186563
+      ]
+    },
+    "github.com/anthonynsimon/bild/clone.AsRGBA#9": {
+      "amount": [
+        1.186563
+      ]
+    },
+    "github.com/anthonynsimon/bild/clone.AsRGBA#10": {
+      "amount": [
+        1186563
+      ]
+    },
+    "github.com/anthonynsimon/bild/clone.AsRGBA#11": {
+      "amount": [
+        1186563
+      ]
+    },
+    "github.com/anthonynsimon/bild/clone.AsRGBA#12": {
+      "amount": [
+        1186563
+      ]
+    },
+    "github.com/anthonynsimon/bild/clone.AsRGBA#13": {
+      "amount": [
+        1186563
+      ]
+    },
+    "github.com/anthonynsimon/bild/parallel.init.0#0": {
+      "amount": [
+        0
+      ]
+    },
+    "github.com/anthonynsimon/bild/parallel.init.0#1": {
+      "amount": [
+        0.0
+      ]
+    },
+    "github.com/anthonynsimon/bild/parallel.init.0#2": {
+      "amount": [
+        0.354851
+      ]
+    },
+    "github.com/anthonynsimon/bild/parallel.init.0#3": {
+      "amount": [
+        3.2693554960494277e-06
+      ]
+    },
+    "github.com/anthonynsimon/bild/parallel.init.0#4": {
+      "amount": [
+        0.354851
+      ]
+    },
+    "github.com/anthonynsimon/bild/parallel.init.0#5": {
+      "amount": [
+        3.2693554960494277e-06
+      ]
+    },
+    "github.com/anthonynsimon/bild/parallel.init.0#6": {
+      "amount": [
+        0.0
+      ]
+    },
+    "github.com/anthonynsimon/bild/parallel.init.0#7": {
+      "amount": [
+        0.0
+      ]
+    },
+    "github.com/anthonynsimon/bild/parallel.init.0#8": {
+      "amount": [
+        0.354851
+      ]
+    },
+    "github.com/anthonynsimon/bild/parallel.init.0#9": {
+      "amount": [
+        0.354851
+      ]
+    },
+    "github.com/anthonynsimon/bild/parallel.init.0#10": {
+      "amount": [
+        354851
+      ]
+    },
+    "github.com/anthonynsimon/bild/parallel.init.0#11": {
+      "amount": [
+        354851
+      ]
+    },
+    "github.com/anthonynsimon/bild/parallel.init.0#12": {
+      "amount": [
+        354851
+      ]
+    },
+    "github.com/anthonynsimon/bild/parallel.init.0#13": {
+      "amount": [
+        354851
+      ]
+    },
+    "github.com/anthonynsimon/bild/imgio.Open.deferwrap1#0": {
+      "amount": [
+        0
+      ]
+    },
+    "github.com/anthonynsimon/bild/imgio.Open.deferwrap1#1": {
+      "amount": [
+        0.0
+      ]
+    },
+    "github.com/anthonynsimon/bild/imgio.Open.deferwrap1#2": {
+      "amount": [
+        0.350261
+      ]
+    },
+    "github.com/anthonynsimon/bild/imgio.Open.deferwrap1#3": {
+      "amount": [
+        3.227066361379195e-06
+      ]
+    },
+    "github.com/anthonynsimon/bild/imgio.Open.deferwrap1#4": {
+      "amount": [
+        0.350261
+      ]
+    },
+    "github.com/anthonynsimon/bild/imgio.Open.deferwrap1#5": {
+      "amount": [
+        3.227066361379195e-06
+      ]
+    },
+    "github.com/anthonynsimon/bild/imgio.Open.deferwrap1#6": {
+      "amount": [
+        0.0
+      ]
+    },
+    "github.com/anthonynsimon/bild/imgio.Open.deferwrap1#7": {
+      "amount": [
+        0.0
+      ]
+    },
+    "github.com/anthonynsimon/bild/imgio.Open.deferwrap1#8": {
+      "amount": [
+        0.350261
+      ]
+    },
+    "github.com/anthonynsimon/bild/imgio.Open.deferwrap1#9": {
+      "amount": [
+        0.350261
+      ]
+    },
+    "github.com/anthonynsimon/bild/imgio.Open.deferwrap1#10": {
+      "amount": [
+        350261
+      ]
+    },
+    "github.com/anthonynsimon/bild/imgio.Open.deferwrap1#11": {
+      "amount": [
+        350261
+      ]
+    },
+    "github.com/anthonynsimon/bild/imgio.Open.deferwrap1#12": {
+      "amount": [
+        350261
+      ]
+    },
+    "github.com/anthonynsimon/bild/imgio.Open.deferwrap1#13": {
+      "amount": [
+        350261
+      ]
+    },
+    "github.com/anthonynsimon/bild/transform.init.0#0": {
+      "amount": [
+        0
+      ]
+    },
+    "github.com/anthonynsimon/bild/transform.init.0#1": {
+      "amount": [
+        0.0
+      ]
+    },
+    "github.com/anthonynsimon/bild/transform.init.0#2": {
+      "amount": [
+        0.328428
+      ]
+    },
+    "github.com/anthonynsimon/bild/transform.init.0#3": {
+      "amount": [
+        3.0259119654630295e-06
+      ]
+    },
+    "github.com/anthonynsimon/bild/transform.init.0#4": {
+      "amount": [
+        0.328428
+      ]
+    },
+    "github.com/anthonynsimon/bild/transform.init.0#5": {
+      "amount": [
+        3.0259119654630295e-06
+      ]
+    },
+    "github.com/anthonynsimon/bild/transform.init.0#6": {
+      "amount": [
+        0.0
+      ]
+    },
+    "github.com/anthonynsimon/bild/transform.init.0#7": {
+      "amount": [
+        0.0
+      ]
+    },
+    "github.com/anthonynsimon/bild/transform.init.0#8": {
+      "amount": [
+        0.328428
+      ]
+    },
+    "github.com/anthonynsimon/bild/transform.init.0#9": {
+      "amount": [
+        0.328428
+      ]
+    },
+    "github.com/anthonynsimon/bild/transform.init.0#10": {
+      "amount": [
+        328428
+      ]
+    },
+    "github.com/anthonynsimon/bild/transform.init.0#11": {
+      "amount": [
+        328428
+      ]
+    },
+    "github.com/anthonynsimon/bild/transform.init.0#12": {
+      "amount": [
+        328428
+      ]
+    },
+    "github.com/anthonynsimon/bild/transform.init.0#13": {
+      "amount": [
+        328428
+      ]
+    }
+  },
+  "resource_type_map": {
+    "github.com/anthonynsimon/bild/effect.Invert.func1#0": {
+      "ncalls": 51028,
+      "subtype": "Callees [#]",
+      "time": 108538517891,
+      "trace": [
+        {
+          "func": "github.com/anthonynsimon/bild/parallel.Line.func1"
+        },
+        {
+          "func": "github.com/anthonynsimon/bild/adjust.Apply.func1"
+        }
+      ],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/effect.Invert.func1"
+    },
+    "github.com/anthonynsimon/bild/effect.Invert.func1#1": {
+      "ncalls": 51028,
+      "subtype": "Callees Mean [#]",
+      "time": 108538517891,
+      "trace": [
+        {
+          "func": "github.com/anthonynsimon/bild/parallel.Line.func1"
+        },
+        {
+          "func": "github.com/anthonynsimon/bild/adjust.Apply.func1"
+        }
+      ],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/effect.Invert.func1"
+    },
+    "github.com/anthonynsimon/bild/effect.Invert.func1#2": {
+      "ncalls": 51028,
+      "subtype": "Total Inclusive T [ms]",
+      "time": 108538517891,
+      "trace": [
+        {
+          "func": "github.com/anthonynsimon/bild/parallel.Line.func1"
+        },
+        {
+          "func": "github.com/anthonynsimon/bild/adjust.Apply.func1"
+        }
+      ],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/effect.Invert.func1"
+    },
+    "github.com/anthonynsimon/bild/effect.Invert.func1#3": {
+      "ncalls": 51028,
+      "subtype": "Total Inclusive T [%]",
+      "time": 108538517891,
+      "trace": [
+        {
+          "func": "github.com/anthonynsimon/bild/parallel.Line.func1"
+        },
+        {
+          "func": "github.com/anthonynsimon/bild/adjust.Apply.func1"
+        }
+      ],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/effect.Invert.func1"
+    },
+    "github.com/anthonynsimon/bild/effect.Invert.func1#4": {
+      "ncalls": 51028,
+      "subtype": "Total Exclusive T [ms]",
+      "time": 108538517891,
+      "trace": [
+        {
+          "func": "github.com/anthonynsimon/bild/parallel.Line.func1"
+        },
+        {
+          "func": "github.com/anthonynsimon/bild/adjust.Apply.func1"
+        }
+      ],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/effect.Invert.func1"
+    },
+    "github.com/anthonynsimon/bild/effect.Invert.func1#5": {
+      "ncalls": 51028,
+      "subtype": "Total Exclusive T [%]",
+      "time": 108538517891,
+      "trace": [
+        {
+          "func": "github.com/anthonynsimon/bild/parallel.Line.func1"
+        },
+        {
+          "func": "github.com/anthonynsimon/bild/adjust.Apply.func1"
+        }
+      ],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/effect.Invert.func1"
+    },
+    "github.com/anthonynsimon/bild/effect.Invert.func1#6": {
+      "ncalls": 51028,
+      "subtype": "Total Morestack T [ms]",
+      "time": 108538517891,
+      "trace": [
+        {
+          "func": "github.com/anthonynsimon/bild/parallel.Line.func1"
+        },
+        {
+          "func": "github.com/anthonynsimon/bild/adjust.Apply.func1"
+        }
+      ],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/effect.Invert.func1"
+    },
+    "github.com/anthonynsimon/bild/effect.Invert.func1#7": {
+      "ncalls": 51028,
+      "subtype": "Total Morestack T [%]",
+      "time": 108538517891,
+      "trace": [
+        {
+          "func": "github.com/anthonynsimon/bild/parallel.Line.func1"
+        },
+        {
+          "func": "github.com/anthonynsimon/bild/adjust.Apply.func1"
+        }
+      ],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/effect.Invert.func1"
+    },
+    "github.com/anthonynsimon/bild/effect.Invert.func1#8": {
+      "ncalls": 51028,
+      "subtype": "I Mean",
+      "time": 108538517891,
+      "trace": [
+        {
+          "func": "github.com/anthonynsimon/bild/parallel.Line.func1"
+        },
+        {
+          "func": "github.com/anthonynsimon/bild/adjust.Apply.func1"
+        }
+      ],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/effect.Invert.func1"
+    },
+    "github.com/anthonynsimon/bild/effect.Invert.func1#9": {
+      "ncalls": 51028,
+      "subtype": "E Mean",
+      "time": 108538517891,
+      "trace": [
+        {
+          "func": "github.com/anthonynsimon/bild/parallel.Line.func1"
+        },
+        {
+          "func": "github.com/anthonynsimon/bild/adjust.Apply.func1"
+        }
+      ],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/effect.Invert.func1"
+    },
+    "github.com/anthonynsimon/bild/effect.Invert.func1#10": {
+      "ncalls": 51028,
+      "subtype": "I Min",
+      "time": 108538517891,
+      "trace": [
+        {
+          "func": "github.com/anthonynsimon/bild/parallel.Line.func1"
+        },
+        {
+          "func": "github.com/anthonynsimon/bild/adjust.Apply.func1"
+        }
+      ],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/effect.Invert.func1"
+    },
+    "github.com/anthonynsimon/bild/effect.Invert.func1#11": {
+      "ncalls": 51028,
+      "subtype": "E Min",
+      "time": 108538517891,
+      "trace": [
+        {
+          "func": "github.com/anthonynsimon/bild/parallel.Line.func1"
+        },
+        {
+          "func": "github.com/anthonynsimon/bild/adjust.Apply.func1"
+        }
+      ],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/effect.Invert.func1"
+    },
+    "github.com/anthonynsimon/bild/effect.Invert.func1#12": {
+      "ncalls": 51028,
+      "subtype": "I Max",
+      "time": 108538517891,
+      "trace": [
+        {
+          "func": "github.com/anthonynsimon/bild/parallel.Line.func1"
+        },
+        {
+          "func": "github.com/anthonynsimon/bild/adjust.Apply.func1"
+        }
+      ],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/effect.Invert.func1"
+    },
+    "github.com/anthonynsimon/bild/effect.Invert.func1#13": {
+      "ncalls": 51028,
+      "subtype": "E Max",
+      "time": 108538517891,
+      "trace": [
+        {
+          "func": "github.com/anthonynsimon/bild/parallel.Line.func1"
+        },
+        {
+          "func": "github.com/anthonynsimon/bild/adjust.Apply.func1"
+        }
+      ],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/effect.Invert.func1"
+    },
+    "github.com/anthonynsimon/bild/effect.Invert.func1#14": {
+      "ncalls": 17392,
+      "subtype": "Callees [#]",
+      "time": 108538517891,
+      "trace": [
+        {
+          "func": "github.com/anthonynsimon/bild/parallel.Line.func1"
+        },
+        {
+          "func": "github.com/anthonynsimon/bild/parallel.Line.func1"
+        },
+        {
+          "func": "github.com/anthonynsimon/bild/adjust.Apply.func1"
+        }
+      ],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/effect.Invert.func1"
+    },
+    "github.com/anthonynsimon/bild/effect.Invert.func1#15": {
+      "ncalls": 17392,
+      "subtype": "Callees Mean [#]",
+      "time": 108538517891,
+      "trace": [
+        {
+          "func": "github.com/anthonynsimon/bild/parallel.Line.func1"
+        },
+        {
+          "func": "github.com/anthonynsimon/bild/parallel.Line.func1"
+        },
+        {
+          "func": "github.com/anthonynsimon/bild/adjust.Apply.func1"
+        }
+      ],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/effect.Invert.func1"
+    },
+    "github.com/anthonynsimon/bild/effect.Invert.func1#16": {
+      "ncalls": 17392,
+      "subtype": "Total Inclusive T [ms]",
+      "time": 108538517891,
+      "trace": [
+        {
+          "func": "github.com/anthonynsimon/bild/parallel.Line.func1"
+        },
+        {
+          "func": "github.com/anthonynsimon/bild/parallel.Line.func1"
+        },
+        {
+          "func": "github.com/anthonynsimon/bild/adjust.Apply.func1"
+        }
+      ],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/effect.Invert.func1"
+    },
+    "github.com/anthonynsimon/bild/effect.Invert.func1#17": {
+      "ncalls": 17392,
+      "subtype": "Total Inclusive T [%]",
+      "time": 108538517891,
+      "trace": [
+        {
+          "func": "github.com/anthonynsimon/bild/parallel.Line.func1"
+        },
+        {
+          "func": "github.com/anthonynsimon/bild/parallel.Line.func1"
+        },
+        {
+          "func": "github.com/anthonynsimon/bild/adjust.Apply.func1"
+        }
+      ],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/effect.Invert.func1"
+    },
+    "github.com/anthonynsimon/bild/effect.Invert.func1#18": {
+      "ncalls": 17392,
+      "subtype": "Total Exclusive T [ms]",
+      "time": 108538517891,
+      "trace": [
+        {
+          "func": "github.com/anthonynsimon/bild/parallel.Line.func1"
+        },
+        {
+          "func": "github.com/anthonynsimon/bild/parallel.Line.func1"
+        },
+        {
+          "func": "github.com/anthonynsimon/bild/adjust.Apply.func1"
+        }
+      ],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/effect.Invert.func1"
+    },
+    "github.com/anthonynsimon/bild/effect.Invert.func1#19": {
+      "ncalls": 17392,
+      "subtype": "Total Exclusive T [%]",
+      "time": 108538517891,
+      "trace": [
+        {
+          "func": "github.com/anthonynsimon/bild/parallel.Line.func1"
+        },
+        {
+          "func": "github.com/anthonynsimon/bild/parallel.Line.func1"
+        },
+        {
+          "func": "github.com/anthonynsimon/bild/adjust.Apply.func1"
+        }
+      ],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/effect.Invert.func1"
+    },
+    "github.com/anthonynsimon/bild/effect.Invert.func1#20": {
+      "ncalls": 17392,
+      "subtype": "Total Morestack T [ms]",
+      "time": 108538517891,
+      "trace": [
+        {
+          "func": "github.com/anthonynsimon/bild/parallel.Line.func1"
+        },
+        {
+          "func": "github.com/anthonynsimon/bild/parallel.Line.func1"
+        },
+        {
+          "func": "github.com/anthonynsimon/bild/adjust.Apply.func1"
+        }
+      ],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/effect.Invert.func1"
+    },
+    "github.com/anthonynsimon/bild/effect.Invert.func1#21": {
+      "ncalls": 17392,
+      "subtype": "Total Morestack T [%]",
+      "time": 108538517891,
+      "trace": [
+        {
+          "func": "github.com/anthonynsimon/bild/parallel.Line.func1"
+        },
+        {
+          "func": "github.com/anthonynsimon/bild/parallel.Line.func1"
+        },
+        {
+          "func": "github.com/anthonynsimon/bild/adjust.Apply.func1"
+        }
+      ],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/effect.Invert.func1"
+    },
+    "github.com/anthonynsimon/bild/effect.Invert.func1#22": {
+      "ncalls": 17392,
+      "subtype": "I Mean",
+      "time": 108538517891,
+      "trace": [
+        {
+          "func": "github.com/anthonynsimon/bild/parallel.Line.func1"
+        },
+        {
+          "func": "github.com/anthonynsimon/bild/parallel.Line.func1"
+        },
+        {
+          "func": "github.com/anthonynsimon/bild/adjust.Apply.func1"
+        }
+      ],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/effect.Invert.func1"
+    },
+    "github.com/anthonynsimon/bild/effect.Invert.func1#23": {
+      "ncalls": 17392,
+      "subtype": "E Mean",
+      "time": 108538517891,
+      "trace": [
+        {
+          "func": "github.com/anthonynsimon/bild/parallel.Line.func1"
+        },
+        {
+          "func": "github.com/anthonynsimon/bild/parallel.Line.func1"
+        },
+        {
+          "func": "github.com/anthonynsimon/bild/adjust.Apply.func1"
+        }
+      ],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/effect.Invert.func1"
+    },
+    "github.com/anthonynsimon/bild/effect.Invert.func1#24": {
+      "ncalls": 17392,
+      "subtype": "I Min",
+      "time": 108538517891,
+      "trace": [
+        {
+          "func": "github.com/anthonynsimon/bild/parallel.Line.func1"
+        },
+        {
+          "func": "github.com/anthonynsimon/bild/parallel.Line.func1"
+        },
+        {
+          "func": "github.com/anthonynsimon/bild/adjust.Apply.func1"
+        }
+      ],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/effect.Invert.func1"
+    },
+    "github.com/anthonynsimon/bild/effect.Invert.func1#25": {
+      "ncalls": 17392,
+      "subtype": "E Min",
+      "time": 108538517891,
+      "trace": [
+        {
+          "func": "github.com/anthonynsimon/bild/parallel.Line.func1"
+        },
+        {
+          "func": "github.com/anthonynsimon/bild/parallel.Line.func1"
+        },
+        {
+          "func": "github.com/anthonynsimon/bild/adjust.Apply.func1"
+        }
+      ],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/effect.Invert.func1"
+    },
+    "github.com/anthonynsimon/bild/effect.Invert.func1#26": {
+      "ncalls": 17392,
+      "subtype": "I Max",
+      "time": 108538517891,
+      "trace": [
+        {
+          "func": "github.com/anthonynsimon/bild/parallel.Line.func1"
+        },
+        {
+          "func": "github.com/anthonynsimon/bild/parallel.Line.func1"
+        },
+        {
+          "func": "github.com/anthonynsimon/bild/adjust.Apply.func1"
+        }
+      ],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/effect.Invert.func1"
+    },
+    "github.com/anthonynsimon/bild/effect.Invert.func1#27": {
+      "ncalls": 17392,
+      "subtype": "E Max",
+      "time": 108538517891,
+      "trace": [
+        {
+          "func": "github.com/anthonynsimon/bild/parallel.Line.func1"
+        },
+        {
+          "func": "github.com/anthonynsimon/bild/parallel.Line.func1"
+        },
+        {
+          "func": "github.com/anthonynsimon/bild/adjust.Apply.func1"
+        }
+      ],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/effect.Invert.func1"
+    },
+    "github.com/anthonynsimon/bild/imgio.Open#0": {
+      "ncalls": 1,
+      "subtype": "Callees [#]",
+      "time": 108538517891,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/imgio.Open"
+    },
+    "github.com/anthonynsimon/bild/imgio.Open#1": {
+      "ncalls": 1,
+      "subtype": "Callees Mean [#]",
+      "time": 108538517891,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/imgio.Open"
+    },
+    "github.com/anthonynsimon/bild/imgio.Open#2": {
+      "ncalls": 1,
+      "subtype": "Total Inclusive T [ms]",
+      "time": 108538517891,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/imgio.Open"
+    },
+    "github.com/anthonynsimon/bild/imgio.Open#3": {
+      "ncalls": 1,
+      "subtype": "Total Inclusive T [%]",
+      "time": 108538517891,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/imgio.Open"
+    },
+    "github.com/anthonynsimon/bild/imgio.Open#4": {
+      "ncalls": 1,
+      "subtype": "Total Exclusive T [ms]",
+      "time": 108538517891,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/imgio.Open"
+    },
+    "github.com/anthonynsimon/bild/imgio.Open#5": {
+      "ncalls": 1,
+      "subtype": "Total Exclusive T [%]",
+      "time": 108538517891,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/imgio.Open"
+    },
+    "github.com/anthonynsimon/bild/imgio.Open#6": {
+      "ncalls": 1,
+      "subtype": "Total Morestack T [ms]",
+      "time": 108538517891,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/imgio.Open"
+    },
+    "github.com/anthonynsimon/bild/imgio.Open#7": {
+      "ncalls": 1,
+      "subtype": "Total Morestack T [%]",
+      "time": 108538517891,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/imgio.Open"
+    },
+    "github.com/anthonynsimon/bild/imgio.Open#8": {
+      "ncalls": 1,
+      "subtype": "I Mean",
+      "time": 108538517891,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/imgio.Open"
+    },
+    "github.com/anthonynsimon/bild/imgio.Open#9": {
+      "ncalls": 1,
+      "subtype": "E Mean",
+      "time": 108538517891,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/imgio.Open"
+    },
+    "github.com/anthonynsimon/bild/imgio.Open#10": {
+      "ncalls": 1,
+      "subtype": "I Min",
+      "time": 108538517891,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/imgio.Open"
+    },
+    "github.com/anthonynsimon/bild/imgio.Open#11": {
+      "ncalls": 1,
+      "subtype": "E Min",
+      "time": 108538517891,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/imgio.Open"
+    },
+    "github.com/anthonynsimon/bild/imgio.Open#12": {
+      "ncalls": 1,
+      "subtype": "I Max",
+      "time": 108538517891,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/imgio.Open"
+    },
+    "github.com/anthonynsimon/bild/imgio.Open#13": {
+      "ncalls": 1,
+      "subtype": "E Max",
+      "time": 108538517891,
+      "trace": [
+        {
+          "func": "main.main"
+        }
+      ],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/imgio.Open"
+    },
+    "github.com/anthonynsimon/bild/clone.AsRGBA#0": {
+      "ncalls": 1,
+      "subtype": "Callees [#]",
+      "time": 108538517891,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "github.com/anthonynsimon/bild/effect.Invert"
+        },
+        {
+          "func": "github.com/anthonynsimon/bild/adjust.Apply"
+        }
+      ],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/clone.AsRGBA"
+    },
+    "github.com/anthonynsimon/bild/clone.AsRGBA#1": {
+      "ncalls": 1,
+      "subtype": "Callees Mean [#]",
+      "time": 108538517891,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "github.com/anthonynsimon/bild/effect.Invert"
+        },
+        {
+          "func": "github.com/anthonynsimon/bild/adjust.Apply"
+        }
+      ],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/clone.AsRGBA"
+    },
+    "github.com/anthonynsimon/bild/clone.AsRGBA#2": {
+      "ncalls": 1,
+      "subtype": "Total Inclusive T [ms]",
+      "time": 108538517891,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "github.com/anthonynsimon/bild/effect.Invert"
+        },
+        {
+          "func": "github.com/anthonynsimon/bild/adjust.Apply"
+        }
+      ],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/clone.AsRGBA"
+    },
+    "github.com/anthonynsimon/bild/clone.AsRGBA#3": {
+      "ncalls": 1,
+      "subtype": "Total Inclusive T [%]",
+      "time": 108538517891,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "github.com/anthonynsimon/bild/effect.Invert"
+        },
+        {
+          "func": "github.com/anthonynsimon/bild/adjust.Apply"
+        }
+      ],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/clone.AsRGBA"
+    },
+    "github.com/anthonynsimon/bild/clone.AsRGBA#4": {
+      "ncalls": 1,
+      "subtype": "Total Exclusive T [ms]",
+      "time": 108538517891,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "github.com/anthonynsimon/bild/effect.Invert"
+        },
+        {
+          "func": "github.com/anthonynsimon/bild/adjust.Apply"
+        }
+      ],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/clone.AsRGBA"
+    },
+    "github.com/anthonynsimon/bild/clone.AsRGBA#5": {
+      "ncalls": 1,
+      "subtype": "Total Exclusive T [%]",
+      "time": 108538517891,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "github.com/anthonynsimon/bild/effect.Invert"
+        },
+        {
+          "func": "github.com/anthonynsimon/bild/adjust.Apply"
+        }
+      ],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/clone.AsRGBA"
+    },
+    "github.com/anthonynsimon/bild/clone.AsRGBA#6": {
+      "ncalls": 1,
+      "subtype": "Total Morestack T [ms]",
+      "time": 108538517891,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "github.com/anthonynsimon/bild/effect.Invert"
+        },
+        {
+          "func": "github.com/anthonynsimon/bild/adjust.Apply"
+        }
+      ],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/clone.AsRGBA"
+    },
+    "github.com/anthonynsimon/bild/clone.AsRGBA#7": {
+      "ncalls": 1,
+      "subtype": "Total Morestack T [%]",
+      "time": 108538517891,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "github.com/anthonynsimon/bild/effect.Invert"
+        },
+        {
+          "func": "github.com/anthonynsimon/bild/adjust.Apply"
+        }
+      ],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/clone.AsRGBA"
+    },
+    "github.com/anthonynsimon/bild/clone.AsRGBA#8": {
+      "ncalls": 1,
+      "subtype": "I Mean",
+      "time": 108538517891,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "github.com/anthonynsimon/bild/effect.Invert"
+        },
+        {
+          "func": "github.com/anthonynsimon/bild/adjust.Apply"
+        }
+      ],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/clone.AsRGBA"
+    },
+    "github.com/anthonynsimon/bild/clone.AsRGBA#9": {
+      "ncalls": 1,
+      "subtype": "E Mean",
+      "time": 108538517891,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "github.com/anthonynsimon/bild/effect.Invert"
+        },
+        {
+          "func": "github.com/anthonynsimon/bild/adjust.Apply"
+        }
+      ],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/clone.AsRGBA"
+    },
+    "github.com/anthonynsimon/bild/clone.AsRGBA#10": {
+      "ncalls": 1,
+      "subtype": "I Min",
+      "time": 108538517891,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "github.com/anthonynsimon/bild/effect.Invert"
+        },
+        {
+          "func": "github.com/anthonynsimon/bild/adjust.Apply"
+        }
+      ],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/clone.AsRGBA"
+    },
+    "github.com/anthonynsimon/bild/clone.AsRGBA#11": {
+      "ncalls": 1,
+      "subtype": "E Min",
+      "time": 108538517891,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "github.com/anthonynsimon/bild/effect.Invert"
+        },
+        {
+          "func": "github.com/anthonynsimon/bild/adjust.Apply"
+        }
+      ],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/clone.AsRGBA"
+    },
+    "github.com/anthonynsimon/bild/clone.AsRGBA#12": {
+      "ncalls": 1,
+      "subtype": "I Max",
+      "time": 108538517891,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "github.com/anthonynsimon/bild/effect.Invert"
+        },
+        {
+          "func": "github.com/anthonynsimon/bild/adjust.Apply"
+        }
+      ],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/clone.AsRGBA"
+    },
+    "github.com/anthonynsimon/bild/clone.AsRGBA#13": {
+      "ncalls": 1,
+      "subtype": "E Max",
+      "time": 108538517891,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "github.com/anthonynsimon/bild/effect.Invert"
+        },
+        {
+          "func": "github.com/anthonynsimon/bild/adjust.Apply"
+        }
+      ],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/clone.AsRGBA"
+    },
+    "github.com/anthonynsimon/bild/parallel.init.0#0": {
+      "ncalls": 1,
+      "subtype": "Callees [#]",
+      "time": 108538517891,
+      "trace": [],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/parallel.init.0"
+    },
+    "github.com/anthonynsimon/bild/parallel.init.0#1": {
+      "ncalls": 1,
+      "subtype": "Callees Mean [#]",
+      "time": 108538517891,
+      "trace": [],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/parallel.init.0"
+    },
+    "github.com/anthonynsimon/bild/parallel.init.0#2": {
+      "ncalls": 1,
+      "subtype": "Total Inclusive T [ms]",
+      "time": 108538517891,
+      "trace": [],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/parallel.init.0"
+    },
+    "github.com/anthonynsimon/bild/parallel.init.0#3": {
+      "ncalls": 1,
+      "subtype": "Total Inclusive T [%]",
+      "time": 108538517891,
+      "trace": [],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/parallel.init.0"
+    },
+    "github.com/anthonynsimon/bild/parallel.init.0#4": {
+      "ncalls": 1,
+      "subtype": "Total Exclusive T [ms]",
+      "time": 108538517891,
+      "trace": [],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/parallel.init.0"
+    },
+    "github.com/anthonynsimon/bild/parallel.init.0#5": {
+      "ncalls": 1,
+      "subtype": "Total Exclusive T [%]",
+      "time": 108538517891,
+      "trace": [],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/parallel.init.0"
+    },
+    "github.com/anthonynsimon/bild/parallel.init.0#6": {
+      "ncalls": 1,
+      "subtype": "Total Morestack T [ms]",
+      "time": 108538517891,
+      "trace": [],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/parallel.init.0"
+    },
+    "github.com/anthonynsimon/bild/parallel.init.0#7": {
+      "ncalls": 1,
+      "subtype": "Total Morestack T [%]",
+      "time": 108538517891,
+      "trace": [],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/parallel.init.0"
+    },
+    "github.com/anthonynsimon/bild/parallel.init.0#8": {
+      "ncalls": 1,
+      "subtype": "I Mean",
+      "time": 108538517891,
+      "trace": [],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/parallel.init.0"
+    },
+    "github.com/anthonynsimon/bild/parallel.init.0#9": {
+      "ncalls": 1,
+      "subtype": "E Mean",
+      "time": 108538517891,
+      "trace": [],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/parallel.init.0"
+    },
+    "github.com/anthonynsimon/bild/parallel.init.0#10": {
+      "ncalls": 1,
+      "subtype": "I Min",
+      "time": 108538517891,
+      "trace": [],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/parallel.init.0"
+    },
+    "github.com/anthonynsimon/bild/parallel.init.0#11": {
+      "ncalls": 1,
+      "subtype": "E Min",
+      "time": 108538517891,
+      "trace": [],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/parallel.init.0"
+    },
+    "github.com/anthonynsimon/bild/parallel.init.0#12": {
+      "ncalls": 1,
+      "subtype": "I Max",
+      "time": 108538517891,
+      "trace": [],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/parallel.init.0"
+    },
+    "github.com/anthonynsimon/bild/parallel.init.0#13": {
+      "ncalls": 1,
+      "subtype": "E Max",
+      "time": 108538517891,
+      "trace": [],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/parallel.init.0"
+    },
+    "github.com/anthonynsimon/bild/imgio.Open.deferwrap1#0": {
+      "ncalls": 1,
+      "subtype": "Callees [#]",
+      "time": 108538517891,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "github.com/anthonynsimon/bild/imgio.Open"
+        }
+      ],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/imgio.Open.deferwrap1"
+    },
+    "github.com/anthonynsimon/bild/imgio.Open.deferwrap1#1": {
+      "ncalls": 1,
+      "subtype": "Callees Mean [#]",
+      "time": 108538517891,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "github.com/anthonynsimon/bild/imgio.Open"
+        }
+      ],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/imgio.Open.deferwrap1"
+    },
+    "github.com/anthonynsimon/bild/imgio.Open.deferwrap1#2": {
+      "ncalls": 1,
+      "subtype": "Total Inclusive T [ms]",
+      "time": 108538517891,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "github.com/anthonynsimon/bild/imgio.Open"
+        }
+      ],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/imgio.Open.deferwrap1"
+    },
+    "github.com/anthonynsimon/bild/imgio.Open.deferwrap1#3": {
+      "ncalls": 1,
+      "subtype": "Total Inclusive T [%]",
+      "time": 108538517891,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "github.com/anthonynsimon/bild/imgio.Open"
+        }
+      ],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/imgio.Open.deferwrap1"
+    },
+    "github.com/anthonynsimon/bild/imgio.Open.deferwrap1#4": {
+      "ncalls": 1,
+      "subtype": "Total Exclusive T [ms]",
+      "time": 108538517891,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "github.com/anthonynsimon/bild/imgio.Open"
+        }
+      ],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/imgio.Open.deferwrap1"
+    },
+    "github.com/anthonynsimon/bild/imgio.Open.deferwrap1#5": {
+      "ncalls": 1,
+      "subtype": "Total Exclusive T [%]",
+      "time": 108538517891,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "github.com/anthonynsimon/bild/imgio.Open"
+        }
+      ],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/imgio.Open.deferwrap1"
+    },
+    "github.com/anthonynsimon/bild/imgio.Open.deferwrap1#6": {
+      "ncalls": 1,
+      "subtype": "Total Morestack T [ms]",
+      "time": 108538517891,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "github.com/anthonynsimon/bild/imgio.Open"
+        }
+      ],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/imgio.Open.deferwrap1"
+    },
+    "github.com/anthonynsimon/bild/imgio.Open.deferwrap1#7": {
+      "ncalls": 1,
+      "subtype": "Total Morestack T [%]",
+      "time": 108538517891,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "github.com/anthonynsimon/bild/imgio.Open"
+        }
+      ],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/imgio.Open.deferwrap1"
+    },
+    "github.com/anthonynsimon/bild/imgio.Open.deferwrap1#8": {
+      "ncalls": 1,
+      "subtype": "I Mean",
+      "time": 108538517891,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "github.com/anthonynsimon/bild/imgio.Open"
+        }
+      ],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/imgio.Open.deferwrap1"
+    },
+    "github.com/anthonynsimon/bild/imgio.Open.deferwrap1#9": {
+      "ncalls": 1,
+      "subtype": "E Mean",
+      "time": 108538517891,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "github.com/anthonynsimon/bild/imgio.Open"
+        }
+      ],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/imgio.Open.deferwrap1"
+    },
+    "github.com/anthonynsimon/bild/imgio.Open.deferwrap1#10": {
+      "ncalls": 1,
+      "subtype": "I Min",
+      "time": 108538517891,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "github.com/anthonynsimon/bild/imgio.Open"
+        }
+      ],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/imgio.Open.deferwrap1"
+    },
+    "github.com/anthonynsimon/bild/imgio.Open.deferwrap1#11": {
+      "ncalls": 1,
+      "subtype": "E Min",
+      "time": 108538517891,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "github.com/anthonynsimon/bild/imgio.Open"
+        }
+      ],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/imgio.Open.deferwrap1"
+    },
+    "github.com/anthonynsimon/bild/imgio.Open.deferwrap1#12": {
+      "ncalls": 1,
+      "subtype": "I Max",
+      "time": 108538517891,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "github.com/anthonynsimon/bild/imgio.Open"
+        }
+      ],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/imgio.Open.deferwrap1"
+    },
+    "github.com/anthonynsimon/bild/imgio.Open.deferwrap1#13": {
+      "ncalls": 1,
+      "subtype": "E Max",
+      "time": 108538517891,
+      "trace": [
+        {
+          "func": "main.main"
+        },
+        {
+          "func": "github.com/anthonynsimon/bild/imgio.Open"
+        }
+      ],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/imgio.Open.deferwrap1"
+    },
+    "github.com/anthonynsimon/bild/transform.init.0#0": {
+      "ncalls": 1,
+      "subtype": "Callees [#]",
+      "time": 108538517891,
+      "trace": [],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/transform.init.0"
+    },
+    "github.com/anthonynsimon/bild/transform.init.0#1": {
+      "ncalls": 1,
+      "subtype": "Callees Mean [#]",
+      "time": 108538517891,
+      "trace": [],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/transform.init.0"
+    },
+    "github.com/anthonynsimon/bild/transform.init.0#2": {
+      "ncalls": 1,
+      "subtype": "Total Inclusive T [ms]",
+      "time": 108538517891,
+      "trace": [],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/transform.init.0"
+    },
+    "github.com/anthonynsimon/bild/transform.init.0#3": {
+      "ncalls": 1,
+      "subtype": "Total Inclusive T [%]",
+      "time": 108538517891,
+      "trace": [],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/transform.init.0"
+    },
+    "github.com/anthonynsimon/bild/transform.init.0#4": {
+      "ncalls": 1,
+      "subtype": "Total Exclusive T [ms]",
+      "time": 108538517891,
+      "trace": [],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/transform.init.0"
+    },
+    "github.com/anthonynsimon/bild/transform.init.0#5": {
+      "ncalls": 1,
+      "subtype": "Total Exclusive T [%]",
+      "time": 108538517891,
+      "trace": [],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/transform.init.0"
+    },
+    "github.com/anthonynsimon/bild/transform.init.0#6": {
+      "ncalls": 1,
+      "subtype": "Total Morestack T [ms]",
+      "time": 108538517891,
+      "trace": [],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/transform.init.0"
+    },
+    "github.com/anthonynsimon/bild/transform.init.0#7": {
+      "ncalls": 1,
+      "subtype": "Total Morestack T [%]",
+      "time": 108538517891,
+      "trace": [],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/transform.init.0"
+    },
+    "github.com/anthonynsimon/bild/transform.init.0#8": {
+      "ncalls": 1,
+      "subtype": "I Mean",
+      "time": 108538517891,
+      "trace": [],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/transform.init.0"
+    },
+    "github.com/anthonynsimon/bild/transform.init.0#9": {
+      "ncalls": 1,
+      "subtype": "E Mean",
+      "time": 108538517891,
+      "trace": [],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/transform.init.0"
+    },
+    "github.com/anthonynsimon/bild/transform.init.0#10": {
+      "ncalls": 1,
+      "subtype": "I Min",
+      "time": 108538517891,
+      "trace": [],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/transform.init.0"
+    },
+    "github.com/anthonynsimon/bild/transform.init.0#11": {
+      "ncalls": 1,
+      "subtype": "E Min",
+      "time": 108538517891,
+      "trace": [],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/transform.init.0"
+    },
+    "github.com/anthonynsimon/bild/transform.init.0#12": {
+      "ncalls": 1,
+      "subtype": "I Max",
+      "time": 108538517891,
+      "trace": [],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/transform.init.0"
+    },
+    "github.com/anthonynsimon/bild/transform.init.0#13": {
+      "ncalls": 1,
+      "subtype": "E Max",
+      "time": 108538517891,
+      "trace": [],
+      "type": "time",
+      "uid": "github.com/anthonynsimon/bild/transform.init.0"
+    }
+  },
+  "models": [],
+  "origin": "fcff459976dd5b55ba473c0cd18b12b4137d9f0f",
+  "header": {
+    "type": "mixed",
+    "cmd": "./bild",
+    "workload": "",
+    "units": {
+      "mixed(time delta)": "us"
+    }
+  },
+  "machine": {
+    "architecture": "x86_64",
+    "system": "Linux",
+    "release": "6.5.0-28-generic",
+    "host": "Ubuntu22",
+    "cpu": {
+      "physical": 4,
+      "total": 4,
+      "frequency": "3400.06Mhz"
+    },
+    "memory": {
+      "total_ram": "7.7 GiB",
+      "swap": "2.6 GiB"
+    }
+  },
+  "collector_info": {
+    "name": "gotrace",
+    "params": {
+      "packages": [
+        "main",
+        "github.com"
+      ],
+      "bpfring_size": 167772160,
+      "save_intermediate_to_csv": false,
+      "get_overhead": false,
+      "verbose": false,
+      "workload": ""
+    }
+  },
+  "postprocessors": []
+}
